@@ -27,21 +27,27 @@ export default {
     scroll: 0
   }),
   created(){
-    window.addEventListener('scroll', this.getScrollEvent);
+    if (window) {
+      window.addEventListener('scroll', this.getScrollEvent);
+    }
   },
   destroyed(){
-    window.removeEventListener('scroll', this.getScrollEvent);
+    if (window) {
+      window.removeEventListener('scroll', this.getScrollEvent);
+    }
   },
   methods:{
     getScrollEvent () {
       this.scroll = window.pageYOffset;
     },
     scrollTop() {
-      if(window.scrollY!=0) {
-        setTimeout(() => {
-          window.scrollTo(0,window.scrollY-30);
-          this.scrollTop();
-        }, 5);
+      if (window) {
+        if(window.scrollY!=0) {
+          setTimeout(() => {
+            window.scrollTo(0,window.scrollY-30);
+            this.scrollTop();
+          }, 5);
+        }
       }
     }
   }
