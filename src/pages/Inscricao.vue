@@ -45,7 +45,7 @@
                     <h4 class="card__title">Preencha o relatório de apresentação</h4>
                     <p class="card__divider card__divider--3"></p>
                     <p class="card__text">Ao preencher o formulário de inscrição, na mesma plataforma, você deve fazer o envio do “relatório de detalhamento” do seu projeto.  É muito importante para validar a sua participação, que você o preencha e faça o upload do arquivo no formulário.</p>
-                    <g-link to="../assets/images/Relatorio-de-Detalhamento.pptx" class="card__link card__link--3"><font-awesome :icon="['fas', 'arrow-right']"/>Relatório de detalhamento</g-link>
+                    <g-link to="../assets/images/Relatorio-de-Apresentacao.pptx" class="card__link card__link--3"><font-awesome :icon="['fas', 'arrow-right']"/>Relatório de apresentação</g-link>
                 </div>           
               </div>
               <div class="col-xl-3 col-lg-6 col-md-6 mt-5 px-xl-2">
