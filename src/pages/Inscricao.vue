@@ -44,7 +44,7 @@
                     <h3 class="card__number">03.</h3>
                     <h4 class="card__title">Preencha o relatório de apresentação</h4>
                     <p class="card__divider card__divider--3"></p>
-                    <p class="card__text">Ao preencher o formulário de inscrição, na mesma plataforma, você deve fazer o envio do “relatório de apresentação" do seu projeto.  É muito importante para validar a sua participação, que você o preencha e faça o upload do arquivo no formulário.</p>
+                    <p class="card__text">Em seu e-mail você receberá o link para download do Relatório de Apresentação. Preencha o documento e faça o envio dele ao final do formulário de inscrição. Só serão válidas as inscrições que enviarem o Relatório no formato solicitado.<br>Faça aqui também o download do Relatório de Apresentação.</p>
                     <g-link to="../assets/images/Relatorio-de-Apresentacao.pptx" class="card__link card__link--3"><font-awesome :icon="['fas', 'arrow-right']"/>Relatório de apresentação</g-link>
                 </div>           
               </div>
