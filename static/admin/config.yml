@@ -9,7 +9,7 @@ publish_mode: editorial_workflow
 media_folder: "static/uploads" # Media files will be stored in the repo under images/uploads
 public_folder: "uploads" # The src attribute for uploaded media will begin with /images/uploads
 
-logo_url: https://energy-future.netlify.com/assets/img/img-logo-ef.48baba85.svg
+logo_url: https://energyfuture.com.br/assets/img/img-logo-ef.48baba85.svg
 
 collections:
   - name: "blog" # Used in routes, e.g., /admin/collections/blog
