@@ -72,7 +72,7 @@
       <section id="social-media">
         <div class="row mt-4">
           <div class="col">
-            <SocialShare />
+            <SocialShare url="https://www.energyfuture.com.br/noticias/" />
           </div>
         </div>
       </section>
