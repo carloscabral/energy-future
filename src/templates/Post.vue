@@ -15,7 +15,7 @@
             </div>
             <div class="row single-post__content">
                 <div class="col-md-10 offset-md-1 mb-5 share">
-                    <SocialShare :hasRotation="false" :url="'https://www.energyfuture.com.br/noticias/'+ $page.post.path" />
+                    <SocialShare :hasRotation="false" :url="'https://www.energyfuture.com.br'+ $page.post.path" />
                 </div>
                 <div class="col-md-10 offset-md-1 col-md-10 offset-md-1">
                     <p align="justify" v-html="$page.post.content"></p>
