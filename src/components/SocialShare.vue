@@ -3,17 +3,17 @@
         <p class="social-share__title">Compartilhe:</p>
         <ul class="social-share__list">
             <li class="social-share__item">
-                <a class="facebook" href="https://www.facebook.com/sharer/sharer.php?u=https://energyfuture.com.br" target="_blank" rel="noopener noreferrer">
+                <a class="facebook" :href="'https://www.facebook.com/sharer/sharer.php?u=' + url" target="_blank" rel="noopener noreferrer">
                 <font-awesome :icon="['fab', 'facebook']"/>
                 </a>            
             </li>
             <li class="social-share__item">
-                <a class="twitter" href="https://www.twitter.com/share?url=https://energyfuture.com.br&text=Saiba mais sobre o Energy Future&via=energyfuturebr" target="_blank" rel="noopener noreferrer">
+                <a class="twitter" :href="'https://www.twitter.com/share?url=' + url" target="_blank" rel="noopener noreferrer">
                 <font-awesome :icon="['fab', 'twitter']"/>
                 </a>        
             </li> 
             <li class="social-share__item">
-                <a class="linkedin" href="https://www.linkedin.com/shareArticle?url=https://energyfuture.com.br" target="_blank" rel="noopener noreferrer">
+                <a class="linkedin" :href="'https://www.linkedin.com/shareArticle?url=' + url" target="_blank" rel="noopener noreferrer">
                 <font-awesome :icon="['fab', 'linkedin']"/>
                 </a>        
             </li>                    
@@ -24,7 +24,8 @@
 <script>
 export default {
   props: {
-      hasRotation: { type: Boolean, required: false }
+      hasRotation: { type: Boolean, required: false },
+      url: { type: String, required: true }
   },
 }
 </script>

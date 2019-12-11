@@ -4,7 +4,7 @@
       <figure class="featured-image"></figure>
       <div class="row content">
         <div class="col-12 mb-5 mb-lg-0 col-lg-1 share">
-            <SocialShare :hasRotation="true" />
+            <SocialShare :hasRotation="true" url="https://www.energyfuture.com.br/quem-somos/" />
         </div>
         <div class="col-12 col-lg-9 offset-lg-1">
           <p>O Energy Future é o hub virtual de inovação do setor de energia elétrica. A maior chamada de projetos de Pesquisa e Desenvolvimento (P&D) do setor elétrico brasileiro. Conectamos soluções inovadoras a oportunidades.<br><br>
@@ -35,6 +35,8 @@ export default {
       { name: "author", content: "Carlos Gomes Cabral" },
       { name: "description", content: "O Energy Future é o hub virtual de inovação do setor de energia elétrica. Conectamos soluções inovadoras a oportunidades!" },
       { name: "keywords", content: "Startups, Inovação, Setor elétrico, Concessionárias de energia" },
+      { key: 'og:title', name: 'og:title', content: 'Energy Future - Quem Somos' },
+      { key: 'twitter:title', name: 'twitter:title', content: 'Energy Future - Quem Somos' }      
     ]    
   },
   components: { SocialShare }

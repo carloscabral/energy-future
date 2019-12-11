@@ -64,7 +64,7 @@
 
       <section id="categories">
             <h3 class="mb-3">Categorias da Chamada Energy Future:</h3>
-            <p>Entender as atuais necessidades do setor de energia elétrica é o primeiro passo na proposta de um projeto de caráter inovador. Por isso, o Energy Future estabeleceu as principais categorias, diretrizes, para orientar os novos negócios.</p>
+            <p>Entender as atuais necessidades do setor de energia elétrica faz toda a diferença na proposta de um projeto de caráter inovador. Por isso, o Energy Future estabeleceu as principais categorias, diretrizes, para orientar os novos negócios.</p>
 
             <div v-for="(item, index) in items" :key="index">
                 <Collapse :title="item.title" :text="item.text" />
@@ -86,7 +86,7 @@
       <section id="social-media">
         <div class="row" style="margin-top: 4.5rem">
           <div class="col">
-            <SocialShare />
+            <SocialShare url="https://www.energyfuture.com.br/inscricao/" />
           </div>
         </div>
       </section>       
@@ -107,6 +107,8 @@ export default {
       { name: "author", content: "Carlos Gomes Cabral" },
       { name: "description", content: "Entenda as regras, preencha o formulário e aplique o seu projeto para concorrer ao prêmio Energy Future!" },
       { name: "keywords", content: "Startups, Inovação, Setor elétrico, Concessionárias de energia" },
+      { key: 'og:title', name: 'og:title', content: 'Energy Future - Inscrição' },
+      { key: 'twitter:title', name: 'twitter:title', content: 'Energy Future - Inscrição' }      
     ]
   },
   data: () => ({

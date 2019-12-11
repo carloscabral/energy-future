@@ -13,7 +13,7 @@
       <section id="social-media">
         <div class="row" style="margin-top: 4.5rem">
           <div class="col">
-            <SocialShare />
+            <SocialShare url="https://www.energyfuture.com.br/duvidas/" />
           </div>
         </div>
       </section>       
@@ -33,6 +33,8 @@ export default {
       { name: "author", content: "Carlos Gomes Cabral" },
       { name: "description", content: "Dúvidas sobre como participar do maior evento de Open Innovation do Brasil? Conheça todas as informações para inscrever seu projeto." },
       { name: "keywords", content: "Startups, Inovação, Setor elétrico, Concessionárias de energia" },
+      { key: 'og:title', name: 'og:title', content: 'Energy Future - Dúvidas' },
+      { key: 'twitter:title', name: 'twitter:title', content: 'Energy Future - Dúvidas' }      
     ]     
   },
   components: {

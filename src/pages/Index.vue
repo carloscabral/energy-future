@@ -228,6 +228,8 @@ export default {
       { name: "author", content: "Carlos Gomes Cabral" },
       { name: "description", content: "Hub virtual de inovação que conecta projetos a grandes concessionárias do país. Buscamos soluções que ajudem a melhorar o cenário da energia elétrica no Brasil." },
       { name: "keywords", content: "Startups, Inovação, Setor elétrico, Concessionárias de energia" },
+      { key: 'og:title', name: 'og:title', content: 'Energy Future - Bem-vindo' },
+      { key: 'twitter:title', name: 'twitter:title', content: 'Energy Future - Bem-vindo' }      
     ]    
   },
   data: () => ({

@@ -5,24 +5,6 @@
         <g-link v-if="darkMode" to="/"><img src="@/assets/images/img-logo-ef-light.svg"></g-link>
 
         <div v-if="!darkMode" class="line-break"></div>
-        
-        <!-- <nav class="desktop-navigation__nav" :class="{ 'dark-mode' : darkMode }">
-            <li class="desktop-navigation__nav__link"><g-link class="desktop-navigation__nav__anchor" to="/inscricao/">Inscrição</g-link></li>
-            <li class="desktop-navigation__nav__link"><g-link class="desktop-navigation__nav__anchor" to="/quem-somos/">Quem Somos</g-link></li>
-            <li class="desktop-navigation__nav__link">Concessionárias&nbsp;&nbsp;
-              <ul class="desktop-navigation__dropdown">
-                <li><g-link class="desktop-navigation__dropdown-anchor" to="/quem-somos/">AES Tietê</g-link></li>
-                <li><g-link class="desktop-navigation__dropdown-anchor" to="/quem-somos/">Energisa</g-link></li>
-                <li><g-link class="desktop-navigation__dropdown-anchor" to="/quem-somos/">Enel</g-link></li>
-                <li><g-link class="desktop-navigation__dropdown-anchor" to="/quem-somos/">Equatorial</g-link></li>
-                <li><g-link class="desktop-navigation__dropdown-anchor" to="/quem-somos/">Light</g-link></li>
-                <li><g-link class="desktop-navigation__dropdown-anchor" to="/quem-somos/">Santo Antônio</g-link></li>
-              </ul>
-            </li>            
-            <li class="desktop-navigation__nav__link"><g-link class="desktop-navigation__nav__anchor" to="/noticias/">Notícias</g-link></li>
-            <li class="desktop-navigation__nav__link"><g-link class="desktop-navigation__nav__anchor" to="/duvidas/">Dúvidas</g-link></li>
-        </nav> -->
-
 
         <nav role="navigation" :class="{ 'dark-mode' : darkMode }">
           <ul class="desktop-navigation__nav">

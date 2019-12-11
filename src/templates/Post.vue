@@ -15,7 +15,7 @@
             </div>
             <div class="row single-post__content">
                 <div class="col-md-10 offset-md-1 mb-5 share">
-                    <SocialShare :hasRotation="false" />
+                    <SocialShare :hasRotation="false" :url="'https://www.energyfuture.com.br/noticias/'+ $page.post.path" />
                 </div>
                 <div class="col-md-10 offset-md-1 col-md-10 offset-md-1">
                     <p align="justify" v-html="$page.post.content"></p>
@@ -38,6 +38,7 @@ query($path: String!){
             date (format: "DD/MM/YYYY", locale: "pt-BR")
             excerpt
             content
+            path
             tags {
                 id
                 path
@@ -46,7 +47,7 @@ query($path: String!){
                 id
                 path
             }            
-            featured_image
+            featured_image (quality: 80, blur: 0)
     }
 }
 </page-query>
@@ -55,7 +56,25 @@ query($path: String!){
 import SocialShare from '~/components/SocialShare.vue'
 
 export default {
-  components: { SocialShare }
+    metaInfo() {
+        return {
+            title: this.$page.post.title,
+            meta: [
+                {
+                    key: 'og:description',
+                    name: 'og:description',
+                    content: this.$page.post.description,
+                },
+
+                {
+                    key: 'twitter:description',
+                    name: 'twitter:description',
+                    content: this.$page.post.description,
+                },
+            ],
+        }
+    },
+    components: { SocialShare }
 }
 </script>
 </script>

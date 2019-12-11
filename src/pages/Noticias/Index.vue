@@ -98,7 +98,7 @@
           path
         }
         path
-        featured_image
+        featured_image (quality: 80, blur: 0)
       }
     }
   }
@@ -117,6 +117,8 @@ export default {
       { name: "author", content: "Carlos Gomes Cabral" },
       { name: "description", content: "Saiba tudo sobre o panorama da inovação elétrica no Brasil através de notícias e comunicados do setor." },
       { name: "keywords", content: "Startups, Inovação, Setor elétrico, Concessionárias de energia" },
+      { key: 'og:title', name: 'og:title', content: 'Energy Future - Notícias' },
+      { key: 'twitter:title', name: 'twitter:title', content: 'Energy Future - Notícias' }
     ]    
   },
   computed: {

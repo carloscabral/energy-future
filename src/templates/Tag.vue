@@ -31,19 +31,7 @@
                     <p>Sua busca não retornou resultados com as palavras digitadas. Tente novamente!</p>
                 </div>
             </div>
-        </div>        
-        
-        <!-- <div class="row">
-          <article class="col-lg-4 col-md-6" v-for="edge in $page.tag.belongsTo.edges" :key="edge.node.id">
-            <div class="tag">
-              <g-link :to="edge.node.path"><g-image class="tag__image" :src="edge.node.featured_image" /></g-link>
-              <g-link :to="edge.node.path"><p class="tag__title">{{ edge.node.title }}</p></g-link>
-              <span class="tag__date">
-                <font-awesome :icon="['fas', 'clock']"/>&nbsp;&nbsp;{{ edge.node.date }}
-              </span>
-            </div>      
-          </article>
-        </div> -->
+        </div>
 
     </Layout>    
 </template>
@@ -64,7 +52,7 @@ query($id: ID!){
                         path
                     }
                     path
-                    featured_image
+                    featured_image (quality: 80, blur: 0)
                 }
             }
             }
