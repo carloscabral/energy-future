@@ -42,10 +42,10 @@
               <div class="col-xl-3 col-lg-6 col-md-6 mt-5 px-xl-2">
                 <div class="card card--3">
                     <h3 class="card__number">03.</h3>
-                    <h4 class="card__title">Preencha o relatório de apresentação</h4>
+                    <h4 class="card__title">Preencha o Documento de Apresentação do Projeto</h4>
                     <p class="card__divider card__divider--3"></p>
-                    <p class="card__text">Em seu e-mail você receberá o link para download do Relatório de Apresentação. Preencha o documento e faça o envio dele ao final do formulário de inscrição. Só serão válidas as inscrições que enviarem o Relatório no formato solicitado.<br>Clique no link abaixo para fazer o download do Relatório de Apresentação.</p>
-                    <g-link to="../assets/images/Relatorio-de-Apresentacao.pptx" class="card__link card__link--3"><font-awesome :icon="['fas', 'arrow-right']"/>Relatório de Apresentação</g-link>
+                    <p class="card__text">Em seu e-mail você receberá o link para download do Documento de Apresentação do Projeto. Preencha o documento e faça o envio dele ao final do formulário de inscrição. Só serão válidas as inscrições que enviarem o Documento no formato solicitado.</p>
+                    <g-link to="../assets/images/Relatorio-de-Apresentacao.pptx" class="card__link card__link--3"><font-awesome :icon="['fas', 'arrow-right']"/>Documento de Apresentação do Projeto</g-link>
                 </div>           
               </div>
               <div class="col-xl-3 col-lg-6 col-md-6 mt-5 px-xl-2">
@@ -53,7 +53,7 @@
                     <h3 class="card__number">04.</h3>
                     <h4 class="card__title">Faça a sua inscrição</h4>
                     <p class="card__divider card__divider--4"></p>
-                    <p class="card__text">A inscrição do projeto no Energy Future é gratuita e somente poderá ser feita por meio do link de acesso que você receberá por e-mail, após o seu cadastro no nosso site. Para validar sua inscrição, preencha todos os campos do formulário e faça o upload do Relatório de Apresentação.</p>
+                    <p class="card__text">A inscrição do projeto no Energy Future é gratuita e somente poderá ser feita por meio do link de acesso que você receberá por e-mail, após o seu cadastro no nosso site. Para validar sua inscrição, preencha todos os campos do formulário e faça o upload do Documento de Apresentação do Projeto.</p>
                     <g-link to="https://energyfuture.typeform.com/to/QvbsS6" target="_blank" class="card__link card__link--4"><font-awesome :icon="['fas', 'arrow-right']"/>Inscrições abertas de 25 de novembro de 2019 até 31 de janeiro de 2020.</g-link>
                 </div>
               </div>
