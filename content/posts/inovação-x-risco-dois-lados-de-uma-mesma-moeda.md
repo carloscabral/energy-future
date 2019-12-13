@@ -14,15 +14,11 @@ tags:
   - startup
 author: Energy Future
 ---
-IMAGEM
-
 A interação entre inovação e risco é uma prática com a qual empreendedores precisam aprender a lidar desde o estado embrionário de uma proposta inovadora. Duas partes que não se opõem, mas se integram e se potencializam de acordo com as proporções que assumem. 
 
 E por mais assustador que possa parecer, o risco é um aspecto intrínseco à inovação. Mas será que é possível gerenciá-lo, aprendendo a conviver com ele? Para responder essa pergunta, é importante um passo atrás. E entender melhor o que define as duas partes da mesma moeda.
 
-
-
-E o que é mesmo inovação?
+## E o que é mesmo inovação?
 
 Inovação é mudar a forma de fazermos as coisas. É ter novas ideias e colocá-las em prática. Uma inovação bem-sucedida aumenta eficiência e escala, podendo expandir bens e serviços disponíveis a alguns para toda sociedade. 
 
@@ -32,17 +28,15 @@ As ideias de Schumpeter (1883-1950) sobre inovação, capitalismo e empreendedor
 
 Durante a Grande Depressão em 1929, o economista foi contrário ao pensamento corrente daquele momento, de que tecnologia havia chegado ao limite, bem como o capitalismo. Schumpeter não somente afirmou que o sistema iria se desenvolver por meio da tecnologia, como empreendedores teriam papel vital: “Sem inovações, não há empreendedores; sem empreendedorismo, o capitalismo não gera retorno, e tampouco há o que possa impulsioná-lo”, afirmou. A história provou que ele estava certo.
 
-Um estudo feito pela Universidade de Oxford nos ajuda a entender de forma mais ampliada o conceito proposto por Schumpeter. De acordo com relatório da Oxford Martin School, inovação é mais que uma invenção, uma vez que não basta apenas ser criativo com uma ideia, mas colocá-la em prática. Inovação também é mais do que apenas produtos físicos, e ocorre em todos os setores de atividades. 
+Um estudo feito pela Universidade de Oxford nos ajuda a entender de forma mais ampliada o conceito proposto por Schumpeter. De acordo com relatório da Oxford Martin School, **inovação é mais que uma invenção**, uma vez que não basta apenas ser criativo com uma ideia, mas colocá-la em prática. **Inovação também é mais do que apenas produtos físicos**, e ocorre em todos os setores de atividades. 
 
-Nem toda inovação é revolucionária; existem inovações radicais e incrementais. Enquanto a radical tende a mudar completamente a forma de fazer algo, com resultados bastante imprevisíveis, a incremental baseia-se na realização de pequenas melhorias às tecnologias e práticas existentes, podendo ser previsível no curto prazo, mas com imensas mudanças a longo.  
+**Nem toda inovação é revolucionária**; existem inovações radicais e incrementais. Enquanto a radical tende a mudar completamente a forma de fazer algo, com resultados bastante imprevisíveis, a incremental baseia-se na realização de pequenas melhorias às tecnologias e práticas existentes, podendo ser previsível no curto prazo, mas com imensas mudanças a longo.  
 
-Nem todas as inovações alteram as estruturas ou deslocam líderes de mercado, podendo ser sustentável na estrutura atual ou disruptivas com a criação de novos negócios. 
+**Nem todas as inovações alteram as estruturas ou deslocam líderes de mercado**, podendo ser sustentável na estrutura atual ou disruptivas com a criação de novos negócios. 
 
-Por fim, o estudo afirma que a inovação cria e destrói, e a distribuição de ganhos e perdas é muitas vezes desigual. Embora inovações tragam benefícios generalizados e de longo prazo, elas muitas vezes também implicam em custos econômicos concentrados em alguns grupos. Se a mudança for mal gerenciada, pode gerar custos sociais, um exemplo é o desemprego.
+Por fim, o estudo afirma que **a inovação cria e destrói, e a distribuição de ganhos e perdas é muitas vezes desigual**. Embora inovações tragam benefícios generalizados e de longo prazo, elas muitas vezes também implicam em custos econômicos concentrados em alguns grupos. Se a mudança for mal gerenciada, pode gerar custos sociais, um exemplo é o desemprego.
 
-
-
-E onde entram os riscos?
+## E onde entram os riscos?
 
 Para entender um pouco mais a natureza do risco, devemos consultar outro austríaco também visionário que contribuiu bastante na área da administração moderna, Peter Drucker.  
 
@@ -50,19 +44,17 @@ Drucker escreveu que a inovação para ser proposital resulta da análise, revis
 
 Mas se há oportunidades, em contrapartida, também existem riscos. Assim, para o autor, a inovação por natureza é arriscada, assim como toda atividade econômica. Ele defendeu que o conservadorismo de velhas ideias e de antigos modelos custaria mais que o risco de novas propostas: “Mais arriscado que mudar é continuar fazendo a mesma coisa”, afirmou.
 
-Destaque: “Mais arriscado que mudar é continuar fazendo a mesma coisa.” Peter Drucker.
+> “Mais arriscado que mudar é continuar fazendo a mesma coisa.” Peter Drucker.
 
 Drucker afirmou que os inovadores definem riscos e buscam minimizá-los. A partir de uma análise sistemática da oportunidade, seria também possível determinar os riscos e confrontá-los. Ou seja, para minimizar falhas e consequências indesejadas, empreendedores precisariam ir atrás de escolhas embasadas.
 
 Portanto, o grau de risco de uma inovação depende de escolhas. Quanto mais informadas e conscientes forem as escolhas, pela lógica, menor deve ser o risco. O risco não passa assim a inexistir, mas ser gerenciável.
 
-Destaque: Alguns riscos são guias apropriados para a tomada de decisões.
+> Alguns riscos são guias apropriados para a tomada de decisões.
 
 Portanto, estar exposto ao risco faz parte dos negócios. Mas alguns riscos são guias apropriados para a tomada de decisões, enquanto outros podem ser simplesmente impostos. Decidir não continuar com investimento em inovação porque existe um alto risco de demanda insuficiente é uma decisão sensata. Decidir não prosseguir com uma proposta promissora de inovação devido aos riscos impostos pela imprevisibilidade é uma oportunidade perdida.
 
-
-
-Driblando a natureza humana
+## Driblando a natureza humana
 
 Compreender como nossos instintos influenciam nas avaliações de risco pode nos ajudar a fazer melhores escolhas. Estudos mostram que os seres humanos geralmente usam as heurísticas, atalhos mentais na tomada de decisão.  Com essa estratégia, nossos processos cognitivos ignoram parte da informação com objetivo de tornar a escolha mais fácil e rápida.
 
