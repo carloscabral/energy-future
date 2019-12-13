@@ -1,5 +1,5 @@
 ---
-title: 'Inovação X Risco: Dois Lados de Uma Mesma Moeda'
+title: 'Inovação X Risco: dois lados de uma mesma moeda'
 excerpt: >-
   No dilema se é possível inovar sem riscos, ou empreender sem erros, conhecer
   melhor a natureza da inovação (ou dos riscos) ajuda na tomada das decisões.
