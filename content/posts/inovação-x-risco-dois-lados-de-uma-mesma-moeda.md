@@ -1,10 +1,10 @@
 ---
 title: 'Inovação X Risco: dois lados de uma mesma moeda'
-excerpt: 'No dilema se é possível inovar sem riscos, ou empreender sem erros, conhecer melhor a natureza da inovação (ou dos riscos) ajuda na tomada das decisões.'
+excerpt: No dilema se é possível inovar sem riscos, ou empreender sem erros, conhecer melhor a natureza da inovação (ou dos riscos) ajuda na tomada das decisões.
 date: 2019-12-13T14:18:18.395Z
 featured_image: /uploads/materia-06-imagem-eft-r0.png
 isHighlight: false
-tags: ['empreendedorismo', 'inovação', 'risco', 'tomada de decisão', 'startup']
+tags: ['empreendedorismo', 'inovação, 'risco', 'tomada de decisão', 'startup' ]
 author: Energy Future
 ---
 A interação entre inovação e risco é uma prática com a qual empreendedores precisam aprender a lidar desde o estado embrionário de uma proposta inovadora. Duas partes que não se opõem, mas se integram e se potencializam de acordo com as proporções que assumem. 
