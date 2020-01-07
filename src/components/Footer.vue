@@ -40,13 +40,13 @@
                 <div class="col-md-6">
                     <p class="text-center text-sm-left">Siga-nos:</p>
                     <div class="social-list text-center text-sm-left mb-5 mb-md-0">
-                        <a rel="noopener noreferrer" href="https://www.instagram.com/energyfuturebr/" class="social-list__link" target="_blank" alt="Instagram">
+                        <a aria-hidden="true" rel="noopener noreferrer" href="https://www.instagram.com/energyfuturebr/" class="social-list__link" target="_blank">
                             <font-awesome :icon="['fab', 'instagram']"/>
                         </a>                    
-                        <a rel="noopener noreferrer" href="https://www.linkedin.com/company/energy-future-br/" class="social-list__link" target="_blank" alt="Linkedin">
+                        <a aria-hidden="true" rel="noopener noreferrer" href="https://www.linkedin.com/company/energy-future-br/" class="social-list__link" target="_blank">
                             <font-awesome :icon="['fab', 'linkedin']"/>
                         </a>
-                        <a rel="noopener noreferrer" href="https://www.facebook.com/energyfuturebr/" class="social-list__link" target="_blank" alt="Facebook">
+                        <a aria-hidden="true" rel="noopener noreferrer" href="https://www.facebook.com/energyfuturebr/" class="social-list__link" target="_blank">
                             <font-awesome :icon="['fab', 'facebook']"/>
                         </a>
                     </div>

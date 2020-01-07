@@ -179,6 +179,7 @@
                 <div class="supporters__logos">
                   <a rel="noopener noreferrer" target="_blank" href="https://bit.ly/abacomm"><g-image class="supporters__items" alt="Logo Abacomm" src="~/assets/images/img-logo-apoio-abacomm.svg" width="150" /></a>
                   <a rel="noopener noreferrer" target="_blank" href="http://www.centralcomm.net.br/"><g-image class="supporters__items" alt="Logo CentralComm" src="~/assets/images/img-logo-apoio-centralcomm.svg" width="150" /></a>
+                  <a rel="noopener noreferrer" target="_blank" href="https://www.acate.com.br/"><g-image class="supporters__items" alt="Logo Acate" src="~/assets/images/img-logo-apoio-acate.svg" width="150" /></a>
                 </div>
               </div>              
               <div class="col-12 col-lg-10 offset-lg-1">
@@ -190,6 +191,7 @@
                   <a rel="noopener noreferrer" target="_blank" href="https://abraceel.com.br/"><g-image class="supporters__items" alt="Logo Abraceel" src="~/assets/images/img-apoio-abraceel.png" width="100" /></a>
                   <a rel="noopener noreferrer" target="_blank" href="https://www.firjan.com.br/senai/"><g-image class="supporters__items" alt="Logo Firjan" src="~/assets/images/img-apoio-firjan.png" width="100" /></a>
                   <a rel="noopener noreferrer" target="_blank" href="https://www.parque.ufrj.br/"><g-image class="supporters__items" alt="Logo Parque Tecnológico" src="~/assets/images/img-apoio-parque.svg" width="100" /></a>
+                  <a rel="noopener noreferrer" target="_blank" href="https://coppe.ufrj.br/"><g-image class="supporters__items" alt="Logo Coppe" src="~/assets/images/img-apoio-coppe.svg" width="100" /></a>
                 </div>
               </div>
             </div>
