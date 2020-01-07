@@ -25,15 +25,12 @@
                         <li class="footer-menu__item">Outros</li>
                         <li class="footer-menu__item"><g-link to="../assets/images/Manual-PDANEEL.pdf" target="_blank">Regulamento Aneel</g-link></li>
                         <li class="footer-menu__item"><g-link to="../assets/images/Regulamento-Energy-Future-Oficial.pdf" target="_blank">Regulamento Energy Future</g-link></li>
-                        <!-- <li class="footer-menu__item" @click="commingSoon"><g-link to="/">Critérios de Seleção</g-link></li>                    
-                        <li class="footer-menu__item" @click="commingSoon"><g-link to="/">Política de Privacidade</g-link></li>
-                        <li class="footer-menu__item" @click="commingSoon"><g-link to="/">Termos & Condições</g-link></li> -->
                     </ul>                
                 </div>
                 <div class="col-xl-4 offset-xl-2 col-lg-4 col-md-6">
                     <div class="footer-box mx-auto mx-sm-0">
                         <p class="footer-box__title">Energy Future é uma realização:</p>
-                        <g-image class="footer-box__logo" src="../assets/images/img-logo-makeab-light.svg" width="200" />
+                        <g-image alt="Logo Make A Business" class="footer-box__logo" src="../assets/images/img-logo-makeab-light.svg" width="200" />
                         <p class="footer-box__contact">Entre em contato:<span>contato@makeab.com</span></p>
                     </div>
                 </div>
@@ -43,13 +40,13 @@
                 <div class="col-md-6">
                     <p class="text-center text-sm-left">Siga-nos:</p>
                     <div class="social-list text-center text-sm-left mb-5 mb-md-0">
-                        <a href="https://www.instagram.com/energyfuturebr/" class="social-list__link" target="_blank" alt="Instagram">
+                        <a rel="noopener noreferrer" href="https://www.instagram.com/energyfuturebr/" class="social-list__link" target="_blank" alt="Instagram">
                             <font-awesome :icon="['fab', 'instagram']"/>
                         </a>                    
-                        <a href="https://www.linkedin.com/company/energy-future-br/" class="social-list__link" target="_blank" alt="Linkedin">
+                        <a rel="noopener noreferrer" href="https://www.linkedin.com/company/energy-future-br/" class="social-list__link" target="_blank" alt="Linkedin">
                             <font-awesome :icon="['fab', 'linkedin']"/>
                         </a>
-                        <a href="https://www.facebook.com/energyfuturebr/" class="social-list__link" target="_blank" alt="Facebook">
+                        <a rel="noopener noreferrer" href="https://www.facebook.com/energyfuturebr/" class="social-list__link" target="_blank" alt="Facebook">
                             <font-awesome :icon="['fab', 'facebook']"/>
                         </a>
                     </div>
@@ -61,11 +58,11 @@
 
             <div class="row footer-copyright align-items-lg-end align-items-md-center">
                 <div class="col-md-5 footer-copyright__logo d-md-flex align-items-md-end">
-                    <g-image class="d-none d-md-none d-lg-flex mr-lg-4" src="../assets/images/img-logo-ef-light.svg" width="220" />
-                    <g-image class="d-none d-md-flex d-lg-none mr-md-4" src="../assets/images/img-logo-ef.svg" width="120" />
+                    <g-image alt="Logo Energy Future" class="d-none d-md-none d-lg-flex mr-lg-4" src="../assets/images/img-logo-ef-light.svg" width="220" />
+                    <g-image alt="Logo Energy Future" class="d-none d-md-flex d-lg-none mr-md-4" src="../assets/images/img-logo-ef.svg" width="120" />
 
-                    <g-image class="d-none d-md-none d-lg-flex" src="../assets/images/img-logo-pdaneel-light.svg" width="150" />
-                    <g-image class="d-none d-md-flex d-lg-none" src="../assets/images/img-logo-pdaneel.svg" width="100" />
+                    <g-image alt="Logo PDAneel" class="d-none d-md-none d-lg-flex" src="../assets/images/img-logo-pdaneel-light.svg" width="150" />
+                    <g-image alt="Logo PDAneel" class="d-none d-md-flex d-lg-none" src="../assets/images/img-logo-pdaneel.svg" width="100" />
                 </div>
                 <small class="col-md-7 footer-copyright__text">
                     <!-- Rua São José, 40 - 4º andar, Centro - Rio de Janeiro, RJ.<br>
@@ -81,31 +78,33 @@
             <div class="row justify-content-between align-items-center">
             <div class="col-lg-9">
                 <nav role="navigation" class="footer-nav">
-                    <li class="footer-nav__item"><g-link class="footer-nav__anchor" to="/inscricao/">Inscrição</g-link></li>
-                    <li class="footer-nav__item"><g-link class="footer-nav__anchor" to="/quem-somos/">Quem Somos</g-link></li>
-                    <li class="footer-nav__item"><g-link class="footer-nav__anchor" to="/noticias/">Notícias</g-link></li>
-                    <li class="footer-nav__item d-none d-md-inline-block">Concessionárias&nbsp;&nbsp;<font-awesome :icon="['fas', 'caret-down']"/>
-                        <ul style="margin-top: -10px">
-                            <li><g-link to="/author/AES Tietê/">AES Tietê</g-link></li>
-                            <li><g-link to="/author/Energisa/">Energisa</g-link></li>
-                            <li><g-link to="/author/Enel/">Enel</g-link></li>
-                            <li><g-link to="/author/Equatorial/">Equatorial</g-link></li>
-                            <li><g-link to="/author/Light/">Light</g-link></li>
-                            <li><g-link to="/author/Santo Antônio/">Santo Antônio</g-link></li>              
-                        </ul>
-                    </li>
-                    <li class="footer-nav__item"><g-link class="footer-nav__anchor" to="/duvidas/">Dúvidas</g-link></li>   
+                    <ul style="padding-left: 0;">
+                        <li class="footer-nav__item"><g-link class="footer-nav__anchor" to="/inscricao/">Inscrição</g-link></li>
+                        <li class="footer-nav__item"><g-link class="footer-nav__anchor" to="/quem-somos/">Quem Somos</g-link></li>
+                        <li class="footer-nav__item"><g-link class="footer-nav__anchor" to="/noticias/">Notícias</g-link></li>
+                        <li class="footer-nav__item d-none d-md-inline-block">Concessionárias&nbsp;&nbsp;<font-awesome :icon="['fas', 'caret-down']"/>
+                            <ul style="margin-top: -10px">
+                                <li><g-link to="/author/AES Tietê/">AES Tietê</g-link></li>
+                                <li><g-link to="/author/Energisa/">Energisa</g-link></li>
+                                <li><g-link to="/author/Enel/">Enel</g-link></li>
+                                <li><g-link to="/author/Equatorial/">Equatorial</g-link></li>
+                                <li><g-link to="/author/Light/">Light</g-link></li>
+                                <li><g-link to="/author/Santo Antônio/">Santo Antônio</g-link></li>              
+                            </ul>
+                        </li>
+                        <li class="footer-nav__item"><g-link class="footer-nav__anchor" to="/duvidas/">Dúvidas</g-link></li>
+                    </ul>   
                 </nav>                  
             </div>
             <div class="col-lg-3 mt-3 mt-lg-0">
                 <div class="footer-social">
-                    <a href="https://www.instagram.com/energyfuturebr/" class="footer-social__link" target="_blank" alt="Instagram">
+                    <a aria-hidden="true" rel="noopener noreferrer" href="https://www.instagram.com/energyfuturebr/" class="footer-social__link" target="_blank" alt="Instagram">
                         <font-awesome :icon="['fab', 'instagram']"/>
                     </a>                    
-                    <a href="https://www.linkedin.com/company/energy-future-br/" class="footer-social__link" target="_blank" alt="Linkedin">
+                    <a aria-hidden="true" rel="noopener noreferrer" href="https://www.linkedin.com/company/energy-future-br/" class="footer-social__link" target="_blank" alt="Linkedin">
                         <font-awesome :icon="['fab', 'linkedin']"/>
                     </a>
-                    <a href="https://www.facebook.com/energyfuturebr/" class="footer-social__link" target="_blank" alt="Facebook">
+                    <a aria-hidden="true" rel="noopener noreferrer" href="https://www.facebook.com/energyfuturebr/" class="footer-social__link" target="_blank" alt="Facebook">
                         <font-awesome :icon="['fab', 'facebook']"/>
                     </a>
                 </div>
@@ -122,7 +121,7 @@
                 <div class="footer-contact__address"><small>contato@energyfuture.com.br</small></div>
                 <!-- <div class="footer-contact__email"><small>contato@energyfuture.com.br<br>imprensa@energyfuture.com.br</small></div> -->
                 <div class="footer-contact__email"><small>imprensa@energyfuture.com.br</small></div>
-                <a href="http://makeab.com/" target="_blank" alt="Site MakeAB"><g-image class="footer-contact__image" src="~/assets/images/img-logo-makeab.svg" width="150" alt="Logo MakeAB" /></a>
+                <a href="http://makeab.com/" target="_blank" alt="Site MakeAB" rel="noopener noreferrer"><g-image class="footer-contact__image" src="~/assets/images/img-logo-makeab.svg" width="150" alt="Logo MakeAB" /></a>
             </div>              
         </footer>
     </div>

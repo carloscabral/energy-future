@@ -1,8 +1,8 @@
 <template>
     <header class="header light-mode">
 
-        <g-link v-if="!darkMode" to="/"><img src="@/assets/images/img-logo-ef.svg"></g-link>
-        <g-link v-if="darkMode" to="/"><img src="@/assets/images/img-logo-ef-light.svg"></g-link>
+        <g-link v-if="!darkMode" to="/"><g-image alt="Logo Energy Future" src="@/assets/images/img-logo-ef.svg" /></g-link>
+        <g-link v-if="darkMode" to="/"><g-image alt="Logo Energy Future" src="@/assets/images/img-logo-ef-light.svg" /></g-link>
 
         <div v-if="!darkMode" class="line-break"></div>
 

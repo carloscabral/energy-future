@@ -17,7 +17,7 @@ Queremos promover a cultura da inovação e estimular o empreendedorismo brasile
 
 <br><br>No hub do Energy Future, você tem a oportunidade não somente de inscrever seu projeto, mas também ter informações exclusivas das concessionárias participantes e receber notícias sobre inovação e o setor de energia.
 
-<br><br>Com a chancela de seis grandes concessionárias, o Energy Future é uma iniciativa elaborada, desenvolvida e executada pela <a href="#" target="_blank">Make a Business</a>, empresa de inovação e de gestão corporativa com ampla experiência na aceleração de negócios. </p>
+<br><br>Com a chancela de seis grandes concessionárias, o Energy Future é uma iniciativa elaborada, desenvolvida e executada pela <a href="http://makeab.com/" target="_blank" rel="noopener noreferrer">Make a Business</a>, empresa de inovação e de gestão corporativa com ampla experiência na aceleração de negócios. </p>
         </div>
       </div>
 

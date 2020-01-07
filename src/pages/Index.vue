@@ -8,7 +8,7 @@
           <g-link to="/inscricao"><button class="newsletter-click hero__button mt-3"><font-awesome :icon="['fas', 'arrow-right']"/>&nbsp;&nbsp;&nbsp;Inscreva seu projeto</button></g-link>
         </div>
         <div class="col-lg-5 col-xl-6">
-          <g-image class="hero__image" src="~/assets/images/img-top-lp.png" width="900" />
+          <g-image alt="Imagem de destaque" class="hero__image" src="~/assets/images/img-top-lp.png" width="900" />
         </div>
       </div>
 
@@ -70,7 +70,7 @@
               <h1 class="news__title">Notícias em Destaque</h1>
             </div>
             <div class="col-md-4 d-flex mt-2">
-              <g-link to="/noticias/">Leia todas&nbsp;&nbsp;<g-image src="~/assets/images/ic-long-arrow.svg" width="20" /></g-link>
+              <g-link to="/noticias/">Leia todas&nbsp;&nbsp;<g-image alt="Imagem de ícone de seta" src="~/assets/images/ic-long-arrow.svg" width="20" /></g-link>
             </div>
           </div>
           <div class="row">
@@ -79,9 +79,9 @@
             </div>
           </div>
           <div class="news-carousel">
-            <div class="news-carousel__image">
-              <g-image :src="getFirstPosts[activeNewsId].node.featured_image" width="900" fit="cover" />
-            </div>
+            <figure class="news-carousel__image">
+              <g-image :alt="'Imagem da notícia: ' + getFirstPosts[activeNewsId].node.title" :src="getFirstPosts[activeNewsId].node.featured_image" width="900" fit="cover" />
+            </figure>
             <div class="news-carousel__slide">
 
               <div class="news-carousel-box">
@@ -111,7 +111,7 @@
             <h1 class="faq__title">Ainda com dúvidas?</h1>
           </div>
           <div class="col-md-4 d-flex mt-2">
-            <g-link to="/duvidas/">Acesso o FAQ&nbsp;&nbsp;<g-image src="~/assets/images/ic-long-arrow.svg" width="20" /></g-link>
+            <g-link to="/duvidas/">Acesso o FAQ&nbsp;&nbsp;<g-image alt="Imagem de ícone de seta" src="~/assets/images/ic-long-arrow.svg" width="20" /></g-link>
           </div>
         </div>
         <div class="row">
@@ -123,7 +123,7 @@
           <div class="col-lg-4 col-md-6">
             <g-link to="/duvidas/#faq1">
               <div class="faq__item faq__item--blue">
-                <g-image src="../assets/images/icon-faq-inscricao.svg" width="75" />
+                <g-image alt="Ícone de Inscrição" src="../assets/images/icon-faq-inscricao.svg" width="75" />
                 <h3>Inscrição</h3>
                 <p>É fácil. Esclareça como inscrever o seu projeto.</p>
               </div>
@@ -132,7 +132,7 @@
           <div class="col-lg-4 col-md-6">
             <g-link to="/duvidas/#faq2">
               <div class="faq__item faq__item--purple">
-                <g-image src="../assets/images/icon-faq-selecao.svg" width="75" />
+                <g-image alt="Ícone de Seleção" src="../assets/images/icon-faq-selecao.svg" width="75" />
                 <h3>Seleção</h3>
                 <p>Tire suas dúvidas sobre o processo de seleção.</p>              
               </div>
@@ -141,7 +141,7 @@
           <div class="col-lg-4 col-md-6">
             <g-link to="/duvidas/#faq3">
               <div class="faq__item faq__item--green">
-                <g-image src="../assets/images/icon-faq-resultados.svg" width="75" />
+                <g-image alt="Ícone de Resultados" src="../assets/images/icon-faq-resultados.svg" width="75" />
                 <h3>Resultados</h3>
                 <p>Saiba como comunicaremos com transparência todos os resultados.</p>              
               </div>
@@ -150,7 +150,7 @@
           <div class="col-lg-4 col-md-6">
             <g-link to="/duvidas/#faq4">
               <div class="faq__item faq__item--blue">
-                <g-image src="../assets/images/icon-faq-contato.svg" width="75" />
+                <g-image alt="Ícone de Contato" src="../assets/images/icon-faq-contato.svg" width="75" />
                 <h3>Contato</h3>
                 <p>Não encontrou sua resposta no portal? Nós te ajudamos!</p>              
               </div>
@@ -159,7 +159,7 @@
           <div class="col-lg-4 col-md-6">
             <g-link to="/duvidas/#faq5">
               <div class="faq__item faq__item--purple">
-                <g-image src="../assets/images/icon-faq-concessionarias.svg" width="75" />
+                <g-image alt="Ícone de Concessionárias" src="../assets/images/icon-faq-concessionarias.svg" width="75" />
                 <h3>Concessionárias</h3>
                 <p>Compreenda mais sobre a participação das concessionárias.</p>              
               </div>
@@ -170,27 +170,26 @@
 
       <section id="supporters">
         <div class="row">
-          <!-- <div class="col-md-6 offset-md-3 supporters main-title"> -->
           <div class="col-md-12 supporters main-title">
             <h1 class="supporters__title">Nossos Apoiadores</h1>
             <p class="supporters__text" >Temos grandes parceiros. Empresas que são expert em suas áreas de atuação e trazem para o Energy Future todo o seu conhecimento.</p>
             <div class="row">
-              <div class="col-md-6">
-                <h3 class="supporters__subtitle">Apoio</h3>
-                <div class="supporters__logos">
-                  <g-link to="https://www.cesar.org.br/"><g-image class="supporters__items" src="~/assets/images/img-logo-apoio-cesar.png" width="120" /></g-link>
-                  <g-link to="https://www.linkedin.com/company/open-innovation-br/"><g-image class="supporters__items" src="~/assets/images/img-logo-apoio-oib.svg" width="120" /></g-link>
-                  <g-link to="https://abmen.org.br/"><g-image class="supporters__items" src="~/assets/images/img-apoio-abmen.png" width="120" /></g-link>
-                  <g-link to="https://abraceel.com.br/"><g-image class="supporters__items" src="~/assets/images/img-apoio-abraceel.png" width="120" /></g-link>
-                  <g-link to="https://www.firjan.com.br/senai/"><g-image class="supporters__items" src="~/assets/images/img-apoio-firjan.png" width="120" /></g-link>
-                  <g-link to="https://www.parque.ufrj.br/"><g-image class="supporters__items" src="~/assets/images/img-apoio-parque.svg" width="120" /></g-link>
-                </div>
-              </div>
-              <div class="col-md-6">
+              <div class="col-12 col-lg-8 offset-lg-2">
                 <h3 class="supporters__subtitle">Apoiadores Estratégicos</h3>
                 <div class="supporters__logos">
-                  <g-link to="https://bit.ly/abacomm"><g-image class="supporters__items" src="~/assets/images/img-logo-apoio-abacomm.svg" width="120" /></g-link>
-                  <g-link to="http://www.centralcomm.net.br/"><g-image class="supporters__items" src="~/assets/images/img-logo-apoio-centralcomm.svg" width="120" /></g-link>
+                  <a rel="noopener noreferrer" target="_blank" href="https://bit.ly/abacomm"><g-image class="supporters__items" alt="Logo Abacomm" src="~/assets/images/img-logo-apoio-abacomm.svg" width="150" /></a>
+                  <a rel="noopener noreferrer" target="_blank" href="http://www.centralcomm.net.br/"><g-image class="supporters__items" alt="Logo CentralComm" src="~/assets/images/img-logo-apoio-centralcomm.svg" width="150" /></a>
+                </div>
+              </div>              
+              <div class="col-12 col-lg-10 offset-lg-1">
+                <h3 class="supporters__subtitle">Apoio</h3>
+                <div class="supporters__logos">
+                  <a rel="noopener noreferrer" target="_blank" href="https://www.cesar.org.br/"><g-image class="supporters__items" alt="Logo Cesar" src="~/assets/images/img-logo-apoio-cesar.png" width="100" /></a>
+                  <a rel="noopener noreferrer" target="_blank" href="https://www.linkedin.com/company/open-innovation-br/"><g-image class="supporters__items" alt="Logo Open Innovation" src="~/assets/images/img-logo-apoio-oib.svg" width="100" /></a>
+                  <a rel="noopener noreferrer" target="_blank" href="https://abmen.org.br/"><g-image class="supporters__items" alt="Logo Abmen" src="~/assets/images/img-apoio-abmen.png" width="100" /></a>
+                  <a rel="noopener noreferrer" target="_blank" href="https://abraceel.com.br/"><g-image class="supporters__items" alt="Logo Abraceel" src="~/assets/images/img-apoio-abraceel.png" width="100" /></a>
+                  <a rel="noopener noreferrer" target="_blank" href="https://www.firjan.com.br/senai/"><g-image class="supporters__items" alt="Logo Firjan" src="~/assets/images/img-apoio-firjan.png" width="100" /></a>
+                  <a rel="noopener noreferrer" target="_blank" href="https://www.parque.ufrj.br/"><g-image class="supporters__items" alt="Logo Parque Tecnológico" src="~/assets/images/img-apoio-parque.svg" width="100" /></a>
                 </div>
               </div>
             </div>

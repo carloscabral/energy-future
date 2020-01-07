@@ -4,7 +4,7 @@
       <div class="row main-title align-items-center">
         <div class="col-md-8"><h1 class="m-0">Panoramas da inovação elétrica</h1></div>
         <div class="col-md-4 d-flex mt-2 justify-content-md-end">
-          <g-link to="/author/Energy Future">Ver todas as notícias&nbsp;&nbsp;<g-image src="~/assets/images/ic-long-arrow.svg" width="20" /></g-link>
+          <g-link to="/author/Energy Future">Ver todas as notícias&nbsp;&nbsp;<g-image alt="Imagem de ícone de seta" src="~/assets/images/ic-long-arrow.svg" width="20" /></g-link>
         </div>
       </div>
 
@@ -12,11 +12,11 @@
           <div class="row">
             <div class="col-xl-7 col-lg-8">
               <h3 class="news-title">Última notícia</h3>
-              <g-link :to="getLastPost.node.path">
+              <g-link tag="div" class="last-post" :to="getLastPost.node.path">
                 <article class="latest-news">
 
                   <div class="latest-news__image">
-                      <g-image :src="getLastPost.node.featured_image" width="900" />
+                      <g-image :alt="'Imagem do post ' + getLastPost.node.title" :src="getLastPost.node.featured_image" width="900" />
                   </div>
 
                   <h2 class="latest-news__title">{{ getLastPost.node.title }}</h2>
@@ -35,7 +35,7 @@
               <div class="related-news">
                 <article class="row related-news__container" v-for="edge in getLatestPosts" :key="edge.node.id">
                   <div class="col-xl-5" style="overflow: hidden">
-                    <g-link :to="edge.node.path"><g-image class="related-news__image d-none d-xl-block" :src="edge.node.featured_image" /></g-link>
+                    <g-link :to="edge.node.path"><g-image :alt="'Imagem do post ' + edge.node.title" class="related-news__image d-none d-xl-block" :src="edge.node.featured_image" /></g-link>
                   </div>
                   <div class="col-xl-7 px-xl-0 related-news__texts">
                     <g-link :to="edge.node.path"><p class="related-news__title">{{ edge.node.title }}</p></g-link>
@@ -57,7 +57,7 @@
           <article class="col-lg-4" v-for="edge in getHighlightedPosts" :key="edge.node.id">
             <div class="featured-news">
               <g-link :to="edge.node.path">
-                <g-image class="featured-news__image" :src="edge.node.featured_image" />
+                <g-image :alt="'Imagem do post ' + edge.node.title" class="featured-news__image" :src="edge.node.featured_image" />
                 <p class="featured-news__title">{{ edge.node.title }}</p>
               </g-link>
               <span class="featured-news__date">
@@ -146,6 +146,10 @@ export default {
     font-weight: 600;
     font-size: .85rem !important;
   }
+}
+
+.last-post:hover {
+  cursor: pointer;
 }
 
 .news-title {

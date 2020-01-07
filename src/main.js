@@ -36,6 +36,7 @@ import '~/assets/scss/main.scss'
 export default function (Vue, { router, head, isClient }) {
 
   head.htmlAttrs = { lang: "pt-br" }
+
   head.meta.push({
     key: 'og:description',
     name: 'og:description',
@@ -47,11 +48,7 @@ export default function (Vue, { router, head, isClient }) {
     name: 'twitter:description',
     content: `Energy Future: A maior chamada de projetos do setor elétrico brasileiro`,
   })  
-  // Set Typeform widget
-  head.script.push({
-    src: 'https://embed.typeform.com/embed.js',
-    body: true
-  })
+
   router.beforeEach((to, from, next) => {
     head.meta.push({
       key: 'og:url',
@@ -59,7 +56,14 @@ export default function (Vue, { router, head, isClient }) {
       content: process.env.GRIDSOME_BASE_PATH + to.path,
     })
     next()
-  })    
+  })
+
+  // Set Typeform widget
+  head.script.push({
+    src: 'https://embed.typeform.com/embed.js',
+    body: true
+  })
+
   // Set both layouts as a global component
   Vue.component('Layout', DefaultLayout)
   Vue.component('Landing', LandingLayout)

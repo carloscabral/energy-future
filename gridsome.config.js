@@ -12,6 +12,7 @@ function addStyleResource (rule) {
 
 module.exports = {
   siteName: 'Energy Future',
+  siteDescription: "A maior chamada de projetos de P&D Aneel do setor elétrico brasileiro.",
   
   templates: {
     Post: '/noticias/:title',
