@@ -4,7 +4,7 @@ excerpt: >-
   Evento foi realizado nessa quinta-feira (09.11), na Firjan no Rio de Janeiro.
   Veja os destaques e assista ao vídeo da cobertura.
 date: 2020-01-10T18:39:05.942Z
-featured_image: uploads/Materia 11 - Imagem - EFT.jpg
+featured_image: uploads/Materia 11 - Imagem - EFT (1).jpg
 isHighlight: false
 tags:
   - roadshow
@@ -20,7 +20,7 @@ Há pouco menos de um mês para o encerramento das inscrições da maior chamada
 
 Business Development do Energy Future, Apolo Lira, destaca a importância e ineditismo da iniciativa.  “O Energy Future é um marco. É a representação da capacidade do setor elétrico para investimento em inovação, e da tendência das concessionárias em juntar forças e se aproximar do universo empreendedor. Representamos essa ponte para fazer essa interlocução. Porque precisamos estar preparados para pensar no futuro e encarar os desafios para desenvolver esse mercado”, afirma Lira.
 
-# [Assista à cobertura do 1° roadshow Energy Future ](https://www.youtube.com/watch?v=TwaZhdZvguU)
+# [Assista à cobertura do 1° roadshow Energy Future (clique aqui). ](https://www.youtube.com/watch?v=TwaZhdZvguU)
 
 A abertura do evento foi feita pelo diretor da Firjan SENAI, Alexandre dos Reis, que deu as boas-vindas aos participantes e ressaltou o tamanho da iniciativa do Energy Future na disponibilidade de investimentos para o ecossistema de inovação do setor elétrico. Na sequência, Apolo Lira, Business Development do Energy Future, deu um panorama do programa de P&D Aneel e esclareceu dúvidas sobre o funcionamento da chamada.
 
