@@ -4,7 +4,7 @@ import VueDisqus from 'vue-disqus'
 import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome'
 import { config, library } from '@fortawesome/fontawesome-svg-core'
 import { faInstagram, faFacebook, faLinkedin, faTwitter } from '@fortawesome/free-brands-svg-icons'
-import { faArrowRight, faChevronUp, faClock, faInfoCircle, faCheck, faEnvelope, faSearch, faSadTear, faCaretDown } from '@fortawesome/free-solid-svg-icons'
+import { faArrowRight, faArrowLeft, faChevronUp, faClock, faInfoCircle, faCheck, faEnvelope, faSearch, faSadTear, faCaretDown } from '@fortawesome/free-solid-svg-icons'
 import '@fortawesome/fontawesome-svg-core/styles.css'
 
 config.autoAddCss = false;
@@ -13,7 +13,8 @@ library.add(
   faFacebook, 
   faLinkedin, 
   faTwitter, 
-  faArrowRight, 
+  faArrowRight,
+  faArrowLeft, 
   faChevronUp, 
   faClock, 
   faInfoCircle, 
@@ -26,6 +27,7 @@ library.add(
 
 import DefaultLayout from '~/layouts/Default.vue'
 import LandingLayout from '~/layouts/Landing.vue'
+import NewLayout from '~/layouts/NewLayout.vue'
 import '~/assets/scss/main.scss'
 
 // import AOS from 'aos';
@@ -67,6 +69,7 @@ export default function (Vue, { router, head, isClient }) {
   // Set both layouts as a global component
   Vue.component('Layout', DefaultLayout)
   Vue.component('Landing', LandingLayout)
+  Vue.component('Newest', NewLayout)
   // Set default fontawesome usage
   Vue.component('font-awesome', FontAwesomeIcon)
   // Self hosted Montserrat typeface

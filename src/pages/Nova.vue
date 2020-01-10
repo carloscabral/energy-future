@@ -1,0 +1,454 @@
+<template>
+  <Newest>   
+      <div class="row mt-5">
+          <div class="col-xl-6 hero">
+              <h1 class="hero__title">A maior chamada de projetos de P&D do setor elétrico brasileiro.</h1>
+              <h3 class="hero__subtitle">O Energy Future, hub virtual de inovação do setor elétrico, conecta projetos a grandes concessionárias do país. Procuramos soluções inovadoras que ajudem a melhorar a geração, distribuição e transmissão de energia elétrica no Brasil.</h3>
+              <button class="hero__button">Faça seu cadastro</button>
+          </div>
+          <div class="col-xl-6 mt-4 mt-xl-0 hero__video">
+              <iframe title="Video de destaque" src="https://www.youtube.com/embed/bamqYn5JXq4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          </div>
+      </div>
+      <div class="row">
+          <div class="col-12">
+              <h3 class="line-title">As empresas que irão analisar o seu projeto</h3>
+          </div>
+          <div class="col-12 companies">
+              <ul class="companies__list">
+                  <li class="companies__item"><g-image src="../assets/images/img-logo-aes.svg" with="100" /></li>
+                  <li class="companies__item"><g-image src="../assets/images/img-logo-energisa.svg" with="100" /></li>
+                  <li class="companies__item"><g-image src="../assets/images/img-logo-equatorial.png" with="100" /></li>
+                  <li class="companies__item"><g-image src="../assets/images/img-logo-enel.svg" with="100" /></li>
+                  <li class="companies__item"><g-image src="../assets/images/img-logo-light.svg" with="100" /></li>
+                  <li class="companies__item"><g-image src="../assets/images/img-logo-antonio.svg" with="100" /></li>
+              </ul>
+          </div>
+      </div>
+      <div class="color-box">
+        <div class="row justify-content-lg-between text-center">
+            <div class="col-12">
+                <h3 class="color-box__title">Quem pode se inscrever no Energy Future?</h3>
+            </div>
+            <div class="col-lg-2 col-md-4 col-sm-6">
+                <g-image class="color-box__icon" src="../assets/images/icon-faq-inscricao.svg" width="75" />
+                <p class="color-box__text">Startups</p>
+            </div>
+            <div class="col-lg-2 col-md-4 col-sm-6">
+                <g-image class="color-box__icon" src="../assets/images/icon-faq-selecao.svg" width="75" />
+                <p class="color-box__text">Pesquisarores</p>
+            </div>
+            <div class="col-lg-2 col-md-4 col-sm-6">
+                <g-image class="color-box__icon" src="../assets/images/icon-faq-resultados.svg" width="75" />
+                <p class="color-box__text">Corporações</p>
+            </div>
+            <div class="col-lg-2 col-md-4 col-sm-6">
+                <g-image class="color-box__icon" src="../assets/images/icon-faq-contato.svg" width="75" />
+                <p class="color-box__text">Pequenas Empresas</p>
+            </div>
+            <div class="col-lg-2 col-md-4 col-sm-6">
+                <g-image class="color-box__icon" src="../assets/images/icon-faq-concessionarias.svg" width="75" />
+                <p class="color-box__text">Médias Empresas</p>
+            </div>                        
+        </div>
+      </div>
+      <div class="row mt-3">
+        <div class="col-12">
+            <h3 class="line-title">Categorias da chamada Energy Future</h3>
+            <p class="mt-3 mb-5" style="max-width: 800px;">Entender as atuais necessidades do setor de energia elétrica é o primeiro passo na proposta de um projeto de caráter inovador. Por isso, o Energy Future estabeleceu as principais categorias, diretrizes, para orientar os novos negócios.</p>
+            <div v-for="(item, index) in items" :key="index">
+                <Collapse :title="item.title" :text="item.text" />
+            </div>               
+        </div>
+      </div> 
+      <div class="row mt-3">
+        <div class="col-12">
+            <h3 class="line-title">Qual a garantia de propriedade intelectual?</h3>
+            <p class="mt-3 mb-5" style="max-width: 800px;">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nesciunt doloremque fuga nulla cupiditate laboriosam perspiciatis. Facere similique sit ipsa ipsam dolores ea cupiditate consectetur ad?</p>              
+        </div>
+      </div>
+      <div class="testimonial my-5">
+        <div class="row text-center">
+            <div class="col-lg-10 offset-lg-1">
+                <p class="testimonial__text">{{ testimonials[activeTestimonial].text }}</p>
+                <cite class="testimonial__author">{{ testimonials[activeTestimonial].author }}</cite>
+            </div>
+            <div class="testimonial__button previous" @click="goPrev"><font-awesome :icon="['fas', 'arrow-left']"/></div>
+            <div class="testimonial__button next" @click="goNext"><font-awesome :icon="['fas', 'arrow-right']"/></div>
+        </div>
+      </div>
+
+      <div id="bottom-cards">
+          <div class="row">
+              <div class="col-xl-4 col-lg-6 col-md-6 mt-5 px-xl-2">
+                  <div class="card card--1">
+                      <h3 class="card__icon"><g-image class="color-box__icon" src="../assets/images/icon-faq-inscricao.svg" width="75" /></h3>
+                      <h4 class="card__title">O que preciso saber para a inscrição no Energy Future?</h4>
+                      <p class="card__divider card__divider--1"></p>
+                      <g-link to="../assets/images/Regulamento-Energy-Future-Oficial.pdf" target="_blank" class="card__link card__link--1"><font-awesome :icon="['fas', 'arrow-right']"/>Regulamento Energy Future</g-link>
+                      <g-link to="../assets/images/Manual-PDANEEL.pdf" target="_blank" class="card__link card__link--1"><font-awesome :icon="['fas', 'arrow-right']"/>Regulamento Aneel</g-link>
+                  </div>
+              </div>
+              <div class="col-xl-4 col-lg-6 col-md-6 mt-5 px-xl-2">
+                <div class="card card--2">
+                    <h3 class="card__icon"><g-image class="color-box__icon" src="../assets/images/icon-faq-inscricao.svg" width="75" /></h3>
+                    <h4 class="card__title">Até quando posso realizar a inscrição?</h4>
+                    <p class="card__divider card__divider--2"></p>
+                    <g-link to="/inscricao/" target="_blank" class="card__link card__link--2">O encerramento das inscrições será no dia <strong>30/01/2020</strong></g-link>
+                </div>
+              </div>
+              <div class="col-xl-4 col-lg-6 col-md-6 mt-5 px-xl-2">
+                <div class="card card--3">
+                    <h3 class="card__icon"><g-image class="color-box__icon" src="../assets/images/icon-faq-inscricao.svg" width="75" /></h3>
+                    <h4 class="card__title">Dúvidas? Veja nossas perguntas e respostas mais frequentes:</h4>
+                    <p class="card__divider card__divider--3"></p>
+                    <g-link to="../assets/images/Relatorio-de-Apresentacao.pptx" class="card__link card__link--3"><font-awesome :icon="['fas', 'arrow-right']"/>Acesse nosso FAQ</g-link>
+                </div>           
+              </div>
+          </div>
+      </div>
+
+  </Newest>
+</template>
+
+<script>
+import Collapse from '~/components/Collapse.vue'
+
+export default {
+  data: () => ({
+    activeTestimonial: 0,
+    items : [
+        { title : 'Renováveis e Storage', text: 'Novas fontes renováveis e sustentáveis de energia e maneiras inovadoras de conversão e armazenamento de energia, incluindo novos combustíveis e soluções de integração, instalação, manutenção e gestão dessas tecnologias.' },
+        { title : 'Smart Grid and Meter', text: 'Redes inteligentes de energia com nova arquitetura de geração, transmissão e distribuição de eletricidade, mais segura e inteligente, que integre e possibilite ações a todos os usuários a elas conectados. Para as distribuidoras de energia elétrica, a medição inteligente (smart metering) é considerada uma das etapas do Smart Grid.' },
+        { title : 'Gestão energética', text: 'Soluções alternativas e integradas, que aperfeiçoem o uso das fontes de energia elétrica para melhorar o consumo e o monitoramento do uso de recursos.' },
+        { title : 'Novos Negócios em Geração e Transmissão', text: 'Desenvolvimento de soluções inovadoras ou novas formas de geração e transmissão voltadas para B2G, B2B e B2C.' },
+        { title : 'Serviços ao Cliente de Distribuição', text: 'Novos serviços e soluções direcionados para o cliente consumidor de energia elétrica; hardware e Software aplicados à mobilidade elétrica; novas formas de arrecadação das contas de energia: serviços ﬁnanceiros e soluções para clientes não bancarizados.' },
+        { title : 'Performance e Digitalização', text: 'Inovação e eﬁciência na geração de produtos e serviços que melhorem o dia a dia do setor de energia; soluções em tecnologia e processos, por meio da conectividade e da troca e envio de dados.' }
+    ],
+    testimonials: [
+      { author : 'Nome Sobrenome - Empresa 1', text: '“Primeiro Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.”' },
+      { author : 'Nome Sobrenome - Empresa 2', text: '“Segundo Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.”' },
+      { author : 'Nome Sobrenome - Empresa 3', text: '“Terceiro Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.”' },
+      { author : 'Nome Sobrenome - Empresa 4', text: '“Quarto Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.”' },
+    ]
+  }),
+  methods: {
+      goPrev() {
+        (this.activeTestimonial <= 0) ? this.activeTestimonial = 0 : this.activeTestimonial --
+      },
+      goNext() {
+        (this.activeTestimonial >= this.testimonials.length - 1) ? this.activeTestimonial = this.testimonials.length -1 : this.activeTestimonial ++  
+      }
+  },
+  components: { Collapse }    
+}
+</script>
+
+
+<style lang="scss">
+
+.hero {
+    &__title {
+
+    }
+
+    &__subtitle {
+        text-transform: none;
+        color: rgba(#011E41, .75);
+    }
+
+    &__button {
+        @include colored-button($accent-color-2);
+        margin: 1.5rem 0;
+        width: 18rem;
+        text-align: center;
+        @media(min-width: 992px) {
+        margin-bottom: 0;
+        }     
+    }
+
+    &__video {
+        iframe {
+            width: 100%;
+            height: 20.5rem;
+            @media (min-width: 992px) {
+                max-width: 600px;
+            }
+            box-shadow: 0 20px 30px rgba(#000, .16);
+        }
+    }
+}
+
+
+.line-title {
+    margin: 6rem 0 0;
+    color: rgba($primary-color, .75) !important;
+    @include news-headline($accent-color-1);
+
+    @media (min-width: 768px) {
+        font-size: 1rem;
+    }
+}
+
+.companies {
+
+    &__list {
+        padding-left: 0;
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: space-around;
+        @media (min-width: 992px) {
+            justify-content: space-between;
+        }
+    }
+    &__item {
+        padding: 1rem;
+        img {
+            max-width: 6rem;
+            filter: grayscale(100%);
+            opacity: .7;
+        }         
+    }
+}
+
+.color-box {
+    position: relative;
+    background-color: #fff;
+    border-radius: .44rem;
+    padding: 1rem 1.5rem 1.5rem;
+    box-shadow: 0 10px 30px rgba($primary-color, .08);
+    margin-top: 3rem;
+    overflow: hidden;
+
+    &::before {
+        content: "";
+        position: absolute;
+        width: 100%;
+        height: .33rem;
+        background-color: $secondary-color;
+        top: 0;
+        left: 0; 
+    }
+
+    &__title {
+        margin: 1.5rem 0;
+        @media(min-width: 992px) {
+            margin-bottom: 3rem;
+        }
+    }
+
+    &__icon {
+        margin-top: 1.5rem;
+        @media(min-width: 992px) {
+            margin-top: 0;
+        }
+    }
+    
+    &__text {
+        text-transform: uppercase;
+        font-size: .77rem;
+        font-weight: 500;
+    }
+}
+
+.testimonial {
+    padding: 4.5rem 2rem;
+    position: relative;
+    transition: all .2s ease;
+
+    &::before {
+        content: "";
+        position: absolute;
+        width: 100vw;
+        top: -1.5rem;
+        left: calc(-100vw / 2 + 1125px / 2);
+        right: calc(-100vw / 2 + 1125px / 2);  
+        background: #fff;
+        background: linear-gradient(90deg, transparent 0%, #fff 50%, transparent 100%);
+        height: 18rem;
+
+        @media (max-width: 1199px) {
+            left: calc(-100vw / 2 + 52.5rem / 2);
+            right: calc(-100vw / 2 + 52.5rem / 2);    
+        }
+
+        @media (max-width: 991px) {
+            left: calc(-100vw / 2 + 39.16rem / 2);
+            right: calc(-100vw / 2 + 39.16rem / 2);
+            height: 20rem;    
+        }
+
+        @media (max-width: 767px) {
+            left: calc(-100vw / 2 + 29.16rem / 2);
+            right: calc(-100vw / 2 + 29.16rem / 2);    
+            height: 24rem;
+        }
+
+        @media (max-width: 575px) {
+            left: calc(-100vw / 2 + 26.11rem / 2);
+            right: calc(-100vw / 2 + 26.11rem / 2);
+        }
+
+        @media (max-width: 479px) {
+            display: none;
+        }        
+    }
+
+    &__text {
+        color: $primary-color;
+    }
+
+    &__button {
+        position: absolute;
+        top: 45%;
+        font-size: 1.25rem;
+        color: $secondary-color;
+
+        @media(min-width: 768px) {
+            font-size: 1.5rem;
+        }
+        &:hover {
+            cursor: pointer;
+        }
+    }
+
+    &__button.previous {
+        left: 0;
+    }
+
+    &__button.next {
+        right: 0;
+    }
+
+}
+
+.card {
+    padding: 1.5rem 1.5rem;
+    background-color: #fff;
+    position: relative;
+    box-shadow: 0 .5rem 1rem 0 rgba($primary-color, .08);
+    border-radius: .55rem;
+    overflow: hidden;
+    max-width: 22rem;
+    transition: box-shadow .2s ease;   
+
+    &:hover {
+        box-shadow: 0 3rem 5rem -1rem rgba($primary-color, .16);
+    }
+
+    &::before {
+        content: "";
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: .44rem;
+    }
+
+    &--1 {
+        &::before {
+            background-color: $accent-color-2;
+        }
+    }
+    &--2 {
+        &::before {
+            background-color: $accent-color-1;
+        }
+    }
+    &--3 {
+        &::before {
+            background-color: $secondary-color;
+        }
+    } 
+
+    &__icon {
+        font-size: 1.5rem;
+        color: $primary-color;
+        font-weight: bold;
+        margin: 1rem 0;
+    }
+
+    &__title {
+        margin-top: 0;
+    }
+
+    &__divider {
+        width: 100%;
+        height: .22rem;
+        margin: 1.5rem 0;
+
+        &--1 {
+            background-color: rgba($accent-color-2, .12);
+        }
+        &--2 {
+            background-color: rgba($accent-color-1, .12);
+        }
+        &--3 {
+            background-color: rgba($secondary-color, .12);
+        }                        
+    }
+
+    &__text {
+        font-size: .77rem;
+        margin-bottom: 3rem;
+    }
+
+    &__link {
+        display: block;
+        font-size: .88rem;
+        @media(min-width: 1200px) {
+            font-size: .77rem;
+            line-height: 1.5;
+        }
+        font-weight: 500;
+        margin-bottom: .5rem;
+        color: rgba($primary-color, .87) !important;
+
+        svg {
+            margin-right: 1rem;
+            @media(min-width: 1200px) {
+                margin-right: .5rem;
+                // display: none;
+            }
+        }
+
+        &--1 {
+            @media(min-width: 1200px) {
+                color: $accent-color-2;
+            }
+            svg {
+                color: $accent-color-2;
+            }
+            &:hover {
+                color: $accent-color-2;
+            }
+        }
+        &--2 {
+            @media(min-width: 1200px) {
+                color: $accent-color-1;
+            }            
+            svg {
+                color: $accent-color-1;
+            }            
+            &:hover {
+                color: $accent-color-1;
+            }
+        }
+        &--3 {
+            @media(min-width: 1200px) {
+                color: $secondary-color;
+            }            
+            svg {
+                color: $secondary-color;
+            }            
+            &:hover {
+                color: $secondary-color;
+            }
+        }
+    }
+}
+
+
+</style>
+

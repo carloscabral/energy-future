@@ -72,54 +72,6 @@ query {
   opacity: 0;
 }
 
-.tint {
-  overflow: hidden;
-  position: relative;
-  background: linear-gradient(
-    310deg,
-    rgba(0, 95, 197, 0) 0%,
-    rgba(17, 84, 192, 0) 17%,
-    rgba(52, 63, 184, 0) 29%,
-    rgba(0, 113, 206, 0.08) 53%,
-    rgba(82, 45, 178, 0.03) 84%,
-    rgba(82, 45, 178, 0) 100%
-  );
-
-  &::before {
-    content: "";
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 0.44rem;
-    background-image: linear-gradient(90deg, $secondary-color, $accent-color-2);
-  }
-
-  &::after {
-    @media (min-width: 768px) {
-      content: "";
-      position: absolute;
-      bottom: 0;
-      left: 0;
-      width: 100%;
-      height: 6rem;
-      background-color: #f1f4f7;
-      z-index: -999;
-    }
-  }
-}
-
-// .bottom-image {
-//   position: absolute;
-//   bottom: 0;
-//   width: 160%;
-//   left: -40rem;
-//   z-index: -999;
-//   opacity: .3;
-//   transform: rotate(45deg);
-//   transform-origin: center;
-// }
-
 .scroll-top {
   display: none;
 
