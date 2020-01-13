@@ -4,7 +4,7 @@ excerpt: >-
   Evento foi realizado nessa quinta-feira (09.11), na Firjan no Rio de Janeiro.
   Veja os destaques e assista ao vídeo da cobertura.
 date: 2020-01-10T18:39:05.942Z
-featured_image: uploads/Materia 11 - Imagem - EFT (1).jpg
+featured_image: /uploads/img-materia11-eft.jpg
 isHighlight: false
 tags:
   - roadshow
