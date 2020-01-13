@@ -40,4 +40,4 @@ A incorporação de projetos de startups em um chamada pública foi lembrada pel
 
 Ao final do evento, a coordenadora de desenvolvimento de negócios da Firjan, Tami Vivas, trouxe exemplos de editais abertos pela Firjan para startups que querem desenvolver projetos com a indústria.
 
-A segunda rodada de roadshow Energy Future será realizada no dia 14.01, em Florianópolis.
+O 2º Roadshow do Energy Future  será realizado no dia 14/01, às 14h, em Florianópolis na Associação Catarinense de Tecnologia (ACATE).
