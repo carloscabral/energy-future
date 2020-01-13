@@ -14,13 +14,13 @@ tags:
   - bitcoin
 author: Energy Future
 ---
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -60,9 +60,9 @@ author: Energy Future
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="371">
@@ -631,9 +631,9 @@ author: Energy Future
   <w:LsdException Locked="false" Priority="52"
    Name="List Table 7 Colorful Accent 6"/>
  </w:LatentStyles>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 10]>
+<!--\\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -660,7 +660,7 @@ author: Energy Future
 	mso-bidi-theme-font:minor-bidi;
 	mso-fareast-language:EN-US;}
 </style>
-<!\\[endif]-->
+<!\\\[endif]-->
 
 <!--StartFragment-->
 
@@ -672,7 +672,7 @@ A expansão da internet muda as regras da sociedade. O mundo é levado à Era Di
 
 No novo contexto, informação é moeda de troca no mercado. E o imediatismo do compartilhamento é requisito. Ao mesmo tempo em que a complexa e imensa rede permite acesso sem precedentes, também cria um ambiente de incerteza global: como garantir a validade da informação?
 
-Blockchain é uma tecnologia, que se tornou conhecida com a difusão das criptomoedas, Bitcoin. Mais que simplesmente uma rede, é um conjunto de tecnologias que armazena e rastreia qualquer coisa de valor: transações financeiras, registros médicos, títulos de propriedade são apenas algumas das interações possíveis.
+Blockchain é uma tecnologia de registro, que se tornou conhecida com a difusão da criptomoeda: Bitcoin. Mais que simplesmente uma rede, é um conjunto de tecnologias que armazena e rastreia qualquer coisa de valor: transações financeiras, registros médicos, títulos de propriedade são apenas algumas das interações possíveis.
 
 A inovação tecnológica está na evolução do modo como interagimos. A tecnologia garante o rastreamento e depósito de dados de forma cronológica, em uma cadeia contínua – *a chain of blocks*. 
 
@@ -682,13 +682,13 @@ Além disso, ao permitir que os dados sejam compartilhados e verificados pela re
 
 <!--EndFragment-->
 
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -728,9 +728,9 @@ Além disso, ao permitir que os dados sejam compartilhados e verificados pela re
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="371">
@@ -1299,9 +1299,9 @@ Além disso, ao permitir que os dados sejam compartilhados e verificados pela re
   <w:LsdException Locked="false" Priority="52"
    Name="List Table 7 Colorful Accent 6"/>
  </w:LatentStyles>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 10]>
+<!--\\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -1328,7 +1328,7 @@ Além disso, ao permitir que os dados sejam compartilhados e verificados pela re
 	mso-bidi-theme-font:minor-bidi;
 	mso-fareast-language:EN-US;}
 </style>
-<!\\[endif]-->
+<!\\\[endif]-->
 
 <!--StartFragment-->
 
@@ -1336,13 +1336,13 @@ Além disso, ao permitir que os dados sejam compartilhados e verificados pela re
 
 <!--EndFragment-->
 
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -1382,9 +1382,9 @@ Além disso, ao permitir que os dados sejam compartilhados e verificados pela re
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="371">
@@ -1953,9 +1953,9 @@ Além disso, ao permitir que os dados sejam compartilhados e verificados pela re
   <w:LsdException Locked="false" Priority="52"
    Name="List Table 7 Colorful Accent 6"/>
  </w:LatentStyles>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 10]>
+<!--\\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -1982,13 +1982,13 @@ Além disso, ao permitir que os dados sejam compartilhados e verificados pela re
 	mso-bidi-theme-font:minor-bidi;
 	mso-fareast-language:EN-US;}
 </style>
-<!\\[endif]-->
+<!\\\[endif]-->
 
 <!--StartFragment-->
 
-O nome por si só já assusta mais leigos com assuntos tecnológicos. Mas a partir do passo a passo fica mais fácil entender por que razão a tecnologia é já vista como um protocolo de segurança.
+O nome por si só já assusta mais leigos com assuntos tecnológicos. Mas a partir do passo a passo fica mais fácil entender por que razão a tecnologia é já conhecida como “protocolo da confiança”.
 
-Blockchain é um conjunto de tecnologias que atua em rede. Ela funciona com uma cadeia de blocos (daí o nome). Cada bloco carrega um conteúdo e uma impressão digital (hash). O conteúdo pode ser uma transação financeira, a compra de um título, por exemplo.
+Blockchain é uma tecnologia de registro distribuído. Ela funciona com uma cadeia de blocos (daí o nome). Cada bloco carrega um conteúdo e uma impressão digital (hash). O conteúdo pode ser uma transação financeira, a compra de um título, por exemplo.
 
 Sendo uma cadeia de blocos encadeados, cada bloco subsequente contém a impressão digital (hash) do anterior e o próprio conteúdo. Com as duas informações, gera então a própria impressão digital, um selo único. E assim por diante.
 
@@ -2000,13 +2000,13 @@ As cadeias de blocos possuem *nós*, agrupamento de pessoas ligadas pelo mesmo i
 
 ![Diagrama Blockchain](/uploads/mate_ria-10-diagrama-eft-r1.jpg "Diagrama Blockchain")
 
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -2046,9 +2046,9 @@ As cadeias de blocos possuem *nós*, agrupamento de pessoas ligadas pelo mesmo i
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="371">
@@ -2617,9 +2617,9 @@ As cadeias de blocos possuem *nós*, agrupamento de pessoas ligadas pelo mesmo i
   <w:LsdException Locked="false" Priority="52"
    Name="List Table 7 Colorful Accent 6"/>
  </w:LatentStyles>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 10]>
+<!--\\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -2646,21 +2646,21 @@ As cadeias de blocos possuem *nós*, agrupamento de pessoas ligadas pelo mesmo i
 	mso-bidi-theme-font:minor-bidi;
 	mso-fareast-language:EN-US;}
 </style>
-<!\\[endif]-->
+<!\\\[endif]-->
 
 <!--StartFragment-->
 
-A combinação dos complexos enigmas matemáticos com a verificação na rede cria a confiança nos dados depositados, trazendo segurança e transparência à cadeia. Toda a transação passa a ser descentralizada, direta e interativa (tempo real).
+A combinação dos complexos enigmas matemáticos com a verificação na rede cria a confiança nos dados depositados, trazendo segurança e transparência à cadeia. Toda a transação passa a ser descentralizada, direta e interativa (quase em tempo real).
 
 <!--EndFragment-->
 
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -2700,9 +2700,9 @@ A combinação dos complexos enigmas matemáticos com a verificação na rede cr
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="371">
@@ -3271,9 +3271,9 @@ A combinação dos complexos enigmas matemáticos com a verificação na rede cr
   <w:LsdException Locked="false" Priority="52"
    Name="List Table 7 Colorful Accent 6"/>
  </w:LatentStyles>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 10]>
+<!--\\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -3300,7 +3300,7 @@ A combinação dos complexos enigmas matemáticos com a verificação na rede cr
 	mso-bidi-theme-font:minor-bidi;
 	mso-fareast-language:EN-US;}
 </style>
-<!\\[endif]-->
+<!\\\[endif]-->
 
 <!--StartFragment-->
 
@@ -3308,13 +3308,13 @@ A combinação dos complexos enigmas matemáticos com a verificação na rede cr
 
 <!--EndFragment-->
 
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -3354,9 +3354,9 @@ A combinação dos complexos enigmas matemáticos com a verificação na rede cr
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="371">
@@ -3925,9 +3925,9 @@ A combinação dos complexos enigmas matemáticos com a verificação na rede cr
   <w:LsdException Locked="false" Priority="52"
    Name="List Table 7 Colorful Accent 6"/>
  </w:LatentStyles>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 10]>
+<!--\\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -3954,7 +3954,7 @@ A combinação dos complexos enigmas matemáticos com a verificação na rede cr
 	mso-bidi-theme-font:minor-bidi;
 	mso-fareast-language:EN-US;}
 </style>
-<!\\[endif]-->
+<!\\\[endif]-->
 
 <!--StartFragment-->
 
@@ -3970,13 +3970,13 @@ Em tempos de crise de governança, blockchain é um drive de transparência. Pos
 
 <!--EndFragment-->
 
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -4016,9 +4016,9 @@ Em tempos de crise de governança, blockchain é um drive de transparência. Pos
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="371">
@@ -4587,9 +4587,9 @@ Em tempos de crise de governança, blockchain é um drive de transparência. Pos
   <w:LsdException Locked="false" Priority="52"
    Name="List Table 7 Colorful Accent 6"/>
  </w:LatentStyles>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 10]>
+<!--\\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -4616,7 +4616,7 @@ Em tempos de crise de governança, blockchain é um drive de transparência. Pos
 	mso-bidi-theme-font:minor-bidi;
 	mso-fareast-language:EN-US;}
 </style>
-<!\\[endif]-->
+<!\\\[endif]-->
 
 <!--StartFragment-->
 
@@ -4624,13 +4624,13 @@ Em tempos de crise de governança, blockchain é um drive de transparência. Pos
 
 <!--EndFragment-->
 
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -4670,9 +4670,9 @@ Em tempos de crise de governança, blockchain é um drive de transparência. Pos
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="371">
@@ -5241,9 +5241,9 @@ Em tempos de crise de governança, blockchain é um drive de transparência. Pos
   <w:LsdException Locked="false" Priority="52"
    Name="List Table 7 Colorful Accent 6"/>
  </w:LatentStyles>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 10]>
+<!--\\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -5270,7 +5270,7 @@ Em tempos de crise de governança, blockchain é um drive de transparência. Pos
 	mso-bidi-theme-font:minor-bidi;
 	mso-fareast-language:EN-US;}
 </style>
-<!\\[endif]-->
+<!\\\[endif]-->
 
 <!--StartFragment-->
 
