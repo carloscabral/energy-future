@@ -5,7 +5,7 @@ excerpt: >-
   estratégias de investimento.
 date: 2020-01-13T19:28:22.209Z
 featured_image: uploads/Materia-Roadshow-Imagem-EFT.png
-isHighlight: true
+isHighlight: false
 tags:
   - roadshow
   - concessionárias
@@ -15,10 +15,9 @@ Estar na frente de um potencial cliente é a oportunidade que todo novo negócio
 
 Os participantes têm a oportunidade de esclarecer dúvidas sobre as inscrições e saber mais sobre as estratégias de investimento em inovação das concessionárias para projetos de P&D e startups.
 
-
 A primeira edição do evento foi realizada dia 09.01, no Rio de Janeiro. Os encontros vão ocorrer até o término das inscrições da chamada. Interessados que não puderem estar presente no encontro, tem a oportunidade assistir a live pelo Facebook do Energy Future e, ao final, a cobertura completa aqui no site. 
 
-## Acompanhe a agenda de eventos: 
+## Acompanhe a agenda de eventos:
 
 09.01 – Rio de Janeiro, na Firjan\
 [Confira](https://www.energyfuture.com.br/noticias/confira-a-cobertura-do-1-roadshow-energy-future/)
