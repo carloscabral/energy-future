@@ -8,7 +8,8 @@
           <h3 class="subtitle">Seu primeiro passo para participar do energy future</h3>
         </div>
         <div class="col-lg-6 col-xl-5">
-          <g-link to="https://energyfuture.typeform.com/to/QvbsS6" target="_blank"><button class="button register-button">Faça o seu cadastro</button></g-link>
+          <!-- <g-link to="https://energyfuture.typeform.com/to/QvbsS6" target="_blank"><button class="button register-button">Faça o seu cadastro</button></g-link> -->
+          <button @click="openTypeFormRegister" class="button register-button">Faça o seu cadastro</button>
           <!-- <Form /> -->
         </div>
       </div>
@@ -121,6 +122,16 @@ export default {
         { title : 'Performance e Digitalização', text: 'Inovação e eﬁciência na geração de produtos e serviços que melhorem o dia a dia do setor de energia; soluções em tecnologia e processos, por meio da conectividade e da troca e envio de dados.' }
     ]
   }),
+  methods: {
+    openTypeFormRegister () {
+        if (process.isClient) {
+                window.typeformEmbed.makePopup('https://energyfuture.typeform.com/to/QvbsS6', {
+                    hideHeaders: true,
+                    hideFooter: true
+                }).open();            
+        }        
+    }      
+  },
   components: { Collapse, SocialShare }
 }
 </script>
