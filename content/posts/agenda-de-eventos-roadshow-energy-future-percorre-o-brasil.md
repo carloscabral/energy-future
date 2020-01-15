@@ -19,18 +19,22 @@ A primeira edição do evento foi realizada dia 09.01, no Rio de Janeiro. Os enc
 
 ## Acompanhe a agenda de eventos:
 
-\
-09.01 – Rio de Janeiro, na Firjan \
+09.01 – Rio de Janeiro, na Firjan
+
 [Confira](https://youtu.be/TwaZhdZvguU)
 
-14.01 – Florianópolis, às 14h, na Associação Catarinense de Tecnologia (ACATE) \
+14.01 – Florianópolis, às 14h, na Associação Catarinense de Tecnologia (ACATE)
+
 [Confira](https://www.youtube.com/watch?v=L0TA3lHCQyU) 
 
-21.01 – Belo Horizonte, às 14h, na Universidade Federal de Minas Gerais (UFMG) \
+21.01 – Belo Horizonte, às 14h, na Universidade Federal de Minas Gerais (UFMG)
+
 (Em breve, mais informações)
 
-23.01 – Fortaleza, às 10h, na Federação das Indústrias do Estado do Ceará (FIEC) \
+23.01 – Fortaleza, às 10h, na Federação das Indústrias do Estado do Ceará (FIEC) 
+
 (Em breve, mais informações)
 
-29.01 – São Paulo, às 10h, no SENAI SP. \
+29.01 – São Paulo, às 10h, no SENAI SP
+
 (Em breve, mais informações)
