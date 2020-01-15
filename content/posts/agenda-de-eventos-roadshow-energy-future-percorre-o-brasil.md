@@ -4,7 +4,7 @@ excerpt: >-
   Série de encontros reúne as concessionárias da chamada para esclarecer as
   estratégias de investimento.
 date: 2020-01-15T15:10:18.129Z
-featured_image: uploads/img-materia01-1.jpg
+featured_image: uploads/Roadshow-EFT.png
 isHighlight: false
 tags:
   - roadshow
