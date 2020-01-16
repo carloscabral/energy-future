@@ -5,7 +5,7 @@ excerpt: >-
   melhor a natureza da inovação (ou dos riscos) ajuda na tomada das decisões.
 date: 2019-12-13T14:18:18.395Z
 featured_image: /uploads/materia-06-imagem-eft-r0.png
-isHighlight: true
+isHighlight: false
 tags:
   - empreendedorismo
   - inovação

@@ -80,15 +80,15 @@
           </div>
           <div class="news-carousel">
             <figure class="news-carousel__image">
-              <g-image :alt="'Imagem da notícia: ' + getFirstPosts[activeNewsId].node.title" :src="getFirstPosts[activeNewsId].node.featured_image" width="900" fit="cover" />
+              <g-image :alt="'Imagem da notícia: ' + getFeaturedPosts[activeNewsId].node.title" :src="getFeaturedPosts[activeNewsId].node.featured_image" width="900" fit="cover" />
             </figure>
             <div class="news-carousel__slide">
 
               <div class="news-carousel-box">
                 <small class="news-carousel-box__category">Notícias</small>
-                <h2 class="news-carousel-box__title"><g-link :to="getFirstPosts[activeNewsId].node.path">{{ getFirstPosts[activeNewsId].node.title }}</g-link></h2>
-                <small class="news-carousel-box__credits">Por <g-link :to="getFirstPosts[activeNewsId].node.author.path">{{ getFirstPosts[activeNewsId].node.author.id }}</g-link> em {{ getFirstPosts[activeNewsId].node.date }}</small>
-                <p class="news-carousel-box__excerpt">{{ getFirstPosts[activeNewsId].node.excerpt }}</p>
+                <h2 class="news-carousel-box__title"><g-link :to="getFeaturedPosts[activeNewsId].node.path">{{ getFeaturedPosts[activeNewsId].node.title }}</g-link></h2>
+                <small class="news-carousel-box__credits">Por <g-link :to="getFeaturedPosts[activeNewsId].node.author.path">{{ getFeaturedPosts[activeNewsId].node.author.id }}</g-link> em {{ getFeaturedPosts[activeNewsId].node.date }}</small>
+                <p class="news-carousel-box__excerpt">{{ getFeaturedPosts[activeNewsId].node.excerpt }}</p>
                 <div class="news-carousel-box__bottom">
                   <div class="news-carousel-box__previuos-btn" @click="goPrev"></div>
                   <div class="news-carousel-box__dots">
@@ -219,6 +219,7 @@
         }
         path
         featured_image
+        isHighlight
       }
     }
   }
@@ -257,8 +258,11 @@ export default {
     }
   },  
   computed: {
-    getFirstPosts() {
-      return this.$static.allPost.edges.slice(Math.max(this.$static.allPost.edges.length - 3, 0))
+    getFeaturedPosts() {
+      return this.$static.allPost.edges.filter(post => {
+          return post.node.isHighlight === true
+      })      
+      // return this.$static.allPost.edges.slice(Math.max(this.$static.allPost.edges.length - 3, 0))
     },     
   },  
   methods: {
@@ -284,7 +288,7 @@ export default {
         (this.activeNewsId <= 0) ? this.activeNewsId = 0 : this.activeNewsId --
     },
     goNext() {
-        (this.activeNewsId >= this.getFirstPosts.length - 1) ? this.activeNewsId = this.getFirstPosts.length -1 : this.activeNewsId ++
+        (this.activeNewsId >= this.getFeaturedPosts.length - 1) ? this.activeNewsId = this.getFeaturedPosts.length -1 : this.activeNewsId ++
     }
   },
   components: { Map } 
