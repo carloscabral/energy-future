@@ -194,7 +194,10 @@
                   <a rel="noopener noreferrer" target="_blank" href="https://www.parque.ufrj.br/"><g-image class="supporters__items" alt="Logo Parque Tecnológico" src="~/assets/images/img-apoio-parque.svg" width="100" /></a>
                   <a rel="noopener noreferrer" target="_blank" href="https://coppe.ufrj.br/"><g-image class="supporters__items" alt="Logo Coppe" src="~/assets/images/img-apoio-coppe.svg" width="100" /></a>
                   <a rel="noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/ist-energia-indaiatuba-b02662179/"><g-image class="supporters__items" alt="Logo IST Energia" src="~/assets/images/img-apoio-ist.svg" width="100" /></a>
-                  <a rel="noopener noreferrer" target="_blank" href="https://startupi.com.br/"><g-image class="supporters__items" alt="Logo Startupi" src="~/assets/images/img-apoio-startupi.svg" width="100" /></a>                  
+                  <a rel="noopener noreferrer" target="_blank" href="https://startupi.com.br/"><g-image class="supporters__items" alt="Logo Startupi" src="~/assets/images/img-apoio-startupi.svg" width="100" /></a>
+                  <a rel="noopener noreferrer" target="_blank" href="https://www1.sfiec.org.br/"><g-image class="supporters__items" alt="Logo FIEC" src="~/assets/images/img-apoio-fiec.svg" width="100" /></a>
+                  <a rel="noopener noreferrer" target="_blank" href="http://www.portaldaindustria.com.br/senai/"><g-image class="supporters__items" alt="Logo SENAI" src="~/assets/images/img-apoio-senai.svg" width="100" /></a>
+                  <a rel="noopener noreferrer" target="_blank" href="http://inctmidas.com.br/"><g-image class="supporters__items" alt="Logo Midas" src="~/assets/images/img-apoio-midas.png" width="100" /></a>                                    
                 </div>
               </div>
             </div>
@@ -261,8 +264,7 @@ export default {
     getFeaturedPosts() {
       return this.$static.allPost.edges.filter(post => {
           return post.node.isHighlight === true
-      })      
-      // return this.$static.allPost.edges.slice(Math.max(this.$static.allPost.edges.length - 3, 0))
+      })
     },     
   },  
   methods: {
