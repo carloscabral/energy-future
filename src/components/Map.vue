@@ -15,7 +15,7 @@
                     </li>
                     <li class="dealership-map__list">
                         <a href="/author/Equatorial" class="dealership-map__link" @mouseover="activeLogo = 'equatorial'" @mouseleave="activeLogo = ''">
-                            <g-image src="../assets/images/img-logo-equatorial.png" width="250" alt="Logo Equatorial" />
+                            <g-image src="../assets/images/img-logo-equatorial.svg" width="250" alt="Logo Equatorial" />
                         </a>
                     </li>
                     <li class="dealership-map__list">

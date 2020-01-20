@@ -5,7 +5,7 @@
             <g-image alt="Logo Enel" v-if="$page.author.title === 'Enel'" src="@/assets/images/img-logo-enel.svg" width="150" />
             <g-image alt="Logo Light" v-if="$page.author.title === 'Light'" src="@/assets/images/img-logo-light.svg" width="150" />
             <g-image alt="Logo Energisa" v-if="$page.author.title === 'Energisa'" src="@/assets/images/img-logo-energisa.svg" width="150" />
-            <g-image alt="Logo Equatorial" v-if="$page.author.title === 'Equatorial'" src="@/assets/images/img-logo-equatorial.png" width="150" />
+            <g-image alt="Logo Equatorial" v-if="$page.author.title === 'Equatorial'" src="@/assets/images/img-logo-equatorial.svg" width="150" />
             <g-image alt="Logo Santo Antônio" v-if="$page.author.title === 'Santo Antônio'" src="@/assets/images/img-logo-antonio.svg" width="150" />
             <g-image alt="Logo AES Tietê" v-if="$page.author.title === 'AES Tietê'" src="@/assets/images/img-logo-aes.svg" width="150" />
             <h3>Conteúdo exclusivo</h3>

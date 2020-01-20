@@ -8,8 +8,8 @@
           <h3 class="subtitle">Seu primeiro passo para participar do energy future</h3>
         </div>
         <div class="col-lg-6 col-xl-5">
-          <!-- <g-link to="https://energyfuture.typeform.com/to/QvbsS6" target="_blank"><button class="button register-button">Faça o seu cadastro</button></g-link> -->
-          <button @click="openTypeFormRegister" class="button register-button">Faça o seu cadastro</button>
+          <g-link to="https://energyfuture.typeform.com/to/QvbsS6" target="_blank"><button class="button register-button">Faça o seu cadastro</button></g-link>
+          <!-- <button @click="openTypeFormRegister" class="button register-button">Faça o seu cadastro</button> -->
           <!-- <Form /> -->
         </div>
       </div>
@@ -28,7 +28,7 @@
                       <p class="card__divider card__divider--1"></p>
                       <p class="card__text">Para garantir a inscrição correta do seu projeto, leia com atenção o Regulamento do Energy Future e o Regulamento da Aneel, que orienta a formulação de projetos de P&D. Os conteúdos estão disponíveis abaixo.</p>
                       <g-link to="../assets/images/Regulamento-Energy-Future-Oficial.pdf" target="_blank" class="card__link card__link--1"><font-awesome :icon="['fas', 'arrow-right']"/>Regulamento Energy Future</g-link>
-                      <g-link to="../assets/images/Manual-PDANEEL.pdf" target="_blank" class="card__link card__link--1"><font-awesome :icon="['fas', 'arrow-right']"/>Regulamento Aneel</g-link>
+                      <g-link to="../assets/images/PROP&D.zip" target="_blank" class="card__link card__link--1"><font-awesome :icon="['fas', 'arrow-right']"/>Regulamento Aneel</g-link>
                   </div>
               </div>
               <div class="col-xl-3 col-lg-6 col-md-6 mt-5 px-xl-2">
@@ -123,14 +123,14 @@ export default {
     ]
   }),
   methods: {
-    openTypeFormRegister () {
-        if (process.isClient) {
-                window.typeformEmbed.makePopup('https://energyfuture.typeform.com/to/QvbsS6', {
-                    hideHeaders: true,
-                    hideFooter: true
-                }).open();            
-        }        
-    }      
+    // openTypeFormRegister () {
+    //     if (process.isClient) {
+    //             window.typeformEmbed.makePopup('https://energyfuture.typeform.com/to/QvbsS6', {
+    //                 hideHeaders: true,
+    //                 hideFooter: true
+    //             }).open();            
+    //     }        
+    // }      
   },
   components: { Collapse, SocialShare }
 }
