@@ -1,5 +1,5 @@
 ---
-title: 'Agenda de eventos: Roadshow Energy Future percorre o Brasil'
+title: 'Agenda de eventos: roadshow Energy Future percorre o Brasil'
 excerpt: >-
   Série de encontros reúne as concessionárias da chamada para esclarecer as
   estratégias de investimento.
@@ -21,20 +21,20 @@ A primeira edição do evento foi realizada dia 09.01, no Rio de Janeiro. Os enc
 
 09.01 – Rio de Janeiro, na Firjan
 
-[Confira](https://youtu.be/TwaZhdZvguU)
+[Confira aqui.](https://youtu.be/TwaZhdZvguU)
 
 14.01 – Florianópolis, às 14h, na Associação Catarinense de Tecnologia (ACATE)
 
-[Confira](https://www.youtube.com/watch?v=L0TA3lHCQyU) 
+[Confira aqui.](https://www.youtube.com/watch?v=L0TA3lHCQyU) 
 
 21.01 – Belo Horizonte, às 14h, na Universidade Federal de Minas Gerais (UFMG)
 
-(Em breve, mais informações)
+[Inscreva-se aqui.](https://www.sympla.com.br/3-roadshow-energy-future---ufmg--inct-midas---bh__761349?fbclid=IwAR3onzqMcxjCOn-ntlQmK2YAPZfFiiV00eRxJiW16pvBcnoIeIUq0X1kf_c)
 
-23.01 – Fortaleza, às 10h, na Federação das Indústrias do Estado do Ceará (FIEC) 
+[](https://www.sympla.com.br/3-roadshow-energy-future---ufmg--inct-midas---bh__761349?fbclid=IwAR3onzqMcxjCOn-ntlQmK2YAPZfFiiV00eRxJiW16pvBcnoIeIUq0X1kf_c)23.01 – Fortaleza, às 10h, na Federação das Indústrias do Estado do Ceará (FIEC) 
 
-(Em breve, mais informações)
+[Inscreva-se aqui.](https://www.sympla.com.br/4--roadshow-energy-future---fiec-senai---fortaleza__761304)
 
-29.01 – São Paulo, às 10h, no SENAI SP
+[](https://www.sympla.com.br/4--roadshow-energy-future---fiec-senai---fortaleza__761304)29.01 – São Paulo, às 10h, no SENAI SP
 
-(Em breve, mais informações)
+[Inscreva-se aqui.](https://www.sympla.com.br/5--roadshow-energy-future---senai-sp--ist__761835)
