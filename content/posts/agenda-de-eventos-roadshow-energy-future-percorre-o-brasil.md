@@ -21,11 +21,11 @@ A primeira edição do evento foi realizada dia 09.01, no Rio de Janeiro. Os enc
 
 09.01 – Rio de Janeiro, na Firjan
 
-[Confira aqui.](https://youtu.be/TwaZhdZvguU)
+[Assista aqui.](https://youtu.be/TwaZhdZvguU)
 
 14.01 – Florianópolis, às 14h, na Associação Catarinense de Tecnologia (ACATE)
 
-[Confira aqui.](https://www.youtube.com/watch?v=L0TA3lHCQyU) 
+[Assista aqui.](https://www.youtube.com/watch?v=L0TA3lHCQyU) 
 
 21.01 – Belo Horizonte, às 14h, na Universidade Federal de Minas Gerais (UFMG)
 
