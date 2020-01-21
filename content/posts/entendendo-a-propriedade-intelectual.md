@@ -21,7 +21,7 @@ Por meio de leis, inventores ou responsáveis por produções intelectuais têm 
 
 Assim, quem detém direitos de PI protege-se contra usos não autorizados de seu produto, serviço, processo, bem como marca. Esse direito temporário e exclusivo de exploração comercial eleva a competitividade empresarial e impulsiona a inovação, ao evitar a concorrência desleal e ao possibilitar que o empreendedor continue inovando. Porque “se criar é humano, copiar também é”, como explica a Associação Brasileira de Propriedade Intelectual (ABPI).
 
-> “Se criar é humano, copiar também é”
+> “Se criar é humano, copiar também é” 
 >
 > ABPI.
 
@@ -31,7 +31,7 @@ Com a relevância dos ativos de PI, a Organização Mundial do Comércio (OMC) c
 
 No Brasil, a Propriedade Intelectual está, normalmente, dividida em três categorias que abrangem direitos específicos, conforme ilustra a figura.
 
-![Categorias PI no Brasil](/uploads/Mate_ria 12 - Diagrama - EFT.jpg "Categorias PI no Brasil")
+![Diagrama](/uploads/Mate_ria 12 - Diagrama - EFT.jpg "Diagrama")
 
 O **direito Autoral** protege criações artísticas e literárias. Uma obra autoral não precisa ser registrada para que esteja protegida, mas o registro ajuda com possíveis problemas no futuro.
 
