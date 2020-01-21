@@ -13,8 +13,6 @@ tags:
   - empreendedorismo
 author: Energy Future
 ---
-
-
 No cenário dinâmico do atual mercado, a inovação garante o crescimento de qualquer negócio e aumento da competitividade. Para empreendedores, a inovação não é somente um recurso, mas a vida da empresa. Se não é possível empreender sem inovar, como proteger esse valioso patrimônio? 
 
 A Propriedade Intelectual (PI) é o dispositivo legal que assegura a empresas, instituições e indivíduos a proteção e a recompensa financeira de criações, invenções, obras artísticas e literárias, quando comercializadas. A Propriedade Intelectual viabiliza negócios inovadores e oportunidades de trabalho. Por isso, o conhecimento do assunto torna-se indispensável.
@@ -23,7 +21,8 @@ Por meio de leis, inventores ou responsáveis por produções intelectuais têm 
 
 Assim, quem detém direitos de PI protege-se contra usos não autorizados de seu produto, serviço, processo, bem como marca. Esse direito temporário e exclusivo de exploração comercial eleva a competitividade empresarial e impulsiona a inovação, ao evitar a concorrência desleal e ao possibilitar que o empreendedor continue inovando. Porque “se criar é humano, copiar também é”, como explica a Associação Brasileira de Propriedade Intelectual (ABPI).
 
-> “Se criar é humano, copiar também é”\
+> “Se criar é humano, copiar também é”
+>
 > ABPI.
 
 Com a relevância dos ativos de PI, a Organização Mundial do Comércio (OMC) criou em 1994 o Acordo sobre Aspectos dos Direitos de Propriedade Intelectual Relacionados ao Comércio (TRIPS em inglês), que estabeleceu um padrão de proteção à Propriedade Intelectual. O Brasil, como um dos países signatários, obriga-se a revisar, de tempos em tempos, as leis nacionais para estarem alinhadas ao padrão. 
