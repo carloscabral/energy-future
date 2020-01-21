@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="674px" height="556px" viewBox="0 0 674 556" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>Anjos do Brasil_LOGO Adobe Illustrator</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="45.1414265%" y1="152.556288%" x2="51.0967767%" y2="22.7451941%" id="linearGradient-1">
+            <stop stop-color="#FAE2A4" offset="0%"></stop>
+            <stop stop-color="#F8DC8C" offset="7%"></stop>
+            <stop stop-color="#F2CC4E" offset="23%"></stop>
+            <stop stop-color="#EDC01E" offset="34%"></stop>
+            <stop stop-color="#C99C28" offset="44%"></stop>
+            <stop stop-color="#BA8C2D" offset="50%"></stop>
+            <stop stop-color="#C99B29" offset="68%"></stop>
+            <stop stop-color="#EDC01E" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="48.5815152%" y1="50.9442407%" x2="104.933199%" y2="19.6029325%" id="linearGradient-2">
+            <stop stop-color="#FAE2A4" offset="0%"></stop>
+            <stop stop-color="#F8DC8C" offset="7%"></stop>
+            <stop stop-color="#F2CC4E" offset="21%"></stop>
+            <stop stop-color="#EDC01E" offset="32%"></stop>
+            <stop stop-color="#C99C28" offset="56%"></stop>
+            <stop stop-color="#BA8C2D" offset="70%"></stop>
+            <stop stop-color="#C99B29" offset="81%"></stop>
+            <stop stop-color="#EDC01E" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="56.5650191%" y1="12.5254038%" x2="37.5099405%" y2="117.853118%" id="linearGradient-3">
+            <stop stop-color="#052237" offset="0%"></stop>
+            <stop stop-color="#0C283C" offset="9%"></stop>
+            <stop stop-color="#1F394B" offset="22%"></stop>
+            <stop stop-color="#3E5464" offset="37%"></stop>
+            <stop stop-color="#697A87" offset="54%"></stop>
+            <stop stop-color="#A0ABB3" offset="73%"></stop>
+            <stop stop-color="#E2E6E8" offset="92%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="49.9748903%" y1="92.7564005%" x2="49.9748903%" y2="-109.231715%" id="linearGradient-4">
+            <stop stop-color="#05324E" offset="0%"></stop>
+            <stop stop-color="#0D3853" offset="9%"></stop>
+            <stop stop-color="#224962" offset="22%"></stop>
+            <stop stop-color="#44657A" offset="38%"></stop>
+            <stop stop-color="#738D9C" offset="57%"></stop>
+            <stop stop-color="#B0BFC7" offset="77%"></stop>
+            <stop stop-color="#FAFBFB" offset="99%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="42.7665835%" y1="62.0497414%" x2="62.0801594%" y2="29.4643737%" id="linearGradient-5">
+            <stop stop-color="#FAE2A4" offset="0%"></stop>
+            <stop stop-color="#F8DC8C" offset="8%"></stop>
+            <stop stop-color="#F2CC4E" offset="26%"></stop>
+            <stop stop-color="#EDC01E" offset="39%"></stop>
+            <stop stop-color="#C99C28" offset="55%"></stop>
+            <stop stop-color="#BA8C2D" offset="64%"></stop>
+            <stop stop-color="#C99B29" offset="77%"></stop>
+            <stop stop-color="#EDC01E" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="48.5831956%" y1="61.4042414%" x2="51.1615378%" y2="40.4626963%" id="linearGradient-6">
+            <stop stop-color="#FAE2A4" offset="0%"></stop>
+            <stop stop-color="#F8DC8C" offset="7%"></stop>
+            <stop stop-color="#F2CC4E" offset="23%"></stop>
+            <stop stop-color="#EDC01E" offset="34%"></stop>
+            <stop stop-color="#C99C28" offset="44%"></stop>
+            <stop stop-color="#BA8C2D" offset="50%"></stop>
+            <stop stop-color="#C99B29" offset="68%"></stop>
+            <stop stop-color="#EDC01E" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="49.9706474%" y1="119.992688%" x2="49.9706474%" y2="-3.58582591%" id="linearGradient-7">
+            <stop stop-color="#E1B526" offset="0%"></stop>
+            <stop stop-color="#E4BD3D" offset="14%"></stop>
+            <stop stop-color="#ECD179" offset="43%"></stop>
+            <stop stop-color="#FAF2D8" offset="84%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="53.5474959%" y1="-95.6777543%" x2="48.1290374%" y2="115.585496%" id="linearGradient-8">
+            <stop stop-color="#052237" offset="0%"></stop>
+            <stop stop-color="#0C283C" offset="9%"></stop>
+            <stop stop-color="#1F394B" offset="22%"></stop>
+            <stop stop-color="#3E5464" offset="37%"></stop>
+            <stop stop-color="#697A87" offset="54%"></stop>
+            <stop stop-color="#A0ABB3" offset="73%"></stop>
+            <stop stop-color="#E2E6E8" offset="92%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="51.7021696%" y1="4.28405806%" x2="46.6981918%" y2="178.007522%" id="linearGradient-9">
+            <stop stop-color="#052237" offset="0%"></stop>
+            <stop stop-color="#0C283C" offset="9%"></stop>
+            <stop stop-color="#1F394B" offset="22%"></stop>
+            <stop stop-color="#3E5464" offset="37%"></stop>
+            <stop stop-color="#697A87" offset="54%"></stop>
+            <stop stop-color="#A0ABB3" offset="73%"></stop>
+            <stop stop-color="#E2E6E8" offset="92%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="11.2997135%" y1="28.691784%" x2="108.458573%" y2="82.5591093%" id="linearGradient-10">
+            <stop stop-color="#FAE2A4" offset="0%"></stop>
+            <stop stop-color="#F8DC8C" offset="7%"></stop>
+            <stop stop-color="#F2CC4E" offset="21%"></stop>
+            <stop stop-color="#EDC01E" offset="31%"></stop>
+            <stop stop-color="#C99C28" offset="59%"></stop>
+            <stop stop-color="#BA8C2D" offset="75%"></stop>
+            <stop stop-color="#C99B29" offset="84%"></stop>
+            <stop stop-color="#EDC01E" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Anjos-do-Brasil_LOGO-Adobe-Illustrator" fill-rule="nonzero">
+            <polygon id="Path" fill="url(#linearGradient-1)" points="417.9 537.1 422.9 442 504.8 446.3 499.8 541.3"></polygon>
+            <polygon id="Path" fill="url(#linearGradient-2)" points="145.2 153.1 202.3 121.4 234.4 179.2 177.3 210.9"></polygon>
+            <polygon id="Path" fill="url(#linearGradient-3)" points="183.5 431.9 208.3 196.2 673.2 245 648.5 480.7"></polygon>
+            <rect id="Rectangle" fill="url(#linearGradient-4)" x="246.8" y="242.9" width="406.6" height="79.9"></rect>
+            <polygon id="Path" fill="url(#linearGradient-5)" points="0.1 336.4 193.8 0.9 563.6 214.4 369.9 549.8"></polygon>
+            <polygon id="Path" fill="url(#linearGradient-6)" points="289.6 537 296.8 401 652.8 419.6 645.6 555.6"></polygon>
+            <rect id="Rectangle" fill="url(#linearGradient-7)" x="311.1" y="419.3" width="335.5" height="74.1"></rect>
+            <polygon id="Path" fill="url(#linearGradient-8)" points="204.8 480.4 207.4 405.4 261.3 407.3 258.7 482.3"></polygon>
+            <polygon id="Path" fill="url(#linearGradient-9)" points="247.8 480.5 249.9 422.3 297.1 423.9 295.1 482.1"></polygon>
+            <polygon id="Path" fill="url(#linearGradient-10)" points="161.4 138.4 193.1 83.4 257.1 120.4 225.4 175.3"></polygon>
+        </g>
+    </g>
+</svg>

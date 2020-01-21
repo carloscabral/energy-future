@@ -199,6 +199,7 @@
                   <!-- <a rel="noopener noreferrer" target="_blank" href="http://www.portaldaindustria.com.br/senai/"><g-image class="supporters__items" alt="Logo SENAI" src="~/assets/images/img-apoio-senai.svg" width="100" /></a> -->
                   <a rel="noopener noreferrer" target="_blank" href="http://inctmidas.com.br/"><g-image class="supporters__items" alt="Logo Midas" src="~/assets/images/img-apoio-midas.png" width="100" /></a>
                   <a rel="noopener noreferrer" target="_blank" href="https://www.abradee.org.br/"><g-image class="supporters__items" alt="Logo Abradee" src="~/assets/images/img-apoio-abradee.svg" width="100" /></a>
+                  <a rel="noopener noreferrer" target="_blank" href="https://www.anjosdobrasil.net/"><g-image class="supporters__items" alt="Logo Anjos do Brasil" src="~/assets/images/img-apoio-anjos.svg" width="100" /></a>
                 </div>
               </div>
             </div>
