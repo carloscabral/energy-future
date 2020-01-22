@@ -29,7 +29,7 @@ A primeira edição do evento foi realizada dia 09.01, no Rio de Janeiro. Os enc
 
 21.01 – Belo Horizonte, às 14h, na Universidade Federal de Minas Gerais (UFMG)
 
-Em breve, você pode assistir à cobertura.
+[Assista aqui.](https://youtu.be/QE5rbsUs5jM)
 
 [](https://www.sympla.com.br/3-roadshow-energy-future---ufmg--inct-midas---bh__761349?fbclid=IwAR3onzqMcxjCOn-ntlQmK2YAPZfFiiV00eRxJiW16pvBcnoIeIUq0X1kf_c)23.01 – Fortaleza, às 10h, na Federação das Indústrias do Estado do Ceará (FIEC) 
 
