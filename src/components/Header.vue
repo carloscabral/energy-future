@@ -33,12 +33,21 @@
             <div class="mobile-navigation__background">&nbsp;</div>
 
             <nav class="mobile-navigation__nav">
-                <img class="mobile-navigation__brand" src="@/assets/images/img-brand-white.svg" width="100">
+                <!-- <img class="mobile-navigation__brand" src="@/assets/images/img-brand-white.svg" width="100"> -->
                 <ul class="mobile-navigation__list">
                     <li class="mobile-navigation__item"><g-link class="mobile-navigation__link" to="/">Home</g-link></li>
                     <li class="mobile-navigation__item"><g-link class="mobile-navigation__link" to="/inscricao/">Inscrição</g-link></li>
                     <li class="mobile-navigation__item"><g-link class="mobile-navigation__link" to="/quem-somos/">Quem Somos</g-link></li>
                     <li class="mobile-navigation__item"><g-link class="mobile-navigation__link" to="/noticias/">Notícias</g-link></li>
+                    <ul class="mobile-navigation__subitem">
+                      <li><g-link to="/author/Energy Future/">Energy Future</g-link></li>
+                      <li><g-link to="/author/AES Tietê/">AES Tietê</g-link></li>
+                      <li><g-link to="/author/Energisa/">Energisa</g-link></li>
+                      <li><g-link to="/author/Enel/">Enel</g-link></li>
+                      <li><g-link to="/author/Equatorial/">Equatorial</g-link></li>
+                      <li><g-link to="/author/Light/">Light</g-link></li>
+                      <li><g-link to="/author/Santo Antônio/">Santo Antônio</g-link></li>              
+                    </ul>                    
                     <li class="mobile-navigation__item"><g-link class="mobile-navigation__link" to="/duvidas/">Dúvidas</g-link></li>
                 </ul>
             </nav>
@@ -108,8 +117,8 @@ export default {
     right: 1.5rem;
     background-image: radial-gradient(
       $secondary-color,
-      $accent-color-1,
-      $accent-color-2
+       #186ACC,
+      $accent-color-1
     );
     z-index: 1000;
     transition: transform 0.6s cubic-bezier(0.86, 0, 0.07, 1);
@@ -147,6 +156,23 @@ export default {
 
   &__item {
     margin: 1rem 0;
+  }
+
+  &__subitem {
+    padding-left: 0;
+    height: 7rem;
+    overflow-y: scroll;
+    //margin: 0 4.5rem;
+    background-color: rgba(#000, .1);
+    box-shadow: inset 0px -10px 10px 3px rgba(0,0,0,0.05);
+
+    li {
+      margin: 1rem 0;
+    }
+
+    a {
+      color: $accent-color-1;
+    }
   }
 
   &__link {
@@ -250,11 +276,9 @@ export default {
       cursor: pointer;
       color: $primary-color;
     }       
-    // initial li:hover
+    
     &:hover {
-      //background-color: lightgrey;
-      
-      // secondary ul visibility change
+    
       ul {
         display: block;
         padding-left: 0;
@@ -279,10 +303,8 @@ export default {
           transform: rotate(45deg);
         }
         
-        // secondary li
         li {
           display: block;
-          //font-size: .77rem;
           padding: .5rem .88rem;
           text-align: right;
           color: $primary-color;
@@ -304,7 +326,6 @@ export default {
           }
           
           &:hover a {
-            //background-color: rgba($primary-color, .05);
             color: $accent-color-1;
             transform: translateX(-3px);
           }
@@ -320,76 +341,6 @@ export default {
     }     
   }
 }
-
-
-// .desktop-navigation__nav,
-// .footer-nav {
-  
-//   list-style: none;
-
-//   &__link {
-//     margin-right: 1.55rem;
-//     color: #a7b2c0;
-//     text-transform: uppercase;
-//     font-weight: 700;
-//     line-height: 1;
-//     letter-spacing: 0.75px;
-
-//     ul li {
-//       display: none;
-//       position: relative;
-//     }
-
-//     &:hover,
-//     &.active--exact {
-//       cursor: pointer;
-//       color: $primary-color;
-//     }    
-
-//     &:hover {
-//       ul {
-//         display: block;
-//         margin-top: 15px;
-        
-//         width: 12.5rem;
-//         right: 10.55rem;
-//         //margin-top: 2rem;
-//         padding-top: -3.5rem;
-        
-//         position: absolute;
-        
-//         // secondary li
-//         li {
-//           display: block;
-//           background-color: darken(#fff, 7%);
-//           span {
-//             float: right;
-//             color: #fff;
-//             background-color: $blue;
-//             padding: 2px 5px;
-//             text-align: center;
-//             font-size: .8rem;
-//             border-radius: 3px;
-//           }
-          
-//           &:hover {
-//             background-color: darken(#fff, 10%);
-//             span {
-//               background-color: darken($blue, 5%);
-//             }
-//           }
-//         }
-//       }      
-//     }    
-//   }
-//   &__link:last-child {
-//     margin-right: 0;
-//   }
-//   &__link, &__anchor {
-//     font-size: 0.77rem;
-//     line-height: 1;
-//   }
-// }
 
 .dark-mode {
   .desktop-navigation__nav__item, .desktop-navigation__nav__anchor  {
