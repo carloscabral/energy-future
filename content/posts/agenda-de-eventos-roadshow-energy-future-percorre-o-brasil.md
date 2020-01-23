@@ -33,7 +33,7 @@ A primeira edição do evento foi realizada dia 09.01, no Rio de Janeiro. Os enc
 
 [](https://www.sympla.com.br/3-roadshow-energy-future---ufmg--inct-midas---bh__761349?fbclid=IwAR3onzqMcxjCOn-ntlQmK2YAPZfFiiV00eRxJiW16pvBcnoIeIUq0X1kf_c)23.01 – Fortaleza, às 10h, na Federação das Indústrias do Estado do Ceará (FIEC) 
 
-[Inscreva-se aqui.](https://www.sympla.com.br/4--roadshow-energy-future---fiec-senai---fortaleza__761304)
+[Assista aqui.](https://youtu.be/m75ryEQ3-8c)
 
 [](https://www.sympla.com.br/4--roadshow-energy-future---fiec-senai---fortaleza__761304)29.01 – São Paulo, às 10h, no SENAI SP
 
