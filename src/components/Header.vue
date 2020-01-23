@@ -40,7 +40,6 @@
                     <li class="mobile-navigation__item"><g-link class="mobile-navigation__link" to="/quem-somos/">Quem Somos</g-link></li>
                     <li class="mobile-navigation__item"><g-link class="mobile-navigation__link" to="/noticias/">Notícias</g-link></li>
                     <ul class="mobile-navigation__subitem">
-                      <li><g-link to="/author/Energy Future/">Energy Future</g-link></li>
                       <li><g-link to="/author/AES Tietê/">AES Tietê</g-link></li>
                       <li><g-link to="/author/Energisa/">Energisa</g-link></li>
                       <li><g-link to="/author/Enel/">Enel</g-link></li>
