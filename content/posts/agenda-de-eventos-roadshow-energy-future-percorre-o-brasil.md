@@ -23,15 +23,15 @@ A primeira edição do evento foi realizada dia 09.01, no Rio de Janeiro. Os enc
 
 [Assista aqui.](https://youtu.be/TwaZhdZvguU)
 
-14.01 – Florianópolis, às 14h, na Associação Catarinense de Tecnologia (ACATE)
+14.01 – Florianópolis, na Associação Catarinense de Tecnologia (ACATE)
 
 [Assista aqui.](https://www.youtube.com/watch?v=L0TA3lHCQyU) 
 
-21.01 – Belo Horizonte, às 14h, na Universidade Federal de Minas Gerais (UFMG)
+21.01 – Belo Horizonte, na Universidade Federal de Minas Gerais (UFMG)
 
 [Assista aqui.](https://youtu.be/QE5rbsUs5jM)
 
-[](https://www.sympla.com.br/3-roadshow-energy-future---ufmg--inct-midas---bh__761349?fbclid=IwAR3onzqMcxjCOn-ntlQmK2YAPZfFiiV00eRxJiW16pvBcnoIeIUq0X1kf_c)23.01 – Fortaleza, às 10h, na Federação das Indústrias do Estado do Ceará (FIEC) 
+[](https://www.sympla.com.br/3-roadshow-energy-future---ufmg--inct-midas---bh__761349?fbclid=IwAR3onzqMcxjCOn-ntlQmK2YAPZfFiiV00eRxJiW16pvBcnoIeIUq0X1kf_c)23.01 – Fortaleza, na Federação das Indústrias do Estado do Ceará (FIEC) 
 
 [Assista aqui.](https://youtu.be/m75ryEQ3-8c)
 
