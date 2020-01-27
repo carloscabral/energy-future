@@ -181,6 +181,7 @@
                   <a rel="noopener noreferrer" target="_blank" href="http://www.centralcomm.net.br/"><g-image class="supporters__items" alt="Logo CentralComm" src="~/assets/images/img-logo-apoio-centralcomm.svg" width="150" /></a>
                   <a rel="noopener noreferrer" target="_blank" href="https://www.acate.com.br/"><g-image class="supporters__items" alt="Logo Acate" src="~/assets/images/img-logo-apoio-acate.svg" width="150" /></a>
                   <a rel="noopener noreferrer" target="_blank" href="https://yourstudio.com/locations/aqwa/"><g-image class="supporters__items" alt="Logo Studio" src="~/assets/images/img-apoio-studio.png" width="150" /></a>
+                  <a rel="noopener noreferrer" target="_blank" href="https://www.linkedin.com/showcase/instituto-senai-de-tecnologia-em-energia"><g-image class="supporters__items" alt="Logo IST Energia" src="~/assets/images/img-apoio-ist.svg" width="150" /></a>
                 </div>
               </div>              
               <div class="col-12 col-lg-10 offset-lg-1">
@@ -193,13 +194,13 @@
                   <a rel="noopener noreferrer" target="_blank" href="https://www.firjan.com.br/senai/"><g-image class="supporters__items" alt="Logo Firjan" src="~/assets/images/img-apoio-firjan.png" width="100" /></a>
                   <a rel="noopener noreferrer" target="_blank" href="https://www.parque.ufrj.br/"><g-image class="supporters__items" alt="Logo Parque Tecnológico" src="~/assets/images/img-apoio-parque.svg" width="100" /></a>
                   <a rel="noopener noreferrer" target="_blank" href="https://coppe.ufrj.br/"><g-image class="supporters__items" alt="Logo Coppe" src="~/assets/images/img-apoio-coppe.svg" width="100" /></a>
-                  <a rel="noopener noreferrer" target="_blank" href="https://www.linkedin.com/showcase/instituto-senai-de-tecnologia-em-energia"><g-image class="supporters__items" alt="Logo IST Energia" src="~/assets/images/img-apoio-ist.svg" width="100" /></a>
                   <a rel="noopener noreferrer" target="_blank" href="https://startupi.com.br/"><g-image class="supporters__items" alt="Logo Startupi" src="~/assets/images/img-apoio-startupi.svg" width="100" /></a>
                   <a rel="noopener noreferrer" target="_blank" href="https://www1.sfiec.org.br/"><g-image class="supporters__items" alt="Logo FIEC" src="~/assets/images/img-apoio-fiec.svg" width="100" /></a>
-                  <!-- <a rel="noopener noreferrer" target="_blank" href="http://www.portaldaindustria.com.br/senai/"><g-image class="supporters__items" alt="Logo SENAI" src="~/assets/images/img-apoio-senai.svg" width="100" /></a> -->
+                  <a rel="noopener noreferrer" target="_blank" href="https://www.senaigo.com.br/home"><g-image class="supporters__items" alt="Logo SENAI" src="~/assets/images/img-apoio-ist-senai.svg" width="100" /></a>
+                  <a rel="noopener noreferrer" target="_blank" href="https://www.senaipr.org.br/"><g-image class="supporters__items" alt="Logo SENAI" src="~/assets/images/img-apoio-senai_azul.png" width="100" /></a>
                   <a rel="noopener noreferrer" target="_blank" href="http://inctmidas.com.br/"><g-image class="supporters__items" alt="Logo Midas" src="~/assets/images/img-apoio-midas.png" width="100" /></a>
                   <a rel="noopener noreferrer" target="_blank" href="https://www.abradee.org.br/"><g-image class="supporters__items" alt="Logo Abradee" src="~/assets/images/img-apoio-abradee.svg" width="100" /></a>
-                  <a rel="noopener noreferrer" target="_blank" href="https://www.anjosdobrasil.net/"><g-image class="supporters__items" alt="Logo Anjos do Brasil" src="~/assets/images/img-apoio-anjos.svg" width="100" /></a>
+                  <a rel="noopener noreferrer" target="_blank" href="https://www.anjosdobrasil.net/"><g-image class="supporters__items" alt="Logo Anjos do Brasil" src="~/assets/images/img-apoio-anjos.png" width="100" /></a>
                 </div>
               </div>
             </div>
