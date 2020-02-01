@@ -5,7 +5,7 @@ excerpt: >-
   inovação.
 date: 2019-12-27T15:21:21.682Z
 featured_image: /uploads/materia-09-imagem-eft.png
-isHighlight: true
+isHighlight: false
 tags:
   - open innovation
   - inovação
