@@ -6,20 +6,13 @@ featured_image: /uploads/materia13imagem.jpg
 isHighlight: true
 tags:
   - empreendedorismo
-  - fontes renováveis
   - investimentos
   - inovação
   - setor elétrico
-  - startup
   - tecnologias
+  - energy future
 author: Energy Future
 ---
-
-
-
-
-
-
 Participantes interessados em inscrever seu projeto na maior chamada de P&D e startups do setor elétrico ganharam uma nova oportunidade. O prazo da inscrição, que deveria terminar na sexta-feira (31.01), foi estendido até às 23h59 do dia 28 de fevereiro de 2020. A chamada do Energy Future seleciona projetos em seis categorias elencadas como estratégicas pelas concessionárias parceiras: Renováveis e Storage; Smart Grid and Meter; Gestão Energética; Novos Negócios em Geração e Transmissão; Serviços aos Clientes de Distribuição; Performance e Digitalização.
 
 A inédita iniciativa reúne as concessionárias AES Tietê, Enel, Energisa, Equatorial Energia, Light e Santo Antônio Energia. As empresas avaliarão projetos, de acordo com regras próprias da chamada e com os critérios estabelecidos pelo Programa de Pesquisa e Desenvolvimento da ANEEL.
@@ -41,3 +34,5 @@ Após a leitura, deve ser feito o cadastro no site. Na sequência, será enviada
 ![Upload](/uploads/materia13upload.gif "Upload")
 
 O prazo de inscrição dos projetos encerra-se no dia 28 de fevereiro. As propostas aprovadas na triagem técnica, que corresponde à conferência dos documentos, passam para a triagem administrativa. O resultado final da chamada será divulgado no portal energyfuture.com.br no dia 1º de junho de 2020.
+
+[Confira aqui](https://drive.google.com/file/d/1xgr2EPdk7bHtJb7sSVSHMJi8WsHtrC_K/view) o adendo ao Regulamento do Energy Future sobre a prorrogação.
