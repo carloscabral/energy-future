@@ -5,7 +5,7 @@
         <div class="col-lg-7 col-xl-6">
           <h1 class="hero__title">Maior chamada de projetos do setor elétrico brasileiro</h1>
           <p class="hero__text">O Energy Future, hub virtual de inovação do setor elétrico, conecta projetos a grandes concessionárias do país. Procuramos soluções inovadoras que ajudem a melhorar a geração, transmissão e distribuição da energia elétrica no Brasil.</p>
-          <g-link to="/inscricao"><button class="newsletter-click hero__button mt-3"><font-awesome :icon="['fas', 'arrow-right']"/>&nbsp;&nbsp;&nbsp;Inscreva seu projeto</button></g-link>
+          <g-link to="/inscricao"><button class="newsletter-click hero__button mt-3"><font-awesome :icon="['fas', 'arrow-right']"/>&nbsp;&nbsp;&nbsp;Inscrições prorrogadas!</button></g-link>
         </div>
         <div class="col-lg-5 col-xl-6">
           <g-image alt="Imagem de destaque" class="hero__image" src="~/assets/images/img-top-lp.png" width="900" />
@@ -201,6 +201,12 @@
                   <a rel="noopener noreferrer" target="_blank" href="http://inctmidas.com.br/"><g-image class="supporters__items" alt="Logo Midas" src="~/assets/images/img-apoio-midas.png" width="100" /></a>
                   <a rel="noopener noreferrer" target="_blank" href="https://www.abradee.org.br/"><g-image class="supporters__items" alt="Logo Abradee" src="~/assets/images/img-apoio-abradee.svg" width="100" /></a>
                   <a rel="noopener noreferrer" target="_blank" href="https://www.anjosdobrasil.net/"><g-image class="supporters__items" alt="Logo Anjos do Brasil" src="~/assets/images/img-apoio-anjos.png" width="100" /></a>
+
+                  <a rel="noopener noreferrer" target="_blank" href="#"><g-image class="supporters__items" alt="Logo Fiep" src="~/assets/images/img-apoio-senai-fiep.svg" width="100" /></a>
+                  <a rel="noopener noreferrer" target="_blank" href="#"><g-image class="supporters__items" alt="Logo Senai" src="~/assets/images/img-apoio-senai_2.svg" width="100" /></a>
+                  <a rel="noopener noreferrer" target="_blank" href="#"><g-image class="supporters__items" alt="Logo Pge" src="~/assets/images/img-apoio-pge.png" width="100" /></a>
+                  <a rel="noopener noreferrer" target="_blank" href="#"><g-image class="supporters__items" alt="Logo Fits" src="~/assets/images/img-apoio-fits.svg" width="100" /></a>
+                  <a rel="noopener noreferrer" target="_blank" href="#"><g-image class="supporters__items" alt="Logo Fiepa" src="~/assets/images/img-apoio-fiepa.png" width="100" /></a>                  
                 </div>
               </div>
             </div>
@@ -722,7 +728,7 @@ export default {
   &::before {
     content: "";
     position: absolute;
-    bottom: 0;
+    bottom: 1rem;
     left: 0;
     width: 120vw;
     height: 10rem;

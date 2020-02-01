@@ -23,7 +23,7 @@
                 <div class="col-xl-3 col-lg-4 col-sm-6">
                     <ul class="footer-menu__list">
                         <li class="footer-menu__item">Outros</li>
-                        <li class="footer-menu__item"><g-link to="../assets/images/Manual-PDANEEL.pdf" target="_blank">Regulamento Aneel</g-link></li>
+                        <li class="footer-menu__item"><g-link to="../assets/images/PROP&D.zip" target="_blank">Regulamento Aneel</g-link></li>
                         <li class="footer-menu__item"><g-link to="../assets/images/Regulamento-Energy-Future-Oficial.pdf" target="_blank">Regulamento Energy Future</g-link></li>
                     </ul>                
                 </div>
