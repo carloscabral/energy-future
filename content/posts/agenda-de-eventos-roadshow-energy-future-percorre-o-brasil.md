@@ -19,22 +19,46 @@ A primeira edição do evento foi realizada dia 09.01, no Rio de Janeiro. Os enc
 
 ## Acompanhe a agenda de eventos:
 
-09.01 – Rio de Janeiro, na Firjan
+**09.01 – Rio de Janeiro, na Firjan**
 
 [Assista aqui.](https://youtu.be/TwaZhdZvguU)
 
-14.01 – Florianópolis, na Associação Catarinense de Tecnologia (ACATE)
+**14.01 – Florianópolis, na Associação Catarinense de Tecnologia (ACATE)**
 
 [Assista aqui.](https://www.youtube.com/watch?v=L0TA3lHCQyU) 
 
-21.01 – Belo Horizonte, na Universidade Federal de Minas Gerais (UFMG)
+**21.01 – Belo Horizonte, na Universidade Federal de Minas Gerais (UFMG)**
 
 [Assista aqui.](https://youtu.be/QE5rbsUs5jM)
 
-[](https://www.sympla.com.br/3-roadshow-energy-future---ufmg--inct-midas---bh__761349?fbclid=IwAR3onzqMcxjCOn-ntlQmK2YAPZfFiiV00eRxJiW16pvBcnoIeIUq0X1kf_c)23.01 – Fortaleza, na Federação das Indústrias do Estado do Ceará (FIEC) 
+**23.01 – Fortaleza, na Federação das Indústrias do Estado do Ceará (FIEC)** 
 
 [Assista aqui.](https://youtu.be/m75ryEQ3-8c)
 
-[](https://www.sympla.com.br/4--roadshow-energy-future---fiec-senai---fortaleza__761304)29.01 – São Paulo, às 10h, no SENAI SP
+**29.01 – São Paulo, no SENAI SP**
 
-[Inscreva-se aqui.](https://www.sympla.com.br/5--roadshow-energy-future---senai-sp--ist__761835)
+Em breve, disponível aqui.
+
+**04.02 – Recife, às 13h30, no Instituto César - Recife** 
+
+[Inscreva-se aqui.](<https://www.sympla.com.br/6--roadshow-energy-future---instituto-cesar---recife**777614 16h18**>)
+
+**05.02 – Curitiba, às 09h30, no Campus da Indústria - Sistema FIEP - Curitiba** 
+
+[Inscreva-se aqui.](<**https://www.sympla.com.br/7--roadshow-energy-future---fiep---curitiba**777600 16h19>)
+
+**06.02 – São Leopoldo - RS, às 09h30, no SENAI**
+
+[Inscreva-se aqui.](https://www.sympla.com.br/8--roadshow-energy-future---senai---porto-alegre__777665)
+
+**11.02 – Belém, às 9h30, na FIEPA**
+
+[Inscreva-se aqui.](https://www.sympla.com.br/9--roadshow-energy-future---fiepa---belem__779539)
+
+**12.02 – Goiânia, às 9h30, no SENAI**
+
+[Inscreva-se aqui.](https://www.sympla.com.br/10--roadshow-energy-future---senai---goiania__778619)
+
+**13.02 – Campo Grande - MS, às 9h30**
+
+[Inscreva-se aqui.](https://www.sympla.com.br/11--roadshow-energy-future---senai---campo-grande--ms__778588)
