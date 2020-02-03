@@ -28,6 +28,7 @@
                       <p class="card__divider card__divider--1"></p>
                       <p class="card__text">Para garantir a inscrição correta do seu projeto, leia com atenção o Regulamento do Energy Future e o Regulamento da Aneel, que orienta a formulação de projetos de P&D. Os conteúdos estão disponíveis abaixo.</p>
                       <g-link to="../assets/images/Regulamento-Energy-Future-Oficial.pdf" target="_blank" class="card__link card__link--1"><font-awesome :icon="['fas', 'arrow-right']"/>Regulamento Energy Future</g-link>
+                      <g-link to="../assets/images/Regulamento_EF_Prorrogação-de-Inscrição.pdf" target="_blank" class="card__link card__link--1"><font-awesome :icon="['fas', 'arrow-right']"/>Regulamento Energy Future - Prorrogação das Inscrições</g-link>
                       <g-link to="../assets/images/PROP&D.zip" target="_blank" class="card__link card__link--1"><font-awesome :icon="['fas', 'arrow-right']"/>Regulamento Aneel</g-link>
                   </div>
               </div>
@@ -164,10 +165,10 @@ export default {
     max-width: 22rem;
     transition: box-shadow .2s ease;
     @media(min-width: 768px) {
-        height: 26.7rem;
+        height: 28.7rem;
     }
     @media(min-width: 1200px) {
-        height: 30rem;
+        height: 32rem;
     }    
 
     &:hover {

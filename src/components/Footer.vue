@@ -25,6 +25,7 @@
                         <li class="footer-menu__item">Outros</li>
                         <li class="footer-menu__item"><g-link to="../assets/images/PROP&D.zip" target="_blank">Regulamento Aneel</g-link></li>
                         <li class="footer-menu__item"><g-link to="../assets/images/Regulamento-Energy-Future-Oficial.pdf" target="_blank">Regulamento Energy Future</g-link></li>
+                        <li style="line-height: 1.5 !important; margin-top: .45rem;" class="footer-menu__item"><g-link style="line-height: 1.5 !important;" to="../assets/images/Regulamento_EF_Prorrogação-de-Inscrição.pdf" target="_blank">Regulamento Energy Future - Prorrogação das inscrições</g-link></li>
                     </ul>                
                 </div>
                 <div class="col-xl-4 offset-xl-2 col-lg-4 col-md-6">
