@@ -37,7 +37,7 @@ A primeira edição do evento foi realizada dia 09.01, no Rio de Janeiro. Os enc
 
 **29.01 – São Paulo, no SENAI SP**
 
-Em breve, disponível aqui.
+[Assista aqui.](https://www.youtube.com/watch?v=38p-3VlrA7s)
 
 **04.02 – Recife, às 13h30, no Instituto César - Recife** 
 
