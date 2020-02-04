@@ -8,7 +8,8 @@
           <g-link to="/inscricao"><button class="newsletter-click hero__button mt-3"><font-awesome :icon="['fas', 'arrow-right']"/>&nbsp;&nbsp;&nbsp;Inscrições prorrogadas!</button></g-link>
         </div>
         <div class="col-lg-5 col-xl-6">
-          <g-image alt="Imagem de destaque" class="hero__image" src="~/assets/images/img-top-lp.png" width="900" />
+          <iframe title="Vídeo sobre o Energy Future" class="hero__video" src="https://player.vimeo.com/video/389214543" width="640" height="480" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+          <!-- <g-image alt="Imagem de destaque" class="hero__image" src="~/assets/images/img-top-lp.png" width="900" /> -->
         </div>
       </div>
 
@@ -327,6 +328,22 @@ export default {
       width: auto;
       margin-top: 0;
     }
+  }
+
+  &__video {
+    position: relative;
+    width: 100%;
+    transform: translateY(-15%);
+
+    @media(min-width: 768px) {
+      transform: translateY(0);
+    } 
+
+    @media(min-width: 992px) {
+      width: 105%;
+      transform: translate(6%, -10%);
+    }    
+
   }
 
   &__button {
