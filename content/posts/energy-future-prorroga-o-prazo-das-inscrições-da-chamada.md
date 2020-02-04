@@ -35,4 +35,4 @@ Após a leitura, deve ser feito o cadastro no site. Na sequência, será enviada
 
 O prazo de inscrição dos projetos encerra-se no dia 28 de fevereiro. As propostas aprovadas na triagem técnica, que corresponde à conferência dos documentos, passam para a triagem administrativa. O resultado final da chamada será divulgado no portal energyfuture.com.br no dia 1º de junho de 2020.
 
-[Confira aqui](https://drive.google.com/file/d/1xgr2EPdk7bHtJb7sSVSHMJi8WsHtrC_K/view) o adendo ao Regulamento do Energy Future sobre a prorrogação.
+[Confira aqui](https://www.energyfuture.com.br/assets/files/Regulamento_EF_Prorrogacao-de-Inscricao.eaf22374708e066b669b3739e3cc1ffb.pdf) o adendo ao Regulamento do Energy Future sobre a prorrogação.
