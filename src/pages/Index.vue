@@ -175,14 +175,14 @@
             <h1 class="supporters__title">Nossos Apoiadores</h1>
             <p class="supporters__text" >Temos grandes parceiros. Empresas que são expert em suas áreas de atuação e trazem para o Energy Future todo o seu conhecimento.</p>
             <div class="row">
-              <div class="col-12 col-lg-8 offset-lg-2">
+              <div class="col-12 col-lg-10 offset-lg-1">
                 <h3 class="supporters__subtitle">Apoiadores Estratégicos</h3>
                 <div class="supporters__logos">
-                  <a rel="noopener noreferrer" target="_blank" href="https://bit.ly/abacomm"><g-image class="supporters__items" alt="Logo Abacomm" src="~/assets/images/img-logo-apoio-abacomm.svg" width="150" /></a>
-                  <a rel="noopener noreferrer" target="_blank" href="http://www.centralcomm.net.br/"><g-image class="supporters__items" alt="Logo CentralComm" src="~/assets/images/img-logo-apoio-centralcomm.svg" width="150" /></a>
-                  <a rel="noopener noreferrer" target="_blank" href="https://www.acate.com.br/"><g-image class="supporters__items" alt="Logo Acate" src="~/assets/images/img-logo-apoio-acate.svg" width="150" /></a>
-                  <a rel="noopener noreferrer" target="_blank" href="https://yourstudio.com/locations/aqwa/"><g-image class="supporters__items" alt="Logo Studio" src="~/assets/images/img-apoio-studio.png" width="150" /></a>
-                  <a rel="noopener noreferrer" target="_blank" href="https://www.linkedin.com/showcase/instituto-senai-de-tecnologia-em-energia"><g-image class="supporters__items" alt="Logo IST Energia" src="~/assets/images/img-apoio-ist.svg" width="150" /></a>
+                  <a rel="noopener noreferrer" target="_blank" href="https://bit.ly/abacomm"><g-image class="supporters__items" alt="Logo Abacomm" src="~/assets/images/img-logo-apoio-abacomm.svg" width="130" /></a>
+                  <a rel="noopener noreferrer" target="_blank" href="http://www.centralcomm.net.br/"><g-image class="supporters__items" alt="Logo CentralComm" src="~/assets/images/img-logo-apoio-centralcomm.svg" width="130" /></a>
+                  <a rel="noopener noreferrer" target="_blank" href="https://www.acate.com.br/"><g-image class="supporters__items" alt="Logo Acate" src="~/assets/images/img-logo-apoio-acate.svg" width="130" /></a>
+                  <a rel="noopener noreferrer" target="_blank" href="https://yourstudio.com/locations/aqwa/"><g-image class="supporters__items" alt="Logo Studio" src="~/assets/images/img-apoio-studio.png" width="130" /></a>
+                  <a rel="noopener noreferrer" target="_blank" href="https://www.linkedin.com/showcase/instituto-senai-de-tecnologia-em-energia"><g-image class="supporters__items" alt="Logo IST Energia" src="~/assets/images/img-apoio-ist.svg" width="130" /></a>
                 </div>
               </div>              
               <div class="col-12 col-lg-10 offset-lg-1">
@@ -207,7 +207,9 @@
                   <a rel="noopener noreferrer" target="_blank" href="#"><g-image class="supporters__items" alt="Logo Senai" src="~/assets/images/img-apoio-senai_2.svg" width="100" /></a>
                   <a rel="noopener noreferrer" target="_blank" href="#"><g-image class="supporters__items" alt="Logo Pge" src="~/assets/images/img-apoio-pge.png" width="100" /></a>
                   <a rel="noopener noreferrer" target="_blank" href="#"><g-image class="supporters__items" alt="Logo Fits" src="~/assets/images/img-apoio-fits.svg" width="100" /></a>
-                  <a rel="noopener noreferrer" target="_blank" href="#"><g-image class="supporters__items" alt="Logo Fiepa" src="~/assets/images/img-apoio-fiepa.png" width="100" /></a>                  
+                  <a rel="noopener noreferrer" target="_blank" href="#"><g-image class="supporters__items" alt="Logo Fiepa" src="~/assets/images/img-apoio-fiepa.png" width="100" /></a>
+                  <a rel="noopener noreferrer" target="_blank" href="#"><g-image class="supporters__items" alt="Logo Fiero" src="~/assets/images/img-logo-apoio-fiero.svg" width="100" /></a>
+                  <a rel="noopener noreferrer" target="_blank" href="#"><g-image class="supporters__items" alt="Logo CNI" src="~/assets/images/img-logo-apoio-cni.png" width="100" /></a>
                 </div>
               </div>
             </div>
