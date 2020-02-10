@@ -1,6 +1,6 @@
 ---
 title: >-
-  “Movimente sua energia para o futuro” diz campanha de lançamento do Energy
+  “Movimente sua energia para o futuro”, diz campanha de lançamento do Energy
   Future
 excerpt: >-
   O Energy Future lança campanha para apresentar as iniciativas do hub de
