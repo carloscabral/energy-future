@@ -178,38 +178,38 @@
               <div class="col-12 col-lg-10 offset-lg-1">
                 <h3 class="supporters__subtitle">Apoiadores Estratégicos</h3>
                 <div class="supporters__logos">
-                  <a rel="noopener noreferrer" target="_blank" href="https://bit.ly/abacomm"><g-image class="supporters__items" alt="Logo Abacomm" src="~/assets/images/img-logo-apoio-abacomm.svg" width="130" /></a>
-                  <a rel="noopener noreferrer" target="_blank" href="http://www.centralcomm.net.br/"><g-image class="supporters__items" alt="Logo CentralComm" src="~/assets/images/img-logo-apoio-centralcomm.svg" width="130" /></a>
-                  <a rel="noopener noreferrer" target="_blank" href="https://www.acate.com.br/"><g-image class="supporters__items" alt="Logo Acate" src="~/assets/images/img-logo-apoio-acate.svg" width="130" /></a>
-                  <a rel="noopener noreferrer" target="_blank" href="https://yourstudio.com/locations/aqwa/"><g-image class="supporters__items" alt="Logo Studio" src="~/assets/images/img-apoio-studio.png" width="130" /></a>
-                  <a rel="noopener noreferrer" target="_blank" href="https://www.linkedin.com/showcase/instituto-senai-de-tecnologia-em-energia"><g-image class="supporters__items" alt="Logo IST Energia" src="~/assets/images/img-apoio-ist.svg" width="130" /></a>
+                  <a rel="noopener noreferrer" target="_blank" href="https://bit.ly/abacomm"><g-image class="supporters__items" alt="Logo Abacomm" src="~/assets/images/img-apoio-estrategico-abacomm.svg" width="130" /></a>
+                  <a rel="noopener noreferrer" target="_blank" href="http://www.centralcomm.net.br/"><g-image class="supporters__items" alt="Logo CentralComm" src="~/assets/images/img-apoio-estrategico-centralcomm.svg" width="130" /></a>
+                  <a rel="noopener noreferrer" target="_blank" href="https://www.acate.com.br/"><g-image class="supporters__items" alt="Logo Acate" src="~/assets/images/img-apoio-estrategico-acate.svg" width="130" /></a>
+                  <a rel="noopener noreferrer" target="_blank" href="https://yourstudio.com/locations/aqwa/"><g-image class="supporters__items" alt="Logo Studio" src="~/assets/images/img-apoio-estrategico-aqwa.svg" width="130" /></a>
+                  <a rel="noopener noreferrer" target="_blank" href="https://www.linkedin.com/showcase/instituto-senai-de-tecnologia-em-energia"><g-image class="supporters__items" alt="Logo IST Energia" src="~/assets/images/img-apoio-estrategico-ist.svg" width="130" /></a>
                 </div>
               </div>              
               <div class="col-12 col-lg-10 offset-lg-1">
                 <h3 class="supporters__subtitle">Apoio</h3>
                 <div class="supporters__logos">
-                  <a rel="noopener noreferrer" target="_blank" href="https://www.cesar.org.br/"><g-image class="supporters__items" alt="Logo Cesar" src="~/assets/images/img-logo-apoio-cesar.png" width="100" /></a>
-                  <a rel="noopener noreferrer" target="_blank" href="https://www.linkedin.com/company/open-innovation-br/"><g-image class="supporters__items" alt="Logo Open Innovation" src="~/assets/images/img-logo-apoio-oib.svg" width="100" /></a>
-                  <a rel="noopener noreferrer" target="_blank" href="https://abmen.org.br/"><g-image class="supporters__items" alt="Logo Abmen" src="~/assets/images/img-apoio-abmen.png" width="100" /></a>
-                  <a rel="noopener noreferrer" target="_blank" href="https://abraceel.com.br/"><g-image class="supporters__items" alt="Logo Abraceel" src="~/assets/images/img-apoio-abraceel.png" width="100" /></a>
-                  <a rel="noopener noreferrer" target="_blank" href="https://www.firjan.com.br/senai/"><g-image class="supporters__items" alt="Logo Firjan" src="~/assets/images/img-apoio-firjan.png" width="100" /></a>
+                  <a rel="noopener noreferrer" target="_blank" href="https://www.cesar.org.br/"><g-image class="supporters__items" alt="Logo Cesar" src="~/assets/images/img-apoio-cesar.svg" width="100" /></a>
+                  <a rel="noopener noreferrer" target="_blank" href="https://www.linkedin.com/company/open-innovation-br/"><g-image class="supporters__items" alt="Logo Open Innovation" src="~/assets/images/img-apoio-open-innovation.svg" width="100" /></a>
+                  <a rel="noopener noreferrer" target="_blank" href="https://abmen.org.br/"><g-image class="supporters__items" alt="Logo Abmen" src="~/assets/images/img-apoio-abmen.svg" width="100" /></a>
+                  <a rel="noopener noreferrer" target="_blank" href="https://abraceel.com.br/"><g-image class="supporters__items" alt="Logo Abraceel" src="~/assets/images/img-apoio-abraceel.svg" width="100" /></a>
+                  <a rel="noopener noreferrer" target="_blank" href="https://www.firjan.com.br/senai/"><g-image class="supporters__items" alt="Logo Firjan" src="~/assets/images/img-apoio-firjan.svg" width="100" /></a>
                   <a rel="noopener noreferrer" target="_blank" href="https://www.parque.ufrj.br/"><g-image class="supporters__items" alt="Logo Parque Tecnológico" src="~/assets/images/img-apoio-parque.svg" width="100" /></a>
                   <a rel="noopener noreferrer" target="_blank" href="https://coppe.ufrj.br/"><g-image class="supporters__items" alt="Logo Coppe" src="~/assets/images/img-apoio-coppe.svg" width="100" /></a>
                   <a rel="noopener noreferrer" target="_blank" href="https://startupi.com.br/"><g-image class="supporters__items" alt="Logo Startupi" src="~/assets/images/img-apoio-startupi.svg" width="100" /></a>
                   <a rel="noopener noreferrer" target="_blank" href="https://www1.sfiec.org.br/"><g-image class="supporters__items" alt="Logo FIEC" src="~/assets/images/img-apoio-fiec.svg" width="100" /></a>
-                  <a rel="noopener noreferrer" target="_blank" href="https://www.senaigo.com.br/home"><g-image class="supporters__items" alt="Logo SENAI" src="~/assets/images/img-apoio-ist-senai.svg" width="100" /></a>
-                  <a rel="noopener noreferrer" target="_blank" href="https://www.senaipr.org.br/"><g-image class="supporters__items" alt="Logo SENAI" src="~/assets/images/img-apoio-senai_azul.png" width="100" /></a>
-                  <a rel="noopener noreferrer" target="_blank" href="http://inctmidas.com.br/"><g-image class="supporters__items" alt="Logo Midas" src="~/assets/images/img-apoio-midas.png" width="100" /></a>
+                  <a rel="noopener noreferrer" target="_blank" href="https://www.senaigo.com.br/home"><g-image class="supporters__items" alt="Logo SENAI" src="~/assets/images/img-apoio-senai.svg" width="100" /></a>
+                  <a rel="noopener noreferrer" target="_blank" href="https://www.senaipr.org.br/"><g-image class="supporters__items" alt="Logo SENAI" src="~/assets/images/img-apoio-senai4.svg" width="100" /></a>
+                  <a rel="noopener noreferrer" target="_blank" href="http://inctmidas.com.br/"><g-image class="supporters__items" alt="Logo Midas" src="~/assets/images/img-apoio-midas.svg" width="100" /></a>
                   <a rel="noopener noreferrer" target="_blank" href="https://www.abradee.org.br/"><g-image class="supporters__items" alt="Logo Abradee" src="~/assets/images/img-apoio-abradee.svg" width="100" /></a>
-                  <a rel="noopener noreferrer" target="_blank" href="https://www.anjosdobrasil.net/"><g-image class="supporters__items" alt="Logo Anjos do Brasil" src="~/assets/images/img-apoio-anjos.png" width="100" /></a>
+                  <a rel="noopener noreferrer" target="_blank" href="https://www.anjosdobrasil.net/"><g-image class="supporters__items" alt="Logo Anjos do Brasil" src="~/assets/images/img-apoio-anjos.svg" width="100" /></a>
 
-                  <a rel="noopener noreferrer" target="_blank" href="#"><g-image class="supporters__items" alt="Logo Fiep" src="~/assets/images/img-apoio-senai-fiep.svg" width="100" /></a>
-                  <a rel="noopener noreferrer" target="_blank" href="#"><g-image class="supporters__items" alt="Logo Senai" src="~/assets/images/img-apoio-senai_2.svg" width="100" /></a>
-                  <a rel="noopener noreferrer" target="_blank" href="#"><g-image class="supporters__items" alt="Logo Pge" src="~/assets/images/img-apoio-pge.png" width="100" /></a>
+                  <a rel="noopener noreferrer" target="_blank" href="#"><g-image class="supporters__items" alt="Logo Fiep" src="~/assets/images/img-apoio-fiep.svg" width="100" /></a>
+                  <a rel="noopener noreferrer" target="_blank" href="#"><g-image class="supporters__items" alt="Logo Senai" src="~/assets/images/img-apoio-fiems.svg" width="100" /></a>
+                  <a rel="noopener noreferrer" target="_blank" href="#"><g-image class="supporters__items" alt="Logo Pge" src="~/assets/images/img-apoio-senai2.svg" width="100" /></a>
                   <a rel="noopener noreferrer" target="_blank" href="#"><g-image class="supporters__items" alt="Logo Fits" src="~/assets/images/img-apoio-fits.svg" width="100" /></a>
-                  <a rel="noopener noreferrer" target="_blank" href="#"><g-image class="supporters__items" alt="Logo Fiepa" src="~/assets/images/img-apoio-fiepa.png" width="100" /></a>
-                  <a rel="noopener noreferrer" target="_blank" href="#"><g-image class="supporters__items" alt="Logo Fiero" src="~/assets/images/img-logo-apoio-fiero.svg" width="100" /></a>
-                  <a rel="noopener noreferrer" target="_blank" href="#"><g-image class="supporters__items" alt="Logo CNI" src="~/assets/images/img-logo-apoio-cni.png" width="100" /></a>
+                  <a rel="noopener noreferrer" target="_blank" href="#"><g-image class="supporters__items" alt="Logo Fiepa" src="~/assets/images/img-apoio-fiepa.svg" width="100" /></a>
+                  <a rel="noopener noreferrer" target="_blank" href="#"><g-image class="supporters__items" alt="Logo Fiero" src="~/assets/images/img-apoio-fiero.svg" width="100" /></a>
+                  <a rel="noopener noreferrer" target="_blank" href="#"><g-image class="supporters__items" alt="Logo CNI" src="~/assets/images/img-apoio-cni.svg" width="100" /></a>
                 </div>
               </div>
             </div>

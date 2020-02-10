@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="71px" height="74px" viewBox="0 0 71 74" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 62 (91390) - https://sketch.com -->
+    <title>Ícone Startups</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="117.8%" y1="-171.9%" x2="100%" y2="194.7%" id="linearGradient-1">
+            <stop stop-color="#773DBD" offset="0%"></stop>
+            <stop stop-color="#0071CE" stop-opacity="0.647" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="117.8%" y1="-171.9%" x2="100%" y2="194.7%" id="linearGradient-2">
+            <stop stop-color="#773DBD" offset="0%"></stop>
+            <stop stop-color="#0071CE" stop-opacity="0.647" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="117.8%" y1="-171.9%" x2="100%" y2="194.7%" id="linearGradient-3">
+            <stop stop-color="#773DBD" offset="0%"></stop>
+            <stop stop-color="#0071CE" stop-opacity="0.647" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="117.8%" y1="-171.9%" x2="100%" y2="194.7%" id="linearGradient-4">
+            <stop stop-color="#773DBD" offset="0%"></stop>
+            <stop stop-color="#0071CE" stop-opacity="0.647" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="117.8%" y1="-171.9%" x2="100%" y2="194.7%" id="linearGradient-5">
+            <stop stop-color="#773DBD" offset="0%"></stop>
+            <stop stop-color="#0071CE" stop-opacity="0.647" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.901">
+        <g id="Ícone-Startups" fill-rule="nonzero">
+            <g id="Ícone_Startups">
+                <path d="M19.984,13.6 L36.778,30.409 L37.393,29.794 L37.723,29.509 C38.7234788,28.780899 40.1050141,28.889078 40.9799681,29.7640319 C41.854922,30.6389859 41.963101,32.0205212 41.235,33.021 L40.95,33.351 L40.335,33.966 L57.129,50.76 L70.741,0 L19.984,13.6 Z M65.848,3.182 L36.823,27.9 L23.451,14.528 L65.848,3.182 Z M42.241,28.5 L42.241,28.5 C41.6861744,27.9479275 40.9906447,27.5584862 40.23,27.374 L61.466,9.274 L43.384,30.5 C43.1997773,29.7386668 42.8034481,29.0451774 42.241,28.5 L42.241,28.5 Z M56.213,47.275 L42.841,33.918 L67.559,4.893 L56.213,47.275 Z" id="Caminho_80" fill="url(#linearGradient-1)"></path>
+                <rect id="Retângulo_615" fill="url(#linearGradient-2)" transform="translate(34.348536, 61.786964) rotate(-45.000000) translate(-34.348536, -61.786964) " x="18.7175358" y="60.8864636" width="31.262" height="1.801"></rect>
+                <rect id="Retângulo_616" fill="url(#linearGradient-3)" transform="translate(32.346379, 54.046120) rotate(-45.000000) translate(-32.346379, -54.046120) " x="20.7828789" y="53.1456204" width="23.127" height="1.801"></rect>
+                <rect id="Retângulo_617" fill="url(#linearGradient-4)" transform="translate(10.315274, 35.018226) rotate(-45.000000) translate(-10.315274, -35.018226) " x="-3.37222628" y="34.1177256" width="27.375" height="1.801"></rect>
+                <rect id="Retângulo_618" fill="url(#linearGradient-5)" transform="translate(18.078117, 37.023382) rotate(-45.000000) translate(-18.078117, -37.023382) " x="8.45811689" y="36.1228824" width="19.24" height="1.801"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,12 +1,12 @@
 <template>
-  <div class="tint"> 
+  <div class="tint-2"> 
     <div class="container">
       <div class="layout">
-        <Header />
+        <!-- <Header /> -->
             <main>
                 <slot />
             </main>
-        <Footer />
+        <!-- <Footer /> -->
       </div>
     </div>
   </div>

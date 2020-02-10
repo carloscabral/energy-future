@@ -114,7 +114,7 @@ export default {
     background: url("../assets/images/img-graphism-bg.svg");
     background-size: contain;
     background-repeat: no-repeat;
-    background-position-y: 75%;
+    background-position-y: 70%;
     opacity: .9;
     z-index: -999;   
   }

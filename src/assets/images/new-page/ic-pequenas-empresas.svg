@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="84px" height="74px" viewBox="0 0 84 74" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 62 (91390) - https://sketch.com -->
+    <title>Ícone Pequenas empresas</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="117.8%" y1="-171.9%" x2="100%" y2="194.7%" id="linearGradient-1">
+            <stop stop-color="#773DBD" offset="0%"></stop>
+            <stop stop-color="#0071CE" stop-opacity="0.647" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="117.8%" y1="-171.9%" x2="100%" y2="194.7%" id="linearGradient-2">
+            <stop stop-color="#773DBD" offset="0%"></stop>
+            <stop stop-color="#0071CE" stop-opacity="0.647" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.901">
+        <g id="Ícone-Pequenas-empresas" fill-rule="nonzero">
+            <g id="Ícone_Pequenas_empresas">
+                <rect id="Retângulo_619" fill="url(#linearGradient-1)" x="34.567" y="53.383" width="14.789" height="1.803"></rect>
+                <rect id="Retângulo_620" fill="url(#linearGradient-1)" x="34.567" y="56.93" width="14.789" height="1.803"></rect>
+                <rect id="Retângulo_621" fill="url(#linearGradient-1)" x="34.567" y="60.462" width="14.789" height="1.803"></rect>
+                <rect id="Retângulo_622" fill="url(#linearGradient-1)" x="34.567" y="64.009" width="14.789" height="1.803"></rect>
+                <path d="M83.922,71.673 L68.307,71.673 L68.307,29.573 L78.933,29.573 L67.933,10.531 L61.98,10.531 L61.98,0 L52.466,0 L52.466,10.535 L15.991,10.535 L4.975,29.577 L15.6,29.577 L15.6,71.677 L0,71.677 L0,73.477 L83.907,73.477 L83.907,71.677 L83.922,71.673 Z M54.27,1.8 L60.176,1.8 L60.176,10.532 L54.27,10.532 L54.27,1.8 Z M8.1,27.774 L17.012,12.339 L66.879,12.339 L75.791,27.774 L8.1,27.774 Z M17.4,29.574 L66.5,29.574 L66.5,71.674 L53.428,71.674 L53.428,49.851 L30.479,49.851 L30.479,71.673 L17.4,71.673 L17.4,29.574 Z M51.636,71.674 L32.282,71.674 L32.282,51.655 L51.64,51.655 L51.636,71.674 Z" id="Caminho_89" fill="url(#linearGradient-2)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

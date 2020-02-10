@@ -7,7 +7,8 @@
               <button class="hero__button">Faça seu cadastro</button>
           </div>
           <div class="col-xl-6 mt-4 mt-xl-0 hero__video">
-              <iframe title="Video de destaque" src="https://www.youtube.com/embed/bamqYn5JXq4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+              <iframe title="Video de destaque" src="https://player.vimeo.com/video/389214543" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+              <!-- <iframe title="Video de destaque" src="https://www.youtube.com/embed/bamqYn5JXq4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
           </div>
       </div>
       <div class="row">
@@ -31,23 +32,23 @@
                 <h3 class="color-box__title">Quem pode se inscrever no Energy Future?</h3>
             </div>
             <div class="col-lg-2 col-md-4 col-sm-6">
-                <g-image class="color-box__icon" src="../assets/images/icon-faq-inscricao.svg" width="75" />
+                <g-image class="color-box__icon" src="../assets/images/new-page/ic-startups.svg" width="100" />
                 <p class="color-box__text">Startups</p>
             </div>
             <div class="col-lg-2 col-md-4 col-sm-6">
-                <g-image class="color-box__icon" src="../assets/images/icon-faq-selecao.svg" width="75" />
+                <g-image class="color-box__icon" src="../assets/images/new-page/ic-pesquisadores.svg" width="100" />
                 <p class="color-box__text">Pesquisarores</p>
             </div>
             <div class="col-lg-2 col-md-4 col-sm-6">
-                <g-image class="color-box__icon" src="../assets/images/icon-faq-resultados.svg" width="75" />
+                <g-image class="color-box__icon" src="../assets/images/new-page/ic-corporacoes.svg" width="100" />
                 <p class="color-box__text">Corporações</p>
             </div>
             <div class="col-lg-2 col-md-4 col-sm-6">
-                <g-image class="color-box__icon" src="../assets/images/icon-faq-contato.svg" width="75" />
+                <g-image class="color-box__icon" src="../assets/images/new-page/ic-pequenas-empresas.svg" width="100" />
                 <p class="color-box__text">Pequenas Empresas</p>
             </div>
             <div class="col-lg-2 col-md-4 col-sm-6">
-                <g-image class="color-box__icon" src="../assets/images/icon-faq-concessionarias.svg" width="75" />
+                <g-image class="color-box__icon" src="../assets/images/new-page/ic-medias-empresas.svg" width="100" />
                 <p class="color-box__text">Médias Empresas</p>
             </div>                        
         </div>
@@ -64,7 +65,7 @@
       <div class="row mt-3">
         <div class="col-12">
             <h3 class="line-title">Qual a garantia de propriedade intelectual?</h3>
-            <p class="mt-3 mb-5" style="max-width: 800px;">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nesciunt doloremque fuga nulla cupiditate laboriosam perspiciatis. Facere similique sit ipsa ipsam dolores ea cupiditate consectetur ad?</p>              
+            <p class="mt-3 mb-5" style="max-width: 800px;">A chamada está alinhada aos regulamentos da ANEEL na garantia da Propriedade Intelectual. Os projetos inscritos estão preservados, de acordo com as leis nº 9.279/96 (Propriedade Industrial) e 9.610/98 (Direito Autoral).</p>              
         </div>
       </div>
       <div class="testimonial my-5">
@@ -73,37 +74,84 @@
                 <p class="testimonial__text">{{ testimonials[activeTestimonial].text }}</p>
                 <cite class="testimonial__author">{{ testimonials[activeTestimonial].author }}</cite>
             </div>
-            <div class="testimonial__button previous" @click="goPrev"><font-awesome :icon="['fas', 'arrow-left']"/></div>
-            <div class="testimonial__button next" @click="goNext"><font-awesome :icon="['fas', 'arrow-right']"/></div>
+            <div v-show="activeTestimonial > 0" class="testimonial__button previous" @click="goPrev"><font-awesome :icon="['fas', 'chevron-left']"/></div>
+            <div v-show="activeTestimonial < testimonials.length - 1" class="testimonial__button next" @click="goNext"><font-awesome :icon="['fas', 'chevron-right']"/></div>
         </div>
       </div>
 
       <div id="bottom-cards">
           <div class="row">
               <div class="col-xl-4 col-lg-6 col-md-6 mt-5 px-xl-2">
-                  <div class="card card--1">
-                      <h3 class="card__icon"><g-image class="color-box__icon" src="../assets/images/icon-faq-inscricao.svg" width="75" /></h3>
-                      <h4 class="card__title">O que preciso saber para a inscrição no Energy Future?</h4>
-                      <p class="card__divider card__divider--1"></p>
-                      <g-link to="../assets/images/Regulamento-Energy-Future-Oficial.pdf" target="_blank" class="card__link card__link--1"><font-awesome :icon="['fas', 'arrow-right']"/>Regulamento Energy Future</g-link>
-                      <g-link to="../assets/images/Manual-PDANEEL.pdf" target="_blank" class="card__link card__link--1"><font-awesome :icon="['fas', 'arrow-right']"/>Regulamento Aneel</g-link>
+                  <div class="new-card new-card--1">
+                      <h3 class="new-card__icon"><g-image class="color-box__icon" src="../assets/images/new-page/img-regulamentos.svg" width="75" /></h3>
+                      <h4 class="new-card__title">O que preciso saber para a inscrição no Energy Future?</h4>
+                      <p class="new-card__divider new-card__divider--1"></p>
+                      <g-link to="../assets/images/Regulamento-Energy-Future-Oficial.pdf" target="_blank" class="new-card__link new-card__link--1"><font-awesome :icon="['fas', 'arrow-right']"/>Regulamento Energy Future</g-link>
+                      <g-link to="../assets/images/Manual-PDANEEL.pdf" target="_blank" class="new-card__link new-card__link--1"><font-awesome :icon="['fas', 'arrow-right']"/>Regulamento Aneel</g-link>
                   </div>
               </div>
               <div class="col-xl-4 col-lg-6 col-md-6 mt-5 px-xl-2">
-                <div class="card card--2">
-                    <h3 class="card__icon"><g-image class="color-box__icon" src="../assets/images/icon-faq-inscricao.svg" width="75" /></h3>
-                    <h4 class="card__title">Até quando posso realizar a inscrição?</h4>
-                    <p class="card__divider card__divider--2"></p>
-                    <g-link to="/inscricao/" target="_blank" class="card__link card__link--2">O encerramento das inscrições será no dia <strong>30/01/2020</strong></g-link>
+                <div class="new-card new-card--2">
+                    <h3 class="new-card__icon"><g-image class="color-box__icon" src="../assets/images/new-page/img-encerramento.svg" width="75" /></h3>
+                    <h4 class="new-card__title">Até quando posso realizar a inscrição?</h4>
+                    <p class="new-card__divider new-card__divider--2"></p>
+                    <g-link to="/inscricao/" target="_blank" class="new-card__link new-card__link--2">O encerramento das inscrições será no dia <strong>30/01/2020</strong></g-link>
                 </div>
               </div>
               <div class="col-xl-4 col-lg-6 col-md-6 mt-5 px-xl-2">
-                <div class="card card--3">
-                    <h3 class="card__icon"><g-image class="color-box__icon" src="../assets/images/icon-faq-inscricao.svg" width="75" /></h3>
-                    <h4 class="card__title">Dúvidas? Veja nossas perguntas e respostas mais frequentes:</h4>
-                    <p class="card__divider card__divider--3"></p>
-                    <g-link to="../assets/images/Relatorio-de-Apresentacao.pptx" class="card__link card__link--3"><font-awesome :icon="['fas', 'arrow-right']"/>Acesse nosso FAQ</g-link>
+                <div class="new-card new-card--3">
+                    <h3 class="new-card__icon"><g-image class="color-box__icon" src="../assets/images/new-page/img-faq.svg" width="75" /></h3>
+                    <h4 class="new-card__title">Dúvidas? Veja nossas perguntas e respostas mais frequentes:</h4>
+                    <p class="new-card__divider new-card__divider--3"></p>
+                    <g-link to="../assets/images/Relatorio-de-Apresentacao.pptx" class="new-card__link new-card__link--3"><font-awesome :icon="['fas', 'arrow-right']"/>Acesse nosso FAQ</g-link>
                 </div>           
+              </div>
+          </div>
+      </div>
+
+      <div class="call-to-action">
+          <div class="row text-center">
+              <div class="col-12">
+                  <button class="cta-btn">Faça seu cadastro</button>
+              </div>
+          </div>
+      </div>
+
+      <div class="lp-footer">
+          <div class="row">
+              <div class="col-sm-2 col-md-1">Apoio</div>
+              <div class="col-sm-10 col-md-11 lp-footer-line"></div>
+          </div>
+          <div class="row text-center">
+              <div class="col-6 col-sm-4 col-md-2">
+                  <g-image class="lp-bottom-logos" src="../assets/images/img-logo-apoio-centralcomm.svg" width="75"></g-image>
+              </div>
+              <div class="col-6 col-sm-4 col-md-2">
+                  <g-image class="lp-bottom-logos" src="../assets/images/img-logo-apoio-centralcomm.svg" width="75"></g-image>
+              </div>
+              <div class="col-6 col-sm-4 col-md-2">
+                  <g-image class="lp-bottom-logos" src="../assets/images/img-logo-apoio-centralcomm.svg" width="75"></g-image>
+              </div>
+              <div class="col-6 col-sm-4 col-md-2">
+                  <g-image class="lp-bottom-logos" src="../assets/images/img-logo-apoio-centralcomm.svg" width="75"></g-image>
+              </div>
+              <div class="col-6 col-sm-4 col-md-2">
+                  <g-image class="lp-bottom-logos" src="../assets/images/img-logo-apoio-centralcomm.svg" width="75"></g-image>
+              </div>
+              <div class="col-6 col-sm-4 col-md-2">
+                  <g-image class="lp-bottom-logos" src="../assets/images/img-logo-apoio-centralcomm.svg" width="75"></g-image>
+              </div>
+              <div class="col-6 col-sm-4 col-md-2">
+                  <g-image class="lp-bottom-logos" src="../assets/images/img-logo-apoio-centralcomm.svg" width="75"></g-image>
+              </div>
+              <div class="col-6 col-sm-4 col-md-2">
+                  <g-image class="lp-bottom-logos" src="../assets/images/img-logo-apoio-centralcomm.svg" width="75"></g-image>
+              </div>
+              <div class="col-6 col-sm-4 col-md-2">
+                  <g-image class="lp-bottom-logos" src="../assets/images/img-logo-apoio-centralcomm.svg" width="75"></g-image>
+              </div>
+              <div class="col-6 col-sm-4 col-md-2">
+                  <g-image class="lp-bottom-logos" src="../assets/images/img-logo-apoio-centralcomm.svg" width="75"></g-image>
               </div>
           </div>
       </div>
@@ -126,10 +174,9 @@ export default {
         { title : 'Performance e Digitalização', text: 'Inovação e eﬁciência na geração de produtos e serviços que melhorem o dia a dia do setor de energia; soluções em tecnologia e processos, por meio da conectividade e da troca e envio de dados.' }
     ],
     testimonials: [
-      { author : 'Nome Sobrenome - Empresa 1', text: '“Primeiro Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.”' },
-      { author : 'Nome Sobrenome - Empresa 2', text: '“Segundo Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.”' },
-      { author : 'Nome Sobrenome - Empresa 3', text: '“Terceiro Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.”' },
-      { author : 'Nome Sobrenome - Empresa 4', text: '“Quarto Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.”' },
+      { author : 'Sunny Jonathan - Coordenador de P&D&I no IST ENERGIA/SENAI SP', text: '“O IST ENERGIA do SENAI São Paulo apoia o ENERGY FUTURE, pois é uma grande oportunidade para viabilizar projetos com produtos e resultados que agreguem valor aos negócios das concessionárias do setor elétrico, principalmente nas fases finais da cadeia de inovação, onde o IST ENERGIA tem seu foco de atuação.”' },
+      { author : 'Julia Rodrigues, coordenadora de P&D e Inovação da AES Tietê', text: '“O Energy Future é uma iniciativa muito importante para o setor, pois comunica ao mercado, incluindo indústrias, centros de pesquisa e startups, que as empresas de energia estão abertas à inovação e que possuem verba disponível para investir em projetos inovadores. Os desafios são os mais diversos, e buscamos com o EFT desenvolver o ecossistema de parceiros para nos apoiar na solução deles.”' },
+      { author : 'José Tenório Barreto Junior, Coordenador de Pesquisa, Desenvolvimento e Inovação da Light', text: '“Acreditamos que o momento que o Setor Elétrico passa é de grandes mudanças com consequentes desafios. Assim, a inovação será uma grande alavanca para a superação desses desafios e o evento Energy Future é uma iniciativa que vem abrir mais espaços para novos caminhos que necessitam serem trilhados. O Energy Future pode colaborar com a abertura para novos entrantes no Setor Elétrico, como Startups, que poderão se aliar a esse Setor buscando agregar com novas tecnologias e novas formas de relacionamento com o cliente.”' },
     ]
   }),
   methods: {
@@ -149,21 +196,29 @@ export default {
 
 .hero {
     &__title {
-
+        color: $primary-color !important;
     }
 
     &__subtitle {
         text-transform: none;
         color: rgba(#011E41, .75);
+        font-weight: 400;
+    }
+
+    &__title, &__subtitle {
+        max-width: 36rem;
     }
 
     &__button {
         @include colored-button($accent-color-2);
         margin: 1.5rem 0;
-        width: 18rem;
+        width: 100%;
         text-align: center;
+        @media(min-width: 768px) {
+            width: 18rem;
+        }         
         @media(min-width: 992px) {
-        margin-bottom: 0;
+            margin-bottom: 0;
         }     
     }
 
@@ -239,7 +294,8 @@ export default {
     }
 
     &__icon {
-        margin-top: 1.5rem;
+        margin: 1.5rem 0 1rem;
+        width: 3rem;
         @media(min-width: 992px) {
             margin-top: 0;
         }
@@ -257,42 +313,44 @@ export default {
     position: relative;
     transition: all .2s ease;
 
-    &::before {
-        content: "";
-        position: absolute;
-        width: 100vw;
-        top: -1.5rem;
-        left: calc(-100vw / 2 + 1125px / 2);
-        right: calc(-100vw / 2 + 1125px / 2);  
-        background: #fff;
-        background: linear-gradient(90deg, transparent 0%, #fff 50%, transparent 100%);
-        height: 18rem;
+    @media (min-width: 768px) {
+        &::before {
+            content: "";
+            position: absolute;
+            width: 100vw;
+            top: -1.5rem;
+            left: calc(-100vw / 2 + 1125px / 2);
+            right: calc(-100vw / 2 + 1125px / 2);  
+            background: rgba(#fff, .5);
+            //background: linear-gradient(90deg, transparent 0%, #fff 50%, transparent 100%);
+            height: 22rem;
 
-        @media (max-width: 1199px) {
-            left: calc(-100vw / 2 + 52.5rem / 2);
-            right: calc(-100vw / 2 + 52.5rem / 2);    
+            @media (max-width: 1199px) {
+                left: calc(-100vw / 2 + 52.5rem / 2);
+                right: calc(-100vw / 2 + 52.5rem / 2);    
+            }
+
+            @media (max-width: 991px) {
+                left: calc(-100vw / 2 + 39.16rem / 2);
+                right: calc(-100vw / 2 + 39.16rem / 2);
+                height: 20rem;    
+            }
+
+            @media (max-width: 767px) {
+                left: calc(-100vw / 2 + 29.16rem / 2);
+                right: calc(-100vw / 2 + 29.16rem / 2);    
+                height: 24rem;
+            }
+
+            @media (max-width: 575px) {
+                left: calc(-100vw / 2 + 26.11rem / 2);
+                right: calc(-100vw / 2 + 26.11rem / 2);
+            }
+
+            @media (max-width: 479px) {
+                display: none;
+            }        
         }
-
-        @media (max-width: 991px) {
-            left: calc(-100vw / 2 + 39.16rem / 2);
-            right: calc(-100vw / 2 + 39.16rem / 2);
-            height: 20rem;    
-        }
-
-        @media (max-width: 767px) {
-            left: calc(-100vw / 2 + 29.16rem / 2);
-            right: calc(-100vw / 2 + 29.16rem / 2);    
-            height: 24rem;
-        }
-
-        @media (max-width: 575px) {
-            left: calc(-100vw / 2 + 26.11rem / 2);
-            right: calc(-100vw / 2 + 26.11rem / 2);
-        }
-
-        @media (max-width: 479px) {
-            display: none;
-        }        
     }
 
     &__text {
@@ -323,7 +381,7 @@ export default {
 
 }
 
-.card {
+.new-card {
     padding: 1.5rem 1.5rem;
     background-color: #fff;
     position: relative;
@@ -367,6 +425,10 @@ export default {
         color: $primary-color;
         font-weight: bold;
         margin: 1rem 0;
+        
+        img {
+            height: 2.1rem;
+        }
     }
 
     &__title {
@@ -446,6 +508,36 @@ export default {
                 color: $secondary-color;
             }
         }
+    }
+}
+
+.cta-btn {
+    margin-top: 6rem;
+    @extend .hero__button;
+}
+
+.lp-footer {
+    margin-top: 6rem;
+}
+
+.lp-bottom-logos {
+    filter: grayscale(100%);
+    margin: 1rem;
+}
+
+.lp-footer-line {
+    position: relative;
+    margin-top: 1rem;
+    @media (min-width: 576px) { 
+        margin-top: 0;
+    }     
+    &::before {
+        content: "";
+        position: absolute;
+        width: 100%;
+        height: 2px;
+        top: 45%;
+        background-color: rgba(#000, .3);       
     }
 }
 
