@@ -2,11 +2,11 @@
   <Newest>   
       <div class="row mt-5">
           <div class="col-xl-6 hero">
-              <h1 class="hero__title">A maior chamada de projetos de P&D do setor elétrico brasileiro.</h1>
-              <h3 class="hero__subtitle">O Energy Future, hub virtual de inovação do setor elétrico, conecta projetos a grandes concessionárias do país. Procuramos soluções inovadoras que ajudem a melhorar a geração, distribuição e transmissão de energia elétrica no Brasil.</h3>
-              <button class="hero__button">Faça seu cadastro</button>
+              <h1 class="lp-hero__title">A maior chamada de projetos de P&D do setor elétrico brasileiro.</h1>
+              <h3 class="lp-hero__subtitle">O Energy Future, hub virtual de inovação do setor elétrico, conecta projetos a grandes concessionárias do país. Procuramos soluções inovadoras que ajudem a melhorar a geração, distribuição e transmissão de energia elétrica no Brasil.</h3>
+              <button class="lp-hero__button">Faça seu cadastro</button>
           </div>
-          <div class="col-xl-6 mt-4 mt-xl-0 hero__video">
+          <div class="col-xl-6 mt-4 mt-xl-0 lp-hero__video">
               <iframe title="Video de destaque" src="https://player.vimeo.com/video/389214543" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
               <!-- <iframe title="Video de destaque" src="https://www.youtube.com/embed/bamqYn5JXq4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
           </div>
@@ -194,7 +194,7 @@ export default {
 
 <style lang="scss">
 
-.hero {
+.lp-hero {
     &__title {
         color: $primary-color !important;
     }
@@ -513,7 +513,7 @@ export default {
 
 .cta-btn {
     margin-top: 6rem;
-    @extend .hero__button;
+    @extend .lp-hero__button;
 }
 
 .lp-footer {
