@@ -100,7 +100,7 @@
                     <h3 class="new-card__icon"><g-image alt="Ícone de prazo de inscrição" class="color-box__icon" src="../assets/images/new-page/img-encerramento.svg" width="75" /></h3>
                     <h4 class="new-card__title">Até quando posso realizar a inscrição?</h4>
                     <p class="new-card__divider new-card__divider--2"></p>
-                    <g-link to="/inscricao/" target="_blank" class="new-card__link new-card__link--2">O encerramento das inscrições será no dia <strong>30/01/2020</strong></g-link>
+                    <g-link to="/inscricao/" target="_blank" class="new-card__link new-card__link--2">O encerramento das inscrições será no dia <strong>28/02/2020</strong></g-link>
                 </div>
               </div>
               <div class="col-xl-4 col-lg-6 col-md-6 mt-5 px-xl-2">
