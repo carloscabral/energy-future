@@ -273,7 +273,7 @@ export default {
             @media (min-width: 992px) {
                 max-width: 600px;
             }
-            box-shadow: 0 20px 30px rgba(#000, .16);
+            //box-shadow: 0 20px 30px rgba(#000, .16);
         }
     }
 }
