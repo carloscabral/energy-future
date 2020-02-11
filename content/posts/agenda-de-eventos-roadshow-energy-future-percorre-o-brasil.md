@@ -41,15 +41,9 @@ A primeira edição do evento foi realizada dia 09.01, no Rio de Janeiro. Os enc
 
 **04.02 – Recife, às 13h30, no Instituto César - Recife** 
 
-[Inscreva-se aqui.](<https://www.sympla.com.br/6--roadshow-energy-future---instituto-cesar---recife**777614 16h18**>)
-
 **05.02 – Curitiba, às 09h30, no Campus da Indústria - Sistema FIEP - Curitiba** 
 
-[Inscreva-se aqui.](<**https://www.sympla.com.br/7--roadshow-energy-future---fiep---curitiba**777600 16h19>)
-
 **06.02 – São Leopoldo - RS, às 09h30, no SENAI**
-
-[Inscreva-se aqui.](https://www.sympla.com.br/8--roadshow-energy-future---senai---porto-alegre__777665)
 
 **11.02 – Belém, às 9h30, na FIEPA**
 
@@ -62,3 +56,11 @@ A primeira edição do evento foi realizada dia 09.01, no Rio de Janeiro. Os enc
 **13.02 – Campo Grande - MS, às 9h30**
 
 [Inscreva-se aqui.](https://www.sympla.com.br/11--roadshow-energy-future---senai---campo-grande--ms__778588)
+
+**18.02 - João Pessoa, às 9h30, no Instituto Senai de Tecnologia Textil e Confecção**
+
+[Inscreva-se aqui.](https://www.sympla.com.br/12--roadshow-energy-future---senai---pb__780850)
+
+**20/2 - Porto Velho, às 9h30, na FIERO**
+
+[Inscreva-se aqui.](https://www.sympla.com.br/13--roadshow-energy-future---fiero---ro__780737)
