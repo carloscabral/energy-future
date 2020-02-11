@@ -1,7 +1,9 @@
 <template>
   <Newest> 
       <div class="row my-4">
-          <g-image alt="Logo Energy Future" src="@/assets/images/img-logo-ef.svg" />
+          <div class="col-12">
+            <g-image alt="Logo Energy Future" src="@/assets/images/img-logo-ef.svg" />
+          </div>
       </div>
       <div class="lp-hero__bg"></div>  
       <div class="row mt-5">
