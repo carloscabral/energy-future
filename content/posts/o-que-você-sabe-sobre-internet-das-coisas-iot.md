@@ -5,7 +5,8 @@ date: 2020-02-11T17:44:53.115Z
 featured_image: /uploads/Materia15.jpg
 isHighlight: false
 tags:
-  - IoT; Internet das Coisas
+  - IoT
+  - Internet das Coisas
   - Smart Grid and Meter
   - sustentabilidade
   - eMobility
@@ -17,6 +18,8 @@ Com menos um problema, você agora pode se apressar. Mas o engarrafamento é gra
 
 O exemplo anterior cabe bem na rotina analógica do século passado. Com os anos 2000, o uso da internet e do smartphone intensifica-se em nossas vidas. E apesar de certos hábitos não mudarem: como acordar atrasado para o trabalho ou esquecer-se de desligar um aparelho, e mesmo pegar a chave, passamos a contar com a ajuda de “coisas”, objetos no nosso cotidiano cada vez mais inteligentes, integrados e adaptados às nossas rotinas.
 
+> Hoje existem mais de 20 bilhões de “coisas” conectadas no mundo, chegando a incrível marca de 100 bilhões em 2025. Fonte: Gartner.
+
 O conceito de Internet das Coisas, em inglês Internet of Things (IoT), nasce nesse mundo digitalizado, marcado por novas formas de interação entre nós e os objetos ao nosso redor. As coisas do cotidiano tornam-se mais inteligentes, com funções ampliadas e interligadas por chips, sensores, antenas e redes.
 
 E quando se fala coisas, o significado é qualquer coisa. Casas inteligentes, com fechaduras e tomadas controladas por aplicativos do celular; carros integrados à infraestrutura de cidades também inteligentes, que dirigem sozinhos com controle de rotas, velocidades, sinais de trânsito, e ainda indicam vagas disponíveis ao redor, diminuindo o consumo de energia, riscos de acidentes e emissão de CO2, entre tantas outras possibilidades. A partir desses exemplos, a história contada no início seria muito mais simples, concorda?
@@ -25,13 +28,11 @@ O que parecia cenário de filme de ficção passa a ser realidade. Tudo e todos 
 
 De acordo com a consultoria Gartner, hoje existem mais de 20 bilhões de “coisas”, objetos, conectadas no mundo, chegando a incrível marca de 100 bilhões em 2025. A estimativa é que cada indivíduo esteja rodeado, em média, de 1 a 5 mil objetos, potencialmente conectados à IoT.
 
-> Hoje existem mais de 20 bilhões de “coisas” conectadas no mundo, chegando a incrível marca de 100 bilhões em 2025. Fonte: Gartner.
-
 A computação, a conectividade móvel e os dispositivos hardwares, como novos sensores, são as alavancas tecnológicas que ajudam a impulsionar o crescimento da IoT. A International Data Corporation (IDC) prevê que os gastos mundiais em tecnologias da Internet das Coisas cheguem a 1,2 trilhão de dólares em 2022, crescendo a uma taxa anual composta de 13,6% durante o período de 2017 a 2022 (dados de 2018).
 
 > Gastos mundiais em tecnologias da Internet das Coisas devem chegar a US$1,2 trilhão de dólares em 2022. Fonte: IDC.
 
-## Características do Sistema IoT 
+## Características do Sistema IoT
 
 O que viabiliza a comunicação dos objetos no sistema da IoT é a existência de uma identidade única. Para cada coisa, há uma tecnologia de identificação, como etiquetas inteligentes e dispositivos de radiofrequência (na sigla em inglês RFID).  Exemplo é a passagem de um veículo por um pedágio automático. A cancela lê os dados do circuito RFID localizada no automóvel e debita a tarifa na conta do usuário.
 
@@ -39,7 +40,7 @@ Com identidades estabelecidas, sensores dão sentidos para cada objeto, que agor
 
 A escolha por um sistema de comunicação ou outro será definida pela distância e pela quantidade de dados a serem transmitidos para servidores que, por sua vez, analisam os dados e transformam em informações. A análise de dados garante a inteligência do sistema IoT.
 
-## IoT transforma negócios e gera valor no setor elétrico 
+## IoT transforma negócios e gera valor no setor elétrico
 
 A internet das coisas vem transformando diferentes setores do mercado ao redor do mundo. E não é difícil entender o porquê.
 
