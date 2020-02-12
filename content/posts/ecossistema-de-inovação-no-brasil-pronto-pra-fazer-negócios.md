@@ -5,7 +5,7 @@ excerpt: >-
   atuação, mas ainda há velhos desafios.
 date: 2019-12-26T12:37:46.424Z
 featured_image: /uploads/materia-08-imagem-eft-r0.png
-isHighlight: true
+isHighlight: false
 tags:
   - Inovação
   - startups
