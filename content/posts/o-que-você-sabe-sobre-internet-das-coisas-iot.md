@@ -2,7 +2,7 @@
 title: O que você sabe sobre Internet das Coisas (IoT)?
 excerpt: Entenda melhor o conceito e as aplicações no dia a dia
 date: 2020-02-11T17:44:53.115Z
-featured_image: /uploads/Materia 12 - Imagem - EFT.jpg
+featured_image: /uploads/Materia15.jpg
 isHighlight: false
 tags:
   - IoT; Internet das Coisas
