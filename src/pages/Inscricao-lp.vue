@@ -42,7 +42,7 @@
             </div>
             <div class="col-lg-2 col-md-4 col-sm-6">
                 <g-image alt="Logo Pesquisadores" class="color-box__icon" src="../assets/images/new-page/ic-pesquisadores.svg" width="100" />
-                <p class="color-box__text">Pesquisarores</p>
+                <p class="color-box__text">Pesquisarores Individuais</p>
             </div>
             <div class="col-lg-2 col-md-4 col-sm-6">
                 <g-image alt="Logo Corporações" class="color-box__icon" src="../assets/images/new-page/ic-corporacoes.svg" width="100" />
@@ -50,11 +50,11 @@
             </div>
             <div class="col-lg-2 col-md-4 col-sm-6">
                 <g-image alt="Logo Pequenas Empresas" class="color-box__icon" src="../assets/images/new-page/ic-pequenas-empresas.svg" width="100" />
-                <p class="color-box__text">Pequenas Empresas</p>
+                <p class="color-box__text">Pequenas e Médias Empresas</p>
             </div>
             <div class="col-lg-2 col-md-4 col-sm-6">
                 <g-image alt="Logo Médias Empresas" class="color-box__icon" src="../assets/images/new-page/ic-medias-empresas.svg" width="100" />
-                <p class="color-box__text">Médias Empresas</p>
+                <p class="color-box__text">Centros de Pesquisa</p>
             </div>                        
         </div>
       </div>
@@ -83,6 +83,14 @@
             <div v-show="activeTestimonial < testimonials.length - 1" class="testimonial__button next" @click="goNext"><font-awesome :icon="['fas', 'chevron-right']"/></div>
         </div>
       </div>
+
+      <div class="call-to-action">
+          <div class="row text-center">
+              <div class="col-12">
+                  <g-link to="https://energyfuture.typeform.com/to/QvbsS6" target="_blank"><button class="cta-btn">Faça seu cadastro</button></g-link>
+              </div>
+          </div>
+      </div>      
 
       <div id="bottom-cards">
           <div class="row">
@@ -114,27 +122,27 @@
           </div>
       </div>
 
-      <div class="call-to-action">
-          <div class="row text-center">
-              <div class="col-12">
-                  <g-link to="https://energyfuture.typeform.com/to/QvbsS6" target="_blank"><button class="cta-btn">Faça seu cadastro</button></g-link>
-              </div>
-          </div>
-      </div>
-
       <div class="lp-footer">
           <div class="row">
-              <h3 class="col-12 text-center mb-4">Apoio</h3>
+              <h3 class="col-12 text-center mb-4">Apoio Estratégico</h3>
           </div>
           <div class="row text-center">
-              <div class="col-6 col-sm-6 col-md-4 col-lg-3 col-xl-2" v-for="(logo, index) in logoNames" :key="index">
+              <div class="col-6 col-sm-6 col-md-4 col-lg-3 col-xl-2" v-for="(logo, index) in logoNames" :key="index" v-if="logo.includes('estrategico')">
                   <g-image class="lp-supporters" alt="Logo da empresa apoiadora " :src="require(`../assets/images/${logo}`)" width="75"></g-image>
               </div>
           </div>
+          <div class="row mt-5">
+              <h3 class="col-12 text-center mb-4">Apoio</h3>
+          </div>
+          <div class="row text-center">
+              <div class="col-6 col-sm-6 col-md-4 col-lg-3 col-xl-2" v-for="(logo, index) in logoNames" :key="index" v-if="!logo.includes('estrategico')">
+                  <g-image class="lp-supporters" alt="Logo da empresa apoiadora " :src="require(`../assets/images/${logo}`)" width="75"></g-image>
+              </div>
+          </div>          
           <div class="row my-5 align-items-end">
               <div class="my-3 my-lg-0 text-center text-md-left col-lg-3"><g-image alt="Logo Energy Future" class="lp-footer__bottom-logos ef" src="../assets/images/img-logo-ef-light.svg" width="200" /></div>
               <div class="my-3 my-lg-0 text-center text-md-left col-lg-3"><g-image alt="Logo PD Aneel" class="lp-footer__bottom-logos aneel" src="../assets/images/img-logo-pdaneel-light.svg" width="200" /></div>
-              <g-link to="/inscricao/" class="my-3 my-lg-0 text-center text-md-left text-lg-right col-lg-6 lp-footer-link">Inscreva seu projeto&nbsp;&nbsp;<font-awesome :icon="['fas', 'arrow-right']"/></g-link>
+              <g-link g-link to="https://energyfuture.typeform.com/to/QvbsS6" target="_blank" class="my-3 my-lg-0 text-center text-md-left text-lg-right col-lg-6 lp-footer-link">Inscreva seu projeto&nbsp;&nbsp;<font-awesome :icon="['fas', 'arrow-right']"/></g-link>
           </div>
       </div>
 
@@ -193,7 +201,7 @@ export default {
         "img-apoio-estrategico-acate.svg",
         "img-apoio-estrategico-aqwa.svg",
         "img-apoio-estrategico-ist.svg",        
-    ],
+    ],  
     testimonials: [
       { author : 'Sunny Jonathan - Coordenador de P&D&I no IST ENERGIA/SENAI SP', text: '“O IST ENERGIA do SENAI São Paulo apoia o ENERGY FUTURE, pois é uma grande oportunidade para viabilizar projetos com produtos e resultados que agreguem valor aos negócios das concessionárias do setor elétrico, principalmente nas fases finais da cadeia de inovação, onde o IST ENERGIA tem seu foco de atuação.”' },
       { author : 'Julia Rodrigues, coordenadora de P&D e Inovação da AES Tietê', text: '“O Energy Future é uma iniciativa muito importante para o setor, pois comunica ao mercado, incluindo indústrias, centros de pesquisa e startups, que as empresas de energia estão abertas à inovação e que possuem verba disponível para investir em projetos inovadores. Os desafios são os mais diversos, e buscamos com o EFT desenvolver o ecossistema de parceiros para nos apoiar na solução deles.”' },
@@ -559,7 +567,7 @@ export default {
 }
 
 .cta-btn {
-    margin-top: 6rem;
+    margin-bottom: 4.5rem;
     @extend .lp-hero__button;
 }
 

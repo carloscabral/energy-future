@@ -45,7 +45,7 @@ export default {
           id: 1,
           section : 'Inscrição',
           items : [
-            { title : '1. Qual é o período de inscrição?', text: 'As inscrições dos projetos para a chamada do Energy Future começam em 25 de novembro de 2019 e serão realizadas até 31 de janeiro de 2020.' },
+            { title : '1. Qual é o período de inscrição?', text: 'As inscrições dos projetos para a chamada do Energy Future começam em 25 de novembro de 2019 e serão realizadas até 28 de fevereiro de 2020.' },
             { title : '2. Quem pode se inscrever?', text: 'Interessados devem ter um projeto inovador para o setor de energia elétrica. No entanto, projetos desenvolvidos por Pequenas e Médias Empresas, Corporações, Startups e Centros de Pesquisa são aqueles que terão maior chance de avançar nas triagens. A chamada do Energy Future segue o programa P&D Aneel. Dúvidas sobre a proposição de projetos? Acesse o regulamento da Agência.' },
             { title : '3. Quantos projetos podem ser inscritos por cada organização?', text: 'Cada entidade poderá inscrever até dois projetos, mas apenas um poderá ser contemplado para avançar as fases classificatórias.' },
             { title : '4. Como serão feitas as inscrições?', text: 'As inscrições serão feitas exclusivamente pelo site do <a href="https://www.energyfuture.com.br/inscrição" target="_blank" rel="noopener noreferrer">Energy Future</a>.<br>Não serão aceitas inscrições de projetos e/ou recebimento de quaisquer documentos por meio físico via correios ou e-mail.' },
