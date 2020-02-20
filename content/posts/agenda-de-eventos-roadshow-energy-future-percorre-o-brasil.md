@@ -5,7 +5,7 @@ excerpt: >-
   estratégias de investimento.
 date: 2020-01-15T15:10:18.129Z
 featured_image: /uploads/roadshoweft.jpg
-isHighlight: true
+isHighlight: false
 tags:
   - roadshow
   - concessionárias
