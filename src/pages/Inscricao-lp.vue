@@ -196,6 +196,7 @@ export default {
         "img-apoio-fiepa.svg",
         "img-apoio-fiero.svg",
         "img-apoio-cni.svg",
+        "img-apoio-tambaqui.svg",
         "img-apoio-estrategico-abacomm.svg",
         "img-apoio-estrategico-centralcomm.svg",
         "img-apoio-estrategico-acate.svg",

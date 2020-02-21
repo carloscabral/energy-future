@@ -202,6 +202,7 @@
                   <a rel="noopener noreferrer" target="_blank" href="http://inctmidas.com.br/"><g-image class="supporters__items" alt="Logo Midas" src="~/assets/images/img-apoio-midas.svg" width="100" /></a>
                   <a rel="noopener noreferrer" target="_blank" href="https://www.abradee.org.br/"><g-image class="supporters__items" alt="Logo Abradee" src="~/assets/images/img-apoio-abradee.svg" width="100" /></a>
                   <a rel="noopener noreferrer" target="_blank" href="https://www.anjosdobrasil.net/"><g-image class="supporters__items" alt="Logo Anjos do Brasil" src="~/assets/images/img-apoio-anjos.svg" width="100" /></a>
+                  <a rel="noopener noreferrer" target="_blank" href="https://www.linkedin.com/company/tambaquivalley"><g-image class="supporters__items" alt="Logo Tambaqui" src="~/assets/images/img-apoio-tambaqui.svg" width="100" /></a>
 
                   <a rel="noopener noreferrer" target="_blank" href="#"><g-image class="supporters__items" alt="Logo Fiep" src="~/assets/images/img-apoio-fiep.svg" width="100" /></a>
                   <a rel="noopener noreferrer" target="_blank" href="#"><g-image class="supporters__items" alt="Logo Senai" src="~/assets/images/img-apoio-fiems.svg" width="100" /></a>
