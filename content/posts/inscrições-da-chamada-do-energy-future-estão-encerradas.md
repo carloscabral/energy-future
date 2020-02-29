@@ -13,7 +13,7 @@ tags:
   - open innovation
 author: Energy Future
 ---
-Participantes de todo Brasil garantiram seus projetos na próxima fase de seleção da chamada do Energy Future. **Mais de 300 projetos | Cerca de 350 projetos| Aproximadamente 400 projetos** foram inscritos até o encerramento do prazo na última sexta-feira, 28 de fevereiro. 
+Participantes de todo Brasil garantiram seus projetos na próxima fase de seleção da chamada do Energy Future. **Mais de 400 projetos** foram inscritos até o encerramento do prazo na última sexta-feira, 28 de fevereiro. 
 
 Com o fim das inscrições, as propostas seguem para triagens de análise e avaliação. A chamada do Energy Future, uma iniciativa open innovation, quer conectar soluções inovadoras aos desafios do setor elétrico brasileiro.
 
