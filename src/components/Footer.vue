@@ -15,6 +15,7 @@
                     <ul class="footer-menu__list">
                         <li class="footer-menu__item">Menu</li>
                         <li class="footer-menu__item"><g-link to="/tag/seleção/">Seleção</g-link></li>
+                        <li class="footer-menu__item"><g-link to="/inscricao/">Inscrição</g-link></li>
                         <li class="footer-menu__item"><g-link to="/quem-somos/">Quem Somos</g-link></li>
                         <li class="footer-menu__item"><g-link to="/noticias/">Notícias</g-link></li>
                         <li class="footer-menu__item"><g-link to="/duvidas/">Dúvidas</g-link></li>
@@ -81,6 +82,7 @@
                 <nav role="navigation" class="footer-nav">
                     <ul style="padding-left: 0;">
                         <li class="footer-nav__item"><g-link class="footer-nav__anchor" to="/tag/seleção/">Seleção</g-link></li>
+                        <li class="footer-nav__item"><g-link class="footer-nav__anchor" to="/inscricao/">Inscrição</g-link></li>
                         <li class="footer-nav__item"><g-link class="footer-nav__anchor" to="/quem-somos/">Quem Somos</g-link></li>
                         <li class="footer-nav__item"><g-link class="footer-nav__anchor" to="/noticias/">Notícias</g-link></li>
                         <li class="footer-nav__item d-none d-md-inline-block">Concessionárias&nbsp;&nbsp;<font-awesome :icon="['fas', 'caret-down']"/>
