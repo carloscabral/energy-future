@@ -5,7 +5,7 @@ excerpt: >-
   sobre o cenário de inovação do setor elétrico.
 date: 2020-02-20T16:29:39.918Z
 featured_image: /uploads/Materia16EFT.jpg
-isHighlight: true
+isHighlight: false
 tags:
   - roadshow
   - P&D Aneel
