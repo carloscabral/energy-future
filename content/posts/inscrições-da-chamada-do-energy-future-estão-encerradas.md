@@ -23,7 +23,7 @@ As categorias foram criadas para orientar os novos negócios quanto às principa
 
 Nesta próxima fase, que consiste na triagem administrativa, grupo técnico vai avaliar a precisão das propostas com as informações enviadas. Serão analisados dados, documentos e as categorias de aplicação do projeto.
 
-**Confira aqui as próximas etapas da seleção. (vamos direcionar para nova página seleção)** 
+**[Confira aqui as próximas etapas da seleção.](https://www.energyfuture.com.br/tag/sele%C3%A7%C3%A3o)**
 
 Na primeira edição do Energy Future, estão em disputa 18 vagas para a etapa final. Participantes de cada um dos projetos finalistas terão a chance de apresentar suas propostas diretamente aos representantes das seis concessionárias parceiras da chamada, além de investidores anjo e fundos de investimento, em evento em São Paulo.
 
