@@ -3,7 +3,7 @@ title: Inscrições da chamada do Energy Future estão encerradas
 excerpt: >-
   Maior chamada de projetos de P&D e de startups do setor elétrico finalizou
   etapa de inscrições nesta última sexta-feira.
-date: 2020-02-28T22:50:52.713Z
+date: 2020-02-29T03:00:52.713Z
 featured_image: /uploads/materia-17-imagem-eft.jpg
 isHighlight: true
 tags:
