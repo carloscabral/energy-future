@@ -5,10 +5,10 @@
         <div class="col-lg-7 col-xl-6">
           <h1 class="hero__title">Maior chamada de projetos do setor elétrico brasileiro</h1>
           <p class="hero__text">O Energy Future, hub virtual de inovação do setor elétrico, conecta projetos a grandes concessionárias do país. Procuramos soluções inovadoras que ajudem a melhorar a geração, transmissão e distribuição da energia elétrica no Brasil.</p>
-          <g-link to="/inscricao"><button class="newsletter-click hero__button mt-3"><font-awesome :icon="['fas', 'arrow-right']"/>&nbsp;&nbsp;&nbsp;Inscrições prorrogadas!</button></g-link>
+          <button class="newsletter-click hero__button mt-3" disabled>Inscrições Encerradas</button>
         </div>
         <div class="col-lg-5 col-xl-6">
-          <iframe title="Vídeo sobre o Energy Future" class="hero__video" src="https://player.vimeo.com/video/389214543" width="640" height="480" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+          <iframe title="Vídeo sobre o Energy Future" class="hero__video" src="https://player.vimeo.com/video/389223706" width="640" height="480" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
           <!-- <g-image alt="Imagem de destaque" class="hero__image" src="~/assets/images/img-top-lp.png" width="900" /> -->
         </div>
       </div>
@@ -59,7 +59,7 @@
         </div>
         <div class="row">
           <div class="col-md-6 offset-md-3">
-            <g-link to="/inscricao/"><button class="steps__button">Inscreva seu projeto&nbsp;&nbsp;<font-awesome :icon="['fas', 'arrow-right']"/></button></g-link>
+            <button class="steps__button" disabled>Inscrições Encerradas</button>
           </div>
         </div>
       </section>
@@ -223,7 +223,7 @@
 
 <static-query>
 {
-	allPost (sortBy: "date", order: DESC) {
+	allPost (filter: { tags: { containsNone: ["seleção"] }}, sortBy: "date", order: DESC) {
     edges{
       node {
         title

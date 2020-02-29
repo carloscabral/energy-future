@@ -2,20 +2,20 @@
   <Layout>
       <div class="row align-items-start main-title">
         <div class="col-lg-12">
-            <h1 class="">Inscrições prorrogadas</h1>
+            <h1 class="">Inscrições encerradas</h1>
         </div>
         <div class="col-lg-6 col-xl-7">
-          <h3 class="subtitle">Participe da chamada do Energy Future. As inscrições encerram-se dia 28/02</h3>
+          <h3 class="subtitle">As inscrições para chamada do Energy Future encerraram-se no dia 28/02/2020. Acompanhe as próximas etapas da seleção</h3>
         </div>
         <div class="col-lg-6 col-xl-5">
-          <g-link to="https://energyfuture.typeform.com/to/QvbsS6" target="_blank"><button class="button register-button">Faça o seu cadastro</button></g-link>
+          <g-link to="/tag/seleção/" target="_blank"><button class="button register-button">Acompanhar a Seleção</button></g-link>
           <!-- <button @click="openTypeFormRegister" class="button register-button">Faça o seu cadastro</button> -->
           <!-- <Form /> -->
         </div>
       </div>
       <div class="row">
           <div class="col mt-4">
-              <p>Conheça as etapas para realizar a inscrição do seu projeto:</p>
+              <p>Etapas de inscrição dos projetos:</p>
           </div>
       </div>
 
@@ -38,7 +38,7 @@
                     <h4 class="card__title">Preencha o seu cadastro</h4>
                     <p class="card__divider card__divider--2"></p>
                     <p class="card__text">É necessário que você realize seu cadastro no nosso site. Após o envio das suas informações, você receberá por e-mail o link de acesso para o formulário de inscrição.</p>
-                    <g-link to="https://energyfuture.typeform.com/to/QvbsS6" target="_blank" class="card__link card__link--2"><font-awesome :icon="['fas', 'arrow-right']"/>Faça seu cadastro</g-link>
+                    <!-- <g-link to="https://energyfuture.typeform.com/to/QvbsS6" target="_blank" class="card__link card__link--2"><font-awesome :icon="['fas', 'arrow-right']"/>Faça seu cadastro</g-link> -->
                 </div>
               </div>
               <div class="col-xl-3 col-lg-6 col-md-6 mt-5 px-xl-2">
@@ -56,7 +56,7 @@
                     <h4 class="card__title">Faça a sua inscrição</h4>
                     <p class="card__divider card__divider--4"></p>
                     <p class="card__text">A inscrição do projeto no Energy Future é gratuita e somente poderá ser feita por meio do link de acesso que você receberá por e-mail, após o seu cadastro no nosso site. Para validar sua inscrição, preencha todos os campos do formulário e faça o upload do Documento de Apresentação do Projeto.</p>
-                    <g-link to="https://energyfuture.typeform.com/to/QvbsS6" target="_blank" class="card__link card__link--4"><font-awesome :icon="['fas', 'arrow-right']"/>Inscrições prorrogadas até dia 28 de fevereiro de 2020!</g-link>
+                    <p class="card__link card__link--4"><font-awesome :icon="['fas', 'arrow-right']"/>Inscrições encerradas!</p>
                 </div>
               </div>
           </div>

@@ -83,7 +83,7 @@
 
 <static-query>
 {
-	allPost (filter: { author: { eq: "Energy Future" }}) {
+	allPost (filter: { tags: { containsNone: ["seleção"] }, author: { eq: "Energy Future" }}) {
     edges{
       node {
         title

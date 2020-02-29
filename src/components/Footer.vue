@@ -6,7 +6,7 @@
                     <div class="cta__item cta__item--blue">
                         <h3>Não perca esta oportunidade!</h3>
                         <p>Seu projeto pode ser selecionado para ajudar a melhorar o fornecimento de energia de <strong>milhões</strong> de brasileiros.</p>
-                        <g-link to="/inscricao/"><button>Inscreva seu projeto</button></g-link>
+                        <button disabled>Inscrições encerradas</button>
                     </div>
                 </div>
             </div> 

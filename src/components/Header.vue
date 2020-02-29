@@ -8,7 +8,7 @@
 
         <nav role="navigation" :class="{ 'dark-mode' : darkMode }">
           <ul class="desktop-navigation__nav">
-            <li class="desktop-navigation__nav__item"><g-link class="desktop-navigation__nav__anchor" to="/inscricao/">Inscrição</g-link></li>
+            <li class="desktop-navigation__nav__item"><g-link class="desktop-navigation__nav__anchor" to="/tag/seleção/">Seleção</g-link></li>
             <li class="desktop-navigation__nav__item"><g-link class="desktop-navigation__nav__anchor" to="/quem-somos/">Quem Somos</g-link></li>
             <li class="desktop-navigation__nav__item"><g-link class="desktop-navigation__nav__anchor" to="/noticias/">Notícias</g-link></li>
             <li class="desktop-navigation__nav__item">Concessionárias&nbsp;&nbsp;<font-awesome :icon="['fas', 'caret-down']"/>
@@ -36,7 +36,7 @@
                 <!-- <img class="mobile-navigation__brand" src="@/assets/images/img-brand-white.svg" width="100"> -->
                 <ul class="mobile-navigation__list">
                     <li class="mobile-navigation__item"><g-link class="mobile-navigation__link" to="/">Home</g-link></li>
-                    <li class="mobile-navigation__item"><g-link class="mobile-navigation__link" to="/inscricao/">Inscrição</g-link></li>
+                    <li class="mobile-navigation__item"><g-link class="mobile-navigation__link" to="/tag/seleção/">Seleção</g-link></li>
                     <li class="mobile-navigation__item"><g-link class="mobile-navigation__link" to="/quem-somos/">Quem Somos</g-link></li>
                     <li class="mobile-navigation__item"><g-link class="mobile-navigation__link" to="/noticias/">Notícias</g-link></li>
                     <ul class="mobile-navigation__subitem">
