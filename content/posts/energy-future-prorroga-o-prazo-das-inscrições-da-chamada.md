@@ -3,7 +3,7 @@ title: Energy Future prorroga o prazo das inscrições da chamada
 excerpt: Período de inscrição encerra-se no dia 28/02. Veja como não ficar de fora.
 date: 2020-02-01T03:00:12.752Z
 featured_image: /uploads/materia13imagem.jpg
-isHighlight: true
+isHighlight: false
 tags:
   - empreendedorismo
   - investimentos
