@@ -7,7 +7,6 @@ date: 2020-02-29T03:00:52.713Z
 featured_image: /uploads/materia-17-imagem-eft.jpg
 isHighlight: true
 tags:
-  - seleção
   - categorias
   - resultado
   - open innovation
