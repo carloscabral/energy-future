@@ -8,7 +8,7 @@ excerpt: >-
   brasileiro.
 date: 2020-02-06T13:58:03.916Z
 featured_image: /uploads/Materia-14---Imagem---EFT.jpg
-isHighlight: true
+isHighlight: false
 tags:
   - Inovação; P&D; Aneel; Rômulo Estrela; chamada; open innnovation
 author: Energy Future
