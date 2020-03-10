@@ -32,7 +32,7 @@ De acordo com a ABStartups, o  setor com maior presença feminina é o de startu
 
 E está justamente em uma fintech a única mulher fundadora entre os nove unicórnios brasileiros: Cristina Junqueira do Nubank. O estudo não apontou performance de startups no setor de energia.
 
-# Who run the world?
+## Who run the world?
 
 Em uma economia marcada pela automatização, habilidades em ciência, tecnologia, engenharia e matemática impulsionam a inovação. No entanto, são grandes os obstáculos à participação feminina nos setores de tecnologia, engenharia e programação. 
 
@@ -40,13 +40,13 @@ Atualmente, as Nações Unidas estimam que menos de 30% dos pesquisadores em ár
 
 “Infelizmente, há evidência de problemas correntes para as mulheres em profissões importantes como engenharia, com baixa retenção, progressão (de carreira) e reintegração após a licença-maternidade”, afirmaram as dirigentes da UNESCO, Audrey Azoulay, e ONU Mulheres, Phumzile Mlambo-Ngcuka.
 
-# Muito longe do matriarcado: preconceitos minam aportes
+## Muito longe do matriarcado: preconceitos minam aportes
 
 Conquistar a confiança dos investidores é essencial para que as empreendedoras tenham mais oportunidades para ir adiante com as suas startups. Ainda de acordo com a pesquisa do Boston Consulting Group, as empreendedoras são mais questionadas que os homens sobre o conhecimento básico para liderar o negócio. 
 
 Investidores tenderiam a desvalorizar o conhecimento e experiência delas nas empresas. Além de não associarem a imagem das empreendedoras às posturas ousadas e arriscadas, vistas como necessárias em um mercado de crescimento rápido em curto prazo. 
 
-# O peso das tarefas domésticas
+## O peso das tarefas domésticas
 
 A falta de incentivo financeiro, educacional e profissional continuam como impeditivos ao crescimento das mulheres no mercado. Mas também a elas está o jugo das obrigações da casa. 
 
