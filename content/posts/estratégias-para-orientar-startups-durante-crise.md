@@ -30,7 +30,7 @@ Veja algumas das principais estratégias para orientar os gestores a gerenciar e
   Esse é o momento para avaliar sua liquidez financeira. Muitas startups dependem de investidores estrangeiros. Rodadas de captação de investimento podem ser adiadas. É preciso refletir sobre o seu negócio e produto, além de rever processos internos.	
 
   Algumas das perguntas que podem ajudar nessa avaliação: qual é a minha atual liquidez financeira? Eu tenho caixa suficiente para quantos meses? Será que eu vou precisar de linha de crédito? Esse é o melhor momento para uma contratação?
-* Projeta sua equipe
+* Proteja sua equipe
 
   Em tempos de insegurança e preocupação, “não é apenas o que os líderes das organizações fazem, mas também o modo como eles fazem isso”, afirma artigo da Deloitte.  	
 
