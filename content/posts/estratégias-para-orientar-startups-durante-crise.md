@@ -23,13 +23,17 @@ O mecanismo, disparado pela bolsa para interromper as negociações durante fort
 
 A pandemia de coronavírus mergulha a economia globalizada no desconhecido, impactando também o ecossistema de startups brasileiro. E os negócios precisam se preparar.  	
 
-Veja algumas das principais estratégias para orientar os gestores a gerenciar e mitigar os riscos.\
+Veja algumas das principais estratégias para orientar os gestores a gerenciar e mitigar os riscos.
+
+<br>
 
 **Faça gestão de caixa** 	
 
 Esse é o momento para avaliar sua liquidez financeira. Muitas startups dependem de investidores estrangeiros. Rodadas de captação de investimento podem ser adiadas. É preciso refletir sobre o seu negócio e produto, além de rever processos internos.	
 
-Algumas das perguntas que podem ajudar nessa avaliação: qual é a minha atual liquidez financeira? Eu tenho caixa suficiente para quantos meses? Será que eu vou precisar de linha de crédito? Esse é o melhor momento para uma contratação?\
+Algumas das perguntas que podem ajudar nessa avaliação: qual é a minha atual liquidez financeira? Eu tenho caixa suficiente para quantos meses? Será que eu vou precisar de linha de crédito? Esse é o melhor momento para uma contratação?
+
+<br>
 
 **Proteja sua equipe**
 
@@ -39,7 +43,9 @@ O coronavírus exige respostas atenciosas e pessoais das empresas. É preciso or
 
 Em estudo para ajudar gestores a lidar com a crise de Covid-19, a Deloitte incentiva a criação de equipes de emergência com pontos focais bem estabelecidos para soluções das crises. 
 
-Dada à importância das pessoas para todas as organizações, a consultoria reforça ser útil a criação de um framework dos colaboradores em três dimensões: trabalho (o quê), força de trabalho (quem) e local de trabalho (onde).\
+Dada à importância das pessoas para todas as organizações, a consultoria reforça ser útil a criação de um framework dos colaboradores em três dimensões: trabalho (o quê), força de trabalho (quem) e local de trabalho (onde).
+
+<br>
 
 **Gerencie os fornecedores**
 
@@ -47,7 +53,9 @@ A eventual falta ou paralisação de um ou mais fornecedores impõe às startups
 
 É preciso fortalecer as relações com os fornecedores e entender o cenário de cada um para que o seu negócio mantenha as atividades funcionando. Empresas com somente um fornecedor podem correr riscos. 
 
-“COVID-19 pode ser o catalisador para as empresas revisitarem sua estratégia global de cadeia de suprimentos e acelerar a adoção da rede digital de suprimentos”, afirma a consultoria Deloitte.\
+“COVID-19 pode ser o catalisador para as empresas revisitarem sua estratégia global de cadeia de suprimentos e acelerar a adoção da rede digital de suprimentos”, afirma a consultoria Deloitte.
+
+<br>
 
 **Mantenha a lealdade e a confiança do cliente**
 
@@ -55,7 +63,9 @@ A atual crise coloca à prova a lealdade e a confiança do cliente. Este é um m
 
 É preciso estabelecer relação de transparência com os clientes, mantendo seus interesses em primeiro lugar. Se a crise afetar a entrega de produtos e serviços, planos de priorização de clientes e o estabelecimento de um canal para minimizar as perdas podem ser importantes.
 
-Algumas das perguntas necessárias: Será que vou ter que priorizar alguns clientes no lugar de outros? Quais serão os critérios para que isso seja feito? As respostas (escolhas) a essas perguntas podem impactar você lá na frente. \
+Algumas das perguntas necessárias: Será que vou ter que priorizar alguns clientes no lugar de outros? Quais serão os critérios para que isso seja feito? As respostas (escolhas) a essas perguntas podem impactar você lá na frente.
+
+<br>
 
 **Seja inovador e revise**
 
