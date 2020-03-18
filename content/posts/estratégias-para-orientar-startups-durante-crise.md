@@ -5,7 +5,7 @@ excerpt: >-
   mecanismos de prevenção de riscos e continuação das atividades.
 date: 2020-03-18T13:12:01.910Z
 featured_image: /uploads/materia-19-imagem-eft.jpg
-isHighlight: false
+isHighlight: true
 tags:
   - coronavírus
   - Covid-19
