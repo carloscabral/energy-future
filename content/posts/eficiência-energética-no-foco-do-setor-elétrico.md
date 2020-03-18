@@ -5,7 +5,7 @@ excerpt: >-
   para os desafios da eficiência energética no Brasil.
 date: 2020-02-27T21:28:36.773Z
 featured_image: /uploads/materia-16-imagem-eft-r1.jpg
-isHighlight: true
+isHighlight: false
 tags:
   - Agenda 2030
   - eficiência energética
