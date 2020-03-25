@@ -15,7 +15,7 @@ A seleção da chamada do Energy Future não para. A primeira iniciativa setoria
 
 Na etapa administrativa, foram eliminadas as propostas que não apresentaram as informações obrigatórias: o preenchimento correto e completo dos dados e o envio do Documento de  Apresentação dentro do modelo solicitado. 
 
-Para as próximas etapas da triagem, a equipe especializada avalia a maturidade técnica e econômica, além do alinhamento dos projetos com as categorias de interesse da chamada. 
+Para as próximas etapas da triagem, a equipe especializada avalia a viabilidade técnica e econômica, além do alinhamento dos projetos com as categorias de interesse da chamada. 
 
 Com o fim das fases eliminatórias, os novos negócios terão a oportunidade de trocas diretas com as empresas mantenedoras da iniciativa. AES Tietê, Enel, Energisa, Grupo Equatorial Energia, Light e Santo Antônio Energia irão avaliar propostas, de acordo com suas estratégias de investimento. 
 
