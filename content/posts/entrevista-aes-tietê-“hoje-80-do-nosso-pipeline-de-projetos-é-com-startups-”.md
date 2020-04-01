@@ -8,7 +8,7 @@ excerpt: >-
   de COVID-19, os desafios do setor elétrico e as parcerias com startups.
 date: 2020-04-01T13:32:11.136Z
 featured_image: /uploads/materia-21-imagem-eft.jpg
-isHighlight: false
+isHighlight: true
 tags:
   - entrevista
   - AES Tietê
@@ -102,7 +102,7 @@ O setor elétrico ainda tem uma falta de comunicação muito grande entre as emp
 
 E, por isso, o Energy Future pode criar esse hub entre as empresas, algo que é muito benéfico pra gente. A gente vai poder economizar custo e tempo. Esse ambiente colaborativo que a gente vai criar é o maior valor que o programa do Energy Future pode trazer pra gente.
 
-> “Esse ambiente colaborativo que a gente vai criar é o maior valor que o programa do Energy Future pode trazer pra gente”
+> “O Energy Future pode criar esse hub entre as empresas, algo que é muito benéfico pra gente. A gente vai poder economizar custo e tempo.”
 
 <br>
 
@@ -110,6 +110,4 @@ E, por isso, o Energy Future pode criar esse hub entre as empresas, algo que é 
 
 O setor elétrico ficou parado durante muito tempo, enquanto outros setores caminhavam, se inovavam, lançavam produtos. Então o grande desafio é a gente mudar esse mindset dos empreendedores: de olhar para o setor elétrico como um setor que tem dinheiro, com empresas interessadas, um setor que oferta oportunidades.
 
-O programa de P&D trouxe muito conhecimento para o setor, através de pesquisas, mas trouxe poucos produtos para o mercado. Muitas empresas vinham com uma obrigação, um passivo. Hoje, o recurso é visto muito mais como uma oportunidade, que é como está sendo entendido por todos hoje. O que contribui para a mudança de pensamento de startups e empreendedores. 
-
-> “O grande desafio é a gente mudar esse mindset dos empreendedores: de olhar para o setor elétrico como um setor que tem dinheiro, com empresas interessadas, um setor que oferta oportunidades”.
+O programa de P&D trouxe muito conhecimento para o setor, através de pesquisas, mas trouxe poucos produtos para o mercado. Muitas empresas vinham com uma obrigação, um passivo. Hoje, o recurso é visto muito mais como uma oportunidade, que é como está sendo entendido por todos hoje. O que contribui para a mudança de pensamento de startups e empreendedores.
