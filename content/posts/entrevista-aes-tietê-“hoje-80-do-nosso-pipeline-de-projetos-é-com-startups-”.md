@@ -58,12 +58,6 @@ Não. Ainda não houve nenhuma comunicação formal, porém as concessionárias 
 
 <br>
 
-**Existe já um diálogo coordenado entre as concessionárias?**
-
-Também não. Até por ainda não haver uma comunicação direta da agência reguladora.
-
-<br>
-
 **A AES Tietê é pioneira no setor a usar recurso de P&D Aneel para investimento em startups. Em 2020, há previsão de investimento de oito milhões de reais.  No novo cenário, esse investimento pode ser impactado?**
 
 Não. Não impacta. Nossos projetos estão rodando. Claro que são projetos geridos por equipe. E o afastamento das pessoas dificulta. Mas até agora não tivemos nenhum impacto. 
