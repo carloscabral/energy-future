@@ -4,8 +4,8 @@ title: >-
   startups.”
 excerpt: >-
   Em entrevista ao Energy Future, Eduardo Heraldo, gestor de projetos de
-  inovação da AES Tietê, fala sobre as regras de conduta da empresa no cenário
-  de COVID-19, os desafios do setor elétrico e as parcerias com startups.
+  inovação da AES Tietê, fala sobre as estratégias da empresa no cenário de
+  Covid-19.
 date: 2020-04-01T13:32:11.136Z
 featured_image: /uploads/materia-21-imagem-eft.jpg
 isHighlight: true
@@ -102,7 +102,7 @@ O setor elétrico ainda tem uma falta de comunicação muito grande entre as emp
 
 E, por isso, o Energy Future pode criar esse hub entre as empresas, algo que é muito benéfico pra gente. A gente vai poder economizar custo e tempo. Esse ambiente colaborativo que a gente vai criar é o maior valor que o programa do Energy Future pode trazer pra gente.
 
-> “O Energy Future pode criar esse hub entre as empresas, algo que é muito benéfico pra gente. A gente vai poder economizar custo e tempo.”
+> "O Energy Future pode criar esse hub entre as empresas (...) A gente vai poder economizar custo e tempo".
 
 <br>
 
