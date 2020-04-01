@@ -102,7 +102,7 @@ O setor elétrico ainda tem uma falta de comunicação muito grande entre as emp
 
 E, por isso, o Energy Future pode criar esse hub entre as empresas, algo que é muito benéfico pra gente. A gente vai poder economizar custo e tempo. Esse ambiente colaborativo que a gente vai criar é o maior valor que o programa do Energy Future pode trazer pra gente.
 
-> “O Energy Future pode criar esse hub entre as empresas, algo que é muito benéfico pra gente. A gente vai poder economizar custo e tempo.”
+> "O Energy Future pode criar esse hub entre as empresas (...) A gente vai poder economizar custo e tempo".
 
 <br>
 
