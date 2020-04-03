@@ -27,9 +27,9 @@ O ponto de partida foi dado com as inscrições dos projetos, cujo prazo foi enc
 
 A seleção da chamada termina com a premiação, que será realizada em evento privado, ainda sem data definida no mês de maio. Os dezoito melhores projetos apresentam-se para representantes das concessionárias, investidores anjos e fundos de investimentos.
 
-# Entenda cada uma das etapas:
+## Entenda cada uma das etapas:
 
-* ## Inscrição de projetos
+* ### Inscrição de projetos
 
 As inscrições para a chamada do Energy Future começaram no dia 25 de novembro de 2019 e foram prorrogadas até o dia 28 de fevereiro de 2020.  Projetos enviados fora desse período não serão aceitos, de acordo com os realizadores da chamada.
 
