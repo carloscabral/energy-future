@@ -41,7 +41,7 @@ Além disso, no site, é possível os candidatos terem acesso às estratégias d
 
 * ### Triagem administrativa
 
-O formulário de inscrição e o relatório de apresentação do projeto serão analisados pelo grupo técnico. Informações imprecisas e propostas incompatíveis podem levar a eliminação do projeto. Serão considerados o preenchimento dos dados, o envio dos documentos e a seleção correta da categoria.
+O formulário de inscrição e o documento de apresentação do projeto serão analisados pelo grupo técnico. Informações imprecisas e propostas incompatíveis podem levar a eliminação do projeto. Serão considerados o preenchimento dos dados, o envio dos documentos e a seleção correta da categoria.
 
 * ### Triagem Técnica
 
