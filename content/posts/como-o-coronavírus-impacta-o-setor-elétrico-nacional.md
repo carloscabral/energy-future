@@ -31,6 +31,8 @@ Responsável por monitorar as condições de abastecimento e o atendimento ao me
 
 ### Adoção de medidas frente às incertezas
 
+<br>
+
 Como resposta aos desafios impostos pela crise do coronavírus, o Ministério de Minas e Energia (MME) vem realizando reuniões com agentes setoriais para avaliar medidas que garantam o atendimento energético com o menor impacto financeiro.
 
 Na reunião, realizada na última sexta-feira (04.04), o ministro Bento Albuquerque afirmou que “as soluções para a atual situação excepcional são urgentes, e que o papel mais importante do Ministério de Minas e Energia é o de preservar a saúde do Setor”, destacando que todos deverão contribuir no atual cenário.
@@ -46,6 +48,8 @@ Agentes do setor elétrico também destacam a necessidade de aprovação pelo Se
 Também ponto de consenso setorial está a ‘Modernização do Setor Elétrico’, que garantiria a prontidão do setor para a retomada da atividade econômica e a continuidade dos investimentos em eficiência energética.
 
 ### Principais impactos da crise do coronavírus no setor elétrico
+
+<br>
 
 **Queda da carga de energia**: projeção da ONS afirma que o consumo de energia deve cair 0,9% em 2020. A carga que, inicialmente, estava prevista para 70.825 MW médios, agora está estimada em 67.249 MW médios. Na comparação com o consumo de 2019, que foi de 67.835 MW médios, estima-se um recuo de 586 MW médios (- 0,9%).
 
