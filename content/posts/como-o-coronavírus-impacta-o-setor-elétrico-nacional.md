@@ -29,6 +29,8 @@ Em contrapartida aos efeitos econômicos da redução do consumo, o Comitê de M
 
 Responsável por monitorar as condições de abastecimento e o atendimento ao mercado de energia elétrica do país, o comitê acredita que a redução da carga amplia a segurança do atendimento aos consumidores brasileiros, tanto no cenário atual, quanto no futuro, após a retomada das atividades econômicas e crescimento do país.
 
+<br>
+
 ### Adoção de medidas frente às incertezas
 
 <br>
@@ -46,6 +48,8 @@ Segundo o secretário, os impactos tarifários sobre os consumidores de baixa re
 Agentes do setor elétrico também destacam a necessidade de aprovação pelo Senado Federal da PL 3975/2019, que trata do risco hidrológico, que pode contribuir como uma ação de curto prazo, possibilitando o destrave de linhas de financiamento de boa parte das empresas.
 
 Também ponto de consenso setorial está a ‘Modernização do Setor Elétrico’, que garantiria a prontidão do setor para a retomada da atividade econômica e a continuidade dos investimentos em eficiência energética.
+
+<br>
 
 ### Principais impactos da crise do coronavírus no setor elétrico
 
