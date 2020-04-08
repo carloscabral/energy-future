@@ -29,7 +29,7 @@ Em contrapartida aos efeitos econômicos da redução do consumo, o Comitê de M
 
 Responsável por monitorar as condições de abastecimento e o atendimento ao mercado de energia elétrica do país, o comitê acredita que a redução da carga amplia a segurança do atendimento aos consumidores brasileiros, tanto no cenário atual, quanto no futuro, após a retomada das atividades econômicas e crescimento do país.
 
-## Adoção de medidas frente às incertezas
+### Adoção de medidas frente às incertezas
 
 Como resposta aos desafios impostos pela crise do coronavírus, o Ministério de Minas e Energia (MME) vem realizando reuniões com agentes setoriais para avaliar medidas que garantam o atendimento energético com o menor impacto financeiro.
 
@@ -45,7 +45,7 @@ Agentes do setor elétrico também destacam a necessidade de aprovação pelo Se
 
 Também ponto de consenso setorial está a ‘Modernização do Setor Elétrico’, que garantiria a prontidão do setor para a retomada da atividade econômica e a continuidade dos investimentos em eficiência energética.
 
-## Principais impactos da crise do coronavírus no setor elétrico
+### Principais impactos da crise do coronavírus no setor elétrico
 
 **Queda da carga de energia**: projeção da ONS afirma que o consumo de energia deve cair 0,9% em 2020. A carga que, inicialmente, estava prevista para 70.825 MW médios, agora está estimada em 67.249 MW médios. Na comparação com o consumo de 2019, que foi de 67.835 MW médios, estima-se um recuo de 586 MW médios (- 0,9%).
 
