@@ -5,7 +5,7 @@ excerpt: >-
   cenário da inovação e da tecnologia.
 date: 2020-03-10T17:57:12.369Z
 featured_image: /uploads/materia-18-imagem-eft.jpg
-isHighlight: true
+isHighlight: false
 tags:
   - mulheres empreendedoras
   - startups
