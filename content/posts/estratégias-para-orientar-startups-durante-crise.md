@@ -1,11 +1,10 @@
 ---
 title: Estratégias para orientar startups durante crise
-excerpt: >-
-  Com o aumento do número de casos de coronavírus, gestores e sócios devem criar
-  mecanismos de prevenção de riscos e continuação das atividades.
+excerpt: Com o aumento do número de casos de coronavírus, gestores e sócios
+  devem criar mecanismos de prevenção de riscos e continuação das atividades.
 date: 2020-03-18T13:12:01.910Z
 featured_image: /uploads/materia-19-imagem-eft.jpg
-isHighlight: true
+isHighlight: false
 tags:
   - coronavírus
   - Covid-19
