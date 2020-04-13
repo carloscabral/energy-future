@@ -53,9 +53,9 @@ Por exemplo, nós temos um projeto, que estamos antecipando as etapas, que seria
 
 O próprio cliente poderia fazer a sua leitura e enviar para a Light para que façamos a análise, com o uso de ferramentas adequadas. Sem dúvida, a ação desse projeto poderia reduzir a exposição de todos e sobretudo ter mais uma garantia para o faturamento correto e preciso da conta do cliente.
 
-**Alta tensão, perda de energia e qualidade do serviço são alguns dos focos da Light, que possui chamada pública própria de P&D e também apresenta o Energy Future. Qual é a orientação estratégica adotada pela empresa em relação aos projetos de P&D e de startups?**
-
 <br>
+
+**Alta tensão, perda de energia e qualidade do serviço são alguns dos focos da Light, que possui chamada pública própria de P&D e também apresenta o Energy Future. Qual é a orientação estratégica adotada pela empresa em relação aos projetos de P&D e de startups?**
 
 Vivemos uma mudança de paradigma. Por isso, acredito ser um bom momento para a reflexão nos temas da chamada do Energy Future pelos proponentes. Eu não gostaria de cercear ideias de temas, mas eu digo que há muitos desafios no setor que devem ser observados nesse momento. E quem quer propor projeto para o Energy Future precisa pensar em como ajudar as concessionárias nessa virada mundial.
 
@@ -63,21 +63,21 @@ Nós atuamos no Rio de Janeiro, onde há muitas comunidades. E, especialmente, a
 
 > “Acredito ser um bom momento para a reflexão nos temas da chamada do Energy Future pelos proponentes.”
 
-**Em uma de suas participações no roadshow do Energy Future, você afirmou ser o ambiente ainda muito tímido para iniciativas de startups. Na sua análise, a que se deve essa falta de interesse dos empreendedores?**
-
 <br>
+
+**Em uma de suas participações no roadshow do Energy Future, você afirmou ser o ambiente ainda muito tímido para iniciativas de startups. Na sua análise, a que se deve essa falta de interesse dos empreendedores?**
 
 Os projetos de startups que possuem maior aderência com o setor elétrico são da área de TI: ferramenta computacional, inteligência artificial... mas a maior carência que eu vejo está no conhecimento técnico de equipamentos, com novas soluções de ferramentas de campo. Não vejo muitas startups com esse perfil. E confesso não entender o porquê, uma vez que escolas de engenharia elétrica e mecânica também deveriam ser fonte de talentos para empresas de base tecnológica.
 
-**Atores do setor afirmam que a regulação da forma que está hoje é um dos obstáculos à participação de empreendedores. Seria, portanto, uma nova regulação o caminho para facilitar o acesso?**
-
 <br>
+
+**Atores do setor afirmam que a regulação da forma que está hoje é um dos obstáculos à participação de empreendedores. Seria, portanto, uma nova regulação o caminho para facilitar o acesso?**
 
 A regulação já está sendo revisada pela ANEEL. A nossa expectativa é que tivéssemos um novo manual no início de 2021. Em decorrência desse cenário, certamente, isso vai sofrer algum atraso. Mas já existe no forno um novo modelo, construído e já discutido em audiências públicas. Pode ser um caminho bem interessante de mudança de paradigma, que fomente a maior participação das startups.
 
-**Na sua visão, ter um recurso regulado mais ajudou ou causou entraves ao fomento da inovação no país?**
-
 <br>
+
+**Na sua visão, ter um recurso regulado mais ajudou ou causou entraves ao fomento da inovação no país?**
 
 Em um primeiro momento, foi positivo. Na época da criação da Lei 1991, havia muitas privatizações no Brasil, e a lei veio para proteger a engenharia, a ciência nacional com um recurso regulado. Foram criados vários fundos, em diferentes setores, com esse objetivo.
 
