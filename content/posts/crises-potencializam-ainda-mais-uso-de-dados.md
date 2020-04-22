@@ -23,7 +23,7 @@ Enquanto a crise da Covid-19 evidencia os riscos de fake news e palpites, també
 
 <br>
 
-### Afinal, o que é Big Data?
+## Afinal, o que é Big Data?
 
 Quem trabalha com tecnologia e inovação já se defrontou com o termo Big Data. Ainda que a expressão seja popular, fica a dúvida do entendimento claro do que é e por que é tão importante a criação de projetos focados na gestão estruturada dos dados.
 
@@ -47,7 +47,7 @@ O Big Data, portanto, seria uma fonte para obter informações, que resultem em 
 
 <br>
 
-### Para além das estrelas
+## Para além das estrelas
 
 A imensidão de dados gerados hoje e as perspectivas no futuro tornam a alfabetização dos dados mais importantes a cada dia. Do bit, gigabyte ao yottabyte (1000⁸ bytes), último valor na atual escala, refletem as dimensões estratosféricas alcançadas pelo universo digital, que deve atingir 44 zettabytes (1000⁷) em 2020.
 
@@ -69,7 +69,7 @@ A empresa Raconteur, especializada em data jornalismo e infográficos, deu uma e
 
 <br>
 
-### O Big Data no setor elétrico
+## O Big Data no setor elétrico
 
 No setor elétrico o conceito de Big Data está muito associado ao medidores inteligentes, ou seja, a instalação de grandes sistemas de sensoriamento e aquisição de dados. Mas experiência de setores como varejo e telecom amplia perspectivas de potenciais usos da inteligência de dados.
 
