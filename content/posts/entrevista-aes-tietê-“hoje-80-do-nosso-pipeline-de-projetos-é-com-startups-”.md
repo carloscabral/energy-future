@@ -1,14 +1,12 @@
 ---
-title: >-
-  Entrevista AES Tietê: “Hoje, 80% do nosso pipeline de projetos é com
-  startups.”
-excerpt: >-
-  Em entrevista ao Energy Future, Eduardo Heraldo, gestor de projetos de
+title: "Entrevista AES Tietê: “Hoje, 80% do nosso pipeline de projetos é com
+  startups.”"
+excerpt: Em entrevista ao Energy Future, Eduardo Heraldo, gestor de projetos de
   inovação da AES Tietê, fala sobre as estratégias da empresa no cenário de
   Covid-19.
 date: 2020-04-01T13:32:11.136Z
 featured_image: /uploads/materia-21-imagem-eft.jpg
-isHighlight: true
+isHighlight: false
 tags:
   - entrevista
   - AES Tietê
