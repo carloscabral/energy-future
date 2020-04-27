@@ -1,11 +1,10 @@
 ---
 title: Como o coronavírus impacta o setor elétrico nacional
-excerpt: >-
-  Com as medidas de isolamento social, redução da carga e mudança no perfil de
-  consumo são alguns dos efeitos causados pela pandemia.  
+excerpt: "Com as medidas de isolamento social, redução da carga e mudança no
+  perfil de consumo são alguns dos efeitos causados pela pandemia.  "
 date: 2020-04-08T14:14:15.108Z
 featured_image: /uploads/materia-24-imagem-eft-r1.jpg
-isHighlight: true
+isHighlight: false
 tags:
   - Covid-19
   - coronavírus
