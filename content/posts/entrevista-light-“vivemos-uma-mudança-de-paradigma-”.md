@@ -5,7 +5,7 @@ excerpt: Coordenador de P&D e inovação da Light, José Tenório Barreto Júnio
   do coronavírus.
 date: 2020-04-13T14:57:39.685Z
 featured_image: /uploads/materia-23-imagem-eft.jpg
-isHighlight: true
+isHighlight: false
 tags:
   - entrevista
   - Light
