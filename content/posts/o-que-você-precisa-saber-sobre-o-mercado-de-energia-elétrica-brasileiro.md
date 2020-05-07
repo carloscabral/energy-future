@@ -33,7 +33,7 @@ Quatro anos depois, entrou também em operação a primeira usina hidrelétrica 
 
 De lá pra cá, as hidrelétricas posicionaram-se de forma estratégica para a geração da energia elétrica brasileira, representando mais de 60% da capacidade de geração instalada. Com o aumento da demanda e com a consolidação da energia elétrica como principal fonte, criou-se o mercado, que hoje é um dos mais importantes do país.
 
-No [caminho da energia elétrica]([https://www.energyfuture.com.br/noticias/entenda-como-funciona-o-setor-eletrico-brasileiro](https://www.energyfuture.com.br/noticias/entenda-como-funciona-o-setor-eletrico-brasileiro/)), temos as geradoras como o ponto de partida, produzindo a energia, que será transportada pelas transmissoras até as distribuidoras, que asseguram o fornecimento às residências, comércios e indústrias.
+No []([https://www.energyfuture.com.br/noticias/entenda-como-funciona-o-setor-eletrico-brasileiro](https://www.energyfuture.com.br/noticias/entenda-como-funciona-o-setor-eletrico-brasileiro/))[caminho da energia elétrica](https://www.energyfuture.com.br/noticias/entenda-como-funciona-o-setor-eletrico-brasileiro/), temos as geradoras como o ponto de partida, produzindo a energia, que será transportada pelas transmissoras até as distribuidoras, que asseguram o fornecimento às residências, comércios e indústrias.
 
 <BR>
 
