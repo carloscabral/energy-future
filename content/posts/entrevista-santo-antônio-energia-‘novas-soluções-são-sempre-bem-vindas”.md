@@ -1,9 +1,7 @@
 ---
 title: "Entrevista Santo Antônio Energia: ‘Novas soluções são sempre bem-vindas”"
 excerpt: Ricardo Barbi Costa, diretor comercial regulatório da Santo Antônio
-  Energia e gestor responsável pela condução do programa de P&D da companhia,
-  comenta a atuação adotada pela empresa durante a pandemia de coronavírus e as
-  atuais estratégias de investimentos em inovação.
+  Energia, comenta as atuais estratégias de inovação da empresa.
 date: 2020-05-11T15:16:02.571Z
 featured_image: /uploads/materia-22-imagem-eft-r1.jpg
 isHighlight: true
@@ -20,7 +18,7 @@ Quarta maior geradora hídrica do país e uma das 20 maiores do mundo, a Hidrel�
 
 Com 50 turbinas, a usina tem potência instalada de 3.568 Megawatts, energia suficiente para o consumo de mais de 45 milhões de brasileiros. Por ser uma hidrelétrica a fio d'água, não dispondo de reservatórios, a Santo Antônio Energia é uma das principais responsáveis, hoje, pela energia gerada no país no cenário de redução do consumo devido à pandemia de coronavírus.
 
-Em entrevista ao portal do Energy Future, o diretor Ricardo Barbi conta como a empresa atua no contexto atual de desafios econômicos, fala também sobre o papel de P&D para a área de inovação da empresa e o novo relacionamento com as startups.
+Em entrevista ao portal do Energy Future, o diretor comercial regulatório da Santo Antônio Energia e gestor responsável pela condução do programa de P&D da companhia, Ricardo Barbi, conta como a empresa atua no contexto atual de desafios econômicos, fala também sobre o papel de P&D para a área de inovação da empresa e o novo relacionamento com as startups.
 
 Leia a entrevista completa.
 
