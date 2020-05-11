@@ -5,7 +5,7 @@ excerpt: Menos palpites, mais dados. Crises reforçam a importância do Big Data
   elétrico.
 date: 2020-04-22T13:07:18.327Z
 featured_image: /uploads/materia-26-imagem-eft.jpg
-isHighlight: true
+isHighlight: false
 tags:
   - Performance e Digitalização
   - Big Data
