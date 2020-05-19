@@ -5,7 +5,7 @@ excerpt: Bruno Cecchetti, diretor de Tecnologia de Rede e Inovação da Enel
   resultados no setor.
 date: 2020-04-27T14:08:33.251Z
 featured_image: /uploads/imagem-mate_ria-enel-eft.jpg
-isHighlight: true
+isHighlight: false
 tags:
   - Enel
   - entrevista
