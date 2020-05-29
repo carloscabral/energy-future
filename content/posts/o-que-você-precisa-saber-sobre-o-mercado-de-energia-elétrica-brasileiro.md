@@ -4,7 +4,7 @@ excerpt: Entenda o modelo brasileiro de comercialização de energia elétrica e
   veja se o seu projeto pode contribuir com os atores desse mercado.
 date: 2020-05-06T15:30:57.455Z
 featured_image: /uploads/materia-27-imagem-eft.jpg
-isHighlight: true
+isHighlight: false
 tags:
   - mercado de energia elétrica
   - comercialização
