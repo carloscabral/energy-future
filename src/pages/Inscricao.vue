@@ -166,10 +166,10 @@ export default {
     max-width: 22rem;
     transition: box-shadow .2s ease;
     @media(min-width: 768px) {
-        height: 28.7rem;
+        height: 30.7rem;
     }
     @media(min-width: 1200px) {
-        height: 32rem;
+        height: 34rem;
     }    
 
     &:hover {
