@@ -12,7 +12,7 @@ tags:
   - evento
 author: Energy Future
 ---
-A organização da chamada do Energy Future anunciou a prorrogação do prazo da etapa de avaliação dos projetos pelas concessionárias. O resultado dos 18 projetos finalistas será divulgado no dia **10 de junho**.
+A organização da chamada do Energy Future anunciou a prorrogação do prazo da etapa de avaliação dos projetos pelas concessionárias. O resultado dos 18 projetos finalistas será divulgado **a partir do dia 10 de junho**.
 
 O impacto do coronavírus na economia e nas medidas de isolamento social também afetou as rotinas das companhias do setor elétrico, que se adaptam para assegurar o fornecimento da energia elétrica aos brasileiros.
 
