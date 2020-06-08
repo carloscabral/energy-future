@@ -4,7 +4,7 @@ excerpt: Ricardo Barbi Costa, diretor comercial regulatório da Santo Antônio
   Energia, comenta as atuais estratégias de inovação da empresa.
 date: 2020-05-11T15:16:02.571Z
 featured_image: /uploads/materia-22-imagem-eft-r1.jpg
-isHighlight: true
+isHighlight: false
 tags:
   - Santo Antônio Energia
   - P&D
