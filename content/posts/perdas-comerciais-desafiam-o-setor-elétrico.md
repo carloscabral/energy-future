@@ -61,7 +61,7 @@ Grande parte das perdas comerciais ocorre no mercado de baixa tensão faturado, 
 
 ![Gráfico 2](/uploads/mate_ria-30-graficos-eft-03.jpg "Gráfico 2")
 
-Para estabelecer uma forma de comparação entre distribuidoras, que atuam em regiões com características completamente distintas, a Aneel desenvolveu uma metodologia que leva em consideração características do mercado e variáveis econômicas como: renda, desigualdade e violência.
+Para estabelecer uma forma de comparação entre distribuidoras, que atuam em regiões com características completamente distintas, a Aneel desenvolveu uma metodologia que leva em consideração características do mercado e variáveis socioeconômicas como: renda, desigualdade e violência.
 
 Dessa forma, o relatório da Aneel apresenta a participação das perdas não técnicas em relação às concessionárias. Segundo a análise, em 2018, as 15 distribuidoras com maiores perdas comerciais representaram quase 80% das perdas não técnicas do país. Somente Light e Amazonas Energia responderam por 31%.
 
