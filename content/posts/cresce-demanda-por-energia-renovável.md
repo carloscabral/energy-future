@@ -5,7 +5,7 @@ excerpt: Em vigor em quase todos os países, medidas de contenção ao coronaví
   energia elétrica.
 date: 2020-05-19T18:46:02.549Z
 featured_image: /uploads/materia-29-imagem-eft.jpg
-isHighlight: true
+isHighlight: false
 tags:
   - geração de energia
   - fontes renováveis
