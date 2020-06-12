@@ -6,7 +6,6 @@ date: 2020-06-12T13:48:21.728Z
 featured_image: /uploads/etapa-06.jpg
 isHighlight: true
 tags:
-  - seleção
   - metodologia EF
   - chamada setorial
 author: Energy Future
