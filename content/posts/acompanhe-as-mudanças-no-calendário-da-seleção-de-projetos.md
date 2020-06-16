@@ -4,7 +4,7 @@ excerpt: Em razão do cenário de coronavírus, foi prorrogada a data da divulga
   dos projetos finalistas da chamada.
 date: 2020-05-29T18:36:47.071Z
 featured_image: /uploads/materia-28-imagem-eft.jpg
-isHighlight: true
+isHighlight: false
 tags:
   - critérios
   - metodologia EF
