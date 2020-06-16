@@ -72,7 +72,7 @@ Por último, o proponente deve demonstrar que possui a capacitação necessária
 
 Sim, todos os projetos qualificados a partir da Triagem Técnica serão enviados às 6 empresas participantes da chamada setorial ao final da seleção do Energy Future.
 
-Destaque: “Todos os projetos qualificados a partir da Triagem Técnica serão enviados às 6 empresas participantes da chamada setorial ao final da seleção do Energy Future”.
+> “Todos os projetos qualificados a partir da Triagem Técnica serão enviados às 6 empresas participantes da chamada setorial ao final da seleção do Energy Future”.
 
 <br>
 
