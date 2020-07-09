@@ -24,7 +24,7 @@ De acordo com os dados da Agência Nacional de Energia Elétrica (Aneel), até a
 
 Na prática, a aplicação da Tarifa Branca impacta na gestão de dados do consumo das utilities de energia. Mais do que nunca, as empresas precisam analisar o enorme volume de dados, variados ao longo do dia, provenientes dos milhões de consumidores. E gerar informações, que traduzam em comportamentos e hábitos da demanda por energia elétrica.
 
-Neste contexto, ganham espaço soluções para [Big Data](https://www.energyfuture.com.br/noticias/crises-potencializam-ainda-mais-uso-de-dados/), com [dispositivos Iot](https://www.energyfuture.com.br/noticias/o-que-voce-sabe-sobre-internet-das-coisas-io-t/) (Internet of Things), que informem em tempo real e online o consumo de domicílios e empresas, que, segundo a agência reguladora, a partir da adesão à nova modalidade de tarifa, pode refletir na redução de 20% no valor da conta.
+Neste contexto, ganham espaço soluções para [Big Data](https://www.energyfuture.com.br/noticias/crises-potencializam-ainda-mais-uso-de-dados/), com [dispositivos IoT](https://www.energyfuture.com.br/noticias/o-que-voce-sabe-sobre-internet-das-coisas-io-t/) (Internet of Things), que informem em tempo real e online o consumo de domicílios e empresas, que, segundo a agência reguladora, a partir da adesão à nova modalidade de tarifa, pode refletir na redução de 20% no valor da conta.
 
 Para garantir a economia no bolso, o cálculo deve ser feito de forma rápida, transparente e segura. O que leva as concessionárias a investirem em tecnologias smart grid, redes inteligentes, responsáveis por arquitetar a distribuição da energia elétrica por meio do fluxo integrado da energia e das informações.
 
@@ -36,11 +36,11 @@ Os benefícios vão desde corte de custos, causados pela impossibilidade de medi
 
 ## Cybersecurity: desafio e oportunidade
 
-Para além das soluções que agreguem de forma inteligente e otimizada dados e informações (Iot, smart grid and meters), a incorporação do setor elétrico à transformação digital impele investimentos em tecnologias de segurança, que mitiguem possíveis vulnerabilidades na infraestrutura.
+Para além das soluções que agreguem de forma inteligente e otimizada dados e informações (IoT, smart grid and meters), a incorporação do setor elétrico à transformação digital impele investimentos em tecnologias de segurança, que mitiguem possíveis vulnerabilidades na infraestrutura.
 
 Junto com expansão das redes de energia inteligentes no país, cresce também a preocupação das empresas com ataques cibernéticos. A digitalização do sistema elétrico, monitorado e operado à distância, abre brechas para invasões.
 
-Dessa forma, empresas demandam propostas que garantam a integridade da [informação](https://www.baguete.com.br/midiakit/) coletada pelos sensores em campo. São requeridas soluções que ofereçam elevado padrão de segurança digital, como as tecnologias usadas em transações bancárias.
+Dessa forma, empresas demandam propostas que garantam a integridade da informação coletada pelos sensores em campo. São requeridas soluções que ofereçam elevado padrão de segurança digital, como as tecnologias usadas em transações bancárias.
 
 <bR>
 
