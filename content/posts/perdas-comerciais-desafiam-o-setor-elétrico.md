@@ -4,7 +4,7 @@ excerpt: Entenda o cenário e veja como as distribuidoras buscam combater furtos
   e fraudes.
 date: 2020-06-08T15:59:46.954Z
 featured_image: /uploads/mate_ria-30-imagem-eft.jpg
-isHighlight: true
+isHighlight: false
 tags:
   - perdas comerciais
   - perdas de energia
