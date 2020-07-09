@@ -40,7 +40,7 @@ Para além das soluções que agreguem de forma inteligente e otimizada dados e 
 
 Junto com expansão das redes de energia inteligentes no país, cresce também a preocupação das empresas com ataques cibernéticos. A digitalização do sistema elétrico, monitorado e operado à distância, abre brechas para invasões.
 
-Dessa forma, empresas demandam propostas que garantam a integridade da [informação](https://www.baguete.com.br/midiakit/) coletada pelos sensores em campo. São requeridas soluções que ofereçam elevado padrão de segurança digital, como as tecnologias usadas em transações bancárias.
+Dessa forma, empresas demandam propostas que garantam a integridade da informação coletada pelos sensores em campo. São requeridas soluções que ofereçam elevado padrão de segurança digital, como as tecnologias usadas em transações bancárias.
 
 <bR>
 
