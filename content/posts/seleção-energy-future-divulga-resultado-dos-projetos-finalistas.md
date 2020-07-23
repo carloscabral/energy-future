@@ -4,7 +4,7 @@ excerpt: 18 projetos vão ter a oportunidade de apresentar suas propostas às
   concessionárias.
 date: 2020-06-12T13:48:21.728Z
 featured_image: /uploads/etapa-06.jpg
-isHighlight: true
+isHighlight: false
 tags:
   - metodologia EF
   - chamada setorial
