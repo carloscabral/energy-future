@@ -26,7 +26,7 @@ O programa de mentoria seguiu com trocas individuais. Foram realizados dois enco
 
 A última etapa da seleção do Energy Future consiste na apresentação dos 18 projetos finalistas às empresas parceiras, que será realizado em dois momentos diferentes, de forma online, para garantir a segurança e a qualidade das interações em um contexto ainda de coronavírus.
 
-Na primeira fase da apresentação, os projetos encaminharam, até o dia 21 de Julho, (terça-feira) o pitch da sua proposta, com vídeo e template de slides, material que será analisado pelas empresas por meio da plataforma de votação exclusiva do Energy Future
+Na primeira fase da apresentação, os projetos encaminharam, até o dia 21 de Julho, (terça-feira) o pitch da sua proposta, com vídeo e  template de slides, material que será analisado pelas empresas por meio da plataforma de votação exclusiva do Energy Future
 
 Na segunda fase, empresas e proponentes fazem trocas diretas na banca online, que será realizada entre os dias 18 e 20 de Agosto. Respeitando a propriedade intelectual de cada proposta, os projetos responderão individualmente às perguntas das empresas.
 
