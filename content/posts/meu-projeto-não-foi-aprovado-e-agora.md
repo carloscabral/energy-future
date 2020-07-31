@@ -4,7 +4,7 @@ excerpt: Não ter uma proposta aprovada pode gerar dúvidas a respeito de quais
   foram os pontos críticos e como poderiam ser melhorados.
 date: 2020-06-16T16:06:58.675Z
 featured_image: /uploads/materia-32-imagem-eft.jpg
-isHighlight: true
+isHighlight: false
 tags:
   - entrevista
   - metodologia EF
