@@ -4,7 +4,7 @@ excerpt: Vigência da nova modalidade de consumo abre mais espaço para soluçõ
   de segurança e de medições inteligentes de energia.
 date: 2020-07-09T18:17:16.051Z
 featured_image: /uploads/mate_ria-33-imagem-r2.jpg
-isHighlight: true
+isHighlight: false
 tags:
   - Iot
   - smart grid
