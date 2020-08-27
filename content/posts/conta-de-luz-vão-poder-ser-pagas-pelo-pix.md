@@ -13,6 +13,8 @@ tags:
   - conta de luz
 author: Energy Future
 ---
+
+
 O Banco Central e a Agência Nacional de Energia Elétrica (ANEEL) anunciaram acordo de cooperação para permitir que contas de luz sejam pagas com o Pix, o sistema brasileiro de pagamentos instantâneos, que será lançado em novembro.
 
 O Pix possibilita que pagamentos sejam realizados em qualquer dia da semana, incluindo feriados e finais de semana, e em qualquer horário, sendo processados em até dez segundos. 
@@ -60,3 +62,13 @@ O Banco Central informou que não será preciso instalar nenhum aplicativo adici
 O sistema brasileiro de pagamentos instantâneos será composto, basicamente, por quatro estruturas: a plataforma Pix; o provedor responsável por liquidar as transações realizadas entre diferentes instituições participantes (SPI); o diretório de identificadores de contas transacionais, que armazenará as informações das chaves PIX ou outros dispositivos que vão identificar as contas dos usuários recebedores (DICT); e as instituições prestadoras de serviços de pagamento do arranjo.
 
 ![](/uploads/info-pagamentos-instantaneos-br-0809-2019-1-.jpg)
+
+## <br>
+
+## Segurança do Pix
+
+As transações realizadas por meio do Pix terão medidas de segurança já incorporadas às transações via TED e DOC – como autenticação e criptografia. 
+
+Quanto a dados pessoais dos usuários, o Banco Central afirma serem protegidos pelo sigilo bancário, de acordo com a Lei Complementar número 105, e também pela Lei Geral de Proteção de Dados, que entrará em 2021.
+
+No caso de eventuais fraudes, por meio do Pix, a responsabilidade caberá às instituições bancárias que oferecerem o serviço, com protocolos que variam nas empresas.
