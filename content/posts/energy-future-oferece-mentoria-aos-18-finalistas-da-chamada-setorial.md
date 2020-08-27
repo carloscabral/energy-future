@@ -4,7 +4,7 @@ excerpt: Participantes tiveram acesso a materiais e a encontros para desenvolver
   o pitch que será apresentado às empresas parceiras.
 date: 2020-07-23T12:46:04.347Z
 featured_image: /uploads/matéria-34-imagem.jpg
-isHighlight: true
+isHighlight: false
 tags:
   - metodologia EF
   - chamada setorial
