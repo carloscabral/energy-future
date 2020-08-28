@@ -1,5 +1,5 @@
 ---
-title: Conta de luz vão poder ser pagas pelo PIX
+title: Contas de luz vão poder ser pagas pelo PIX
 excerpt: O novo sistema de pagamentos instantâneos agiliza processos de
   cobranças e acelera religamentos de energia.
 date: 2020-08-27T13:03:37.269Z
