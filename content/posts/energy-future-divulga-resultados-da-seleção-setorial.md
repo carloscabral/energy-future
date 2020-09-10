@@ -6,13 +6,11 @@ date: 2020-09-10T15:07:34.642Z
 featured_image: /uploads/finalistas_imagem.jpg
 isHighlight: true
 tags:
-  - empreendedorismo
-  - fontes renováveis
-  - investimentos
-  - inovação
-  - setor elétrico
-  - startup
-  - tecnologias
+  - chamada setorial
+  - projetos
+  - resultados
+  - inovação aberta
+  - hub digital
 author: Energy Future
 ---
 Chega ao fim a primeira edição da Seleção Setorial de Inovação Aberta do Energy Future. Após uma longa jornada de imersão à inovação no setor elétrico, as empresas parceiras elegeram os seis projetos que se destacaram pelo potencial de contribuir com as transformações iminentes do mercado de energia.
