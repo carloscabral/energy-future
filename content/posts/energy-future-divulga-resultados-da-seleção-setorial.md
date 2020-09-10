@@ -41,6 +41,6 @@ Os projetos que não foram selecionados como destaques da seleção ainda têm a
 
 “Todos os projetos serão enviados às 6 empresas participantes da chamada setorial ao final da seleção do Energy Future”, informa Oliveira. Ele também complementa com algumas surpresas do hub digital de inovação do setor elétrico.
 
-“Estamos preparando muitas novidades, como eventos, conteúdos exclusivos e novas chamadas para prospecção de projetos para as empresas parceiras.
+“Estamos preparando muitas novidades, como eventos, conteúdos exclusivos e novas chamadas para prospecção de projetos para as empresas parceiras".
 
 Assim, fica o convite. Se você não quer perder nenhuma dessas atualizações, não deixe de acompanhar nossas novidades pelo portal e redes sociais.
