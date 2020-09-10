@@ -4,7 +4,7 @@ excerpt: Entenda o percurso do investimento em inovação e confira dicas sobre
   como submeter um projeto para o programa.
 date: 2020-07-31T13:47:46.434Z
 featured_image: /uploads/matéria-35-imagem.jpg
-isHighlight: true
+isHighlight: false
 tags:
   - Energy Future
   - ANEEL
